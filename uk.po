@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 136061\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-05-13 21:37+0100\n"
+"PO-Revision-Date: 2015-05-13 23:16+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UK\n"
@@ -5873,7 +5873,7 @@ msgstr "МЫШЬЯК"
 #: STRINGS.DAEMONS.ARSENIC.DESC
 msgctxt "STRINGS.DAEMONS.ARSENIC.DESC"
 msgid "Destroys ITEM"
-msgstr "Уничтожает ПРЕДМЕТ"
+msgstr "Знищує РІЧ"
 
 #: STRINGS.DAEMONS.ARSENIC.SHORT_DESC
 msgctxt "STRINGS.DAEMONS.ARSENIC.SHORT_DESC"
@@ -12481,7 +12481,7 @@ msgstr "Этот эффект срабатывает после того, как
 #: STRINGS.ITEMS.KEYWORDS.ITEM.NAME
 msgctxt "STRINGS.ITEMS.KEYWORDS.ITEM.NAME"
 msgid "ITEM"
-msgstr "ПРЕДМЕТ"
+msgstr "РІЧ"
 
 #: STRINGS.ITEMS.KEYWORDS.ITEM.DESC
 msgctxt "STRINGS.ITEMS.KEYWORDS.ITEM.DESC"
@@ -16040,14 +16040,15 @@ msgstr "Incognita обеспечена программой <c:faff0a>ТЬЮРИ
 #: STRINGS.SCREENS.STR_2393715614
 msgctxt "STRINGS.SCREENS.STR_2393715614"
 msgid "NEW PROGRAM INSTALLED"
-msgstr "НОВАЯ ПРОГРАММА"
+msgstr "ВСТАНОВЛЕНА НОВА ПРОГРАМА"
 
 #: STRINGS.SCREENS.STR_1994237377
 msgctxt "STRINGS.SCREENS.STR_1994237377"
 msgid "I N C O G N I T A  I N S T A L L S  A  N E W  P R O G R A M"
-msgstr "I N C O G N I T A  У С Т А Н О В И Л А  Н О В У Ю  П Р О Г Р А М М У"
+msgstr "I N C O G N I T A  В С Т А Н О В И Л А  Н О В У  П Р О Г Р А М У"
 
 #: STRINGS.SCREENS.STR_1998190014
+#, fuzzy
 msgctxt "STRINGS.SCREENS.STR_1998190014"
 msgid "Distracting a guard will cause them to investigate on the enemy's turn."
 msgstr "Привлечённые охранники начинают обыскивать местность во время своего хода."
@@ -16055,49 +16056,50 @@ msgstr "Привлечённые охранники начинают обыск�
 #: STRINGS.SCREENS.STR_1377404146
 msgctxt "STRINGS.SCREENS.STR_1377404146"
 msgid "DISTRACTING GUARDS"
-msgstr "ОТВЛЕЧЕНИЕ ОХРАНЫ"
+msgstr "ВІДВОЛІКТИ ОХОРОНУ"
 
 #: STRINGS.SCREENS.STR_2361291957
 msgctxt "STRINGS.SCREENS.STR_2361291957"
 msgid "M A N I P U L A T E  T H E  G U A R D S"
-msgstr "О Т В Л Е Ч Е Н И Е  О Х Р А Н Ы"
+msgstr "М А Н І П У Л Ю В А Н Н Я  О Х О Р О Н О Ю"
 
 #: STRINGS.SCREENS.STR_550165959
 msgctxt "STRINGS.SCREENS.STR_550165959"
 msgid "PROGRAM NAME"
-msgstr "НАЗВАНИЕ ПРОГРАММЫ"
+msgstr "НАЗВА ПРОГРАМИ"
 
 #: STRINGS.SCREENS.STR_2674367246
 msgctxt "STRINGS.SCREENS.STR_2674367246"
 msgid "MISSION OBJECTIVES"
-msgstr "ЗАДАЧИ МИССИИ"
+msgstr "ЗАВДАННЯ МІСІЇ"
 
 #: STRINGS.SCREENS.STR_1291878040
 msgctxt "STRINGS.SCREENS.STR_1291878040"
 msgid "PRIMARY OBJECTIVES"
-msgstr "ОСНОВНЫЕ ЗАДАЧИ"
+msgstr "ОСНОВНІ ЗАВДАННЯ"
 
 #: STRINGS.SCREENS.STR_1171300678
 msgctxt "STRINGS.SCREENS.STR_1171300678"
 msgid "SECONDARY OBJECTIVES"
-msgstr "ВТОРОСТЕПЕННЫЕ ЗАДАЧИ"
+msgstr "ДРУГОРЯДНІ ЗАВДАННЯ"
 
 #: STRINGS.SCREENS.STR_2436380107
 msgctxt "STRINGS.SCREENS.STR_2436380107"
 msgid "DRAG TO SELL"
-msgstr "ПЕРЕТАЩИТЬ ЧТОБЫ ПРОДАТЬ"
+msgstr "ПЕРЕСУНЬТЕ ЩОБ ПРОДАТИ"
 
 #: STRINGS.SCREENS.STR_3825538568
 msgctxt "STRINGS.SCREENS.STR_3825538568"
 msgid "NEW THREAT DETECTED"
-msgstr "ОБНАРУЖЕНА ОПАСНОСТЬ"
+msgstr "ВИЯВЛЕНА ЗАГРОЗА"
 
 #: STRINGS.SCREENS.STR_3560518070
 msgctxt "STRINGS.SCREENS.STR_3560518070"
 msgid "W A R N I N G"
-msgstr "В Н И М А Н И Е"
+msgstr "У В А Г А"
 
 #: STRINGS.SCREENS.STR_1407718006
+#, fuzzy
 msgctxt "STRINGS.SCREENS.STR_1407718006"
 msgid "Peeking at open doors reveals more information."
 msgstr "Заглядывая в открытые двери можно получить больше информации."
@@ -16105,9 +16107,10 @@ msgstr "Заглядывая в открытые двери можно полу�
 #: STRINGS.SCREENS.STR_2134958199
 msgctxt "STRINGS.SCREENS.STR_2134958199"
 msgid "OPEN DOOR PEEK"
-msgstr "ЗАГЛЯДЫВАНИЕ И ДВЕРИ"
+msgstr "ЗАГЛЯНУТИ У ВІДКРИТІ ДВЕРІ"
 
 #: STRINGS.SCREENS.STR_879562047
+#, fuzzy
 msgctxt "STRINGS.SCREENS.STR_879562047"
 msgid ""
 "Units that are knocked out (KO) will wake up several turns later. Guards will become alert and begin hunting the level for your agents. \n"
@@ -16120,27 +16123,27 @@ msgstr ""
 #: STRINGS.SCREENS.STR_2327109129
 msgctxt "STRINGS.SCREENS.STR_2327109129"
 msgid "KNOCKOUT & PINNING"
-msgstr "ДЕЙСТВИЯ ПРИ НОКАУТЕ"
+msgstr "КО І ВІДКЛЮЧЕННЯ"
 
 #: STRINGS.SCREENS.STR_1781360857
 msgctxt "STRINGS.SCREENS.STR_1781360857"
 msgid "M A N A G I N G  T H R E A T S"
-msgstr "В З А И М О Д Е Й С Т В И Е"
+msgstr "У С У Н Е Н Н Я  З А Г Р О З"
 
 #: STRINGS.SCREENS.STR_287218154
 msgctxt "STRINGS.SCREENS.STR_287218154"
 msgid "KO UNITS WAKE UP"
-msgstr "ПРОТИВНИК ПРИХОДИТ В СЕБЯ"
+msgstr "КО ДОКИ НЕ ПРИЙДЕ ДО СЕБЕ"
 
 #: STRINGS.SCREENS.STR_3757759165
 msgctxt "STRINGS.SCREENS.STR_3757759165"
 msgid "PINNING KEEPS THEM DOWN"
-msgstr "БУДУЧИ ПРИДАВЛЕННЫМИ, ОНИ НЕ ОЧНУТСЯ"
+msgstr "ВІДКЛЮЧЕННЯ ТРИМАЄ ЇХ БЕЗДІЙОВИМИ"
 
 #: STRINGS.SCREENS.STR_3459600002
 msgctxt "STRINGS.SCREENS.STR_3459600002"
 msgid "TRANSMISSION RECEIVED_"
-msgstr "ПОЛУЧЕНА ПЕРЕДАЧА_"
+msgstr "ОТРИМАНА ПЕРЕДАЧА_"
 
 #: STRINGS.SCREENS.STR_186438882
 msgctxt "STRINGS.SCREENS.STR_186438882"
@@ -16164,9 +16167,10 @@ msgstr ""
 #: STRINGS.SCREENS.STR_1313006040
 msgctxt "STRINGS.SCREENS.STR_1313006040"
 msgid "I N C O G N I T A  I S  R U N N I N G  A  P R O G R A M"
-msgstr "И Н К О Г Н И Т А  В Ы П О Л Н Я Е Т  П Р О Г Р А М М У"
+msgstr "I N C O G N I T A  В И К О Н У Є   П Р О Г Р А М У"
 
 #: STRINGS.SCREENS.STR_684470914
+#, fuzzy
 msgctxt "STRINGS.SCREENS.STR_684470914"
 msgid ""
 "Invisible, Inc. is designed as a thrilling experience by creating tough choices with permanent outcomes.\n"
@@ -16184,7 +16188,7 @@ msgstr "ПЕРЕМОТКИ"
 #: STRINGS.SCREENS.STR_1999569527
 msgctxt "STRINGS.SCREENS.STR_1999569527"
 msgid "L I M I T E D  T E M P O R A L  C O N T R O L  T E C H N O L O G Y"
-msgstr "Т Е Х Н О Л О Г И Я  О Г Р А Н И Ч Е Н Н О Г О  К О Н Т Р О Л Я  В Р Е М Е Н И"
+msgstr "Т Е Х Н О Л О Г І Я  К О Н Т Р О Л Ю  О Б М Е Ж Е Н Н Я  Ч А С У"
 
 #: STRINGS.SCREENS.STR_2286587580
 msgctxt "STRINGS.SCREENS.STR_2286587580"
@@ -16193,49 +16197,49 @@ msgid ""
 "\n"
 "Would you like to do so now?"
 msgstr ""
-"ПЕРЕМОТКА вернёт симуляцию назад к началу предыдущего хода.\n"
+"ПЕРЕМОТКА поверне назад симуляцію до початку вашого попереднього ходу.\n"
 "\n"
-"Хотите сделать это сейчас?"
+"Хочете перемотати?"
 
 #: STRINGS.SCREENS.STR_1657010214
 msgctxt "STRINGS.SCREENS.STR_1657010214"
 msgid "REWIND THE GAME"
-msgstr "ПЕРЕМОТАТЬ ИГРУ"
+msgstr "ПЕРЕМОТАТИ ГРУ"
 
 #: STRINGS.SCREENS.STR_1691431868
 msgctxt "STRINGS.SCREENS.STR_1691431868"
 msgid "C A U T I O N  > >  L I M I T E D  T E M P O R A L  C O N T R O L"
-msgstr "В Н И М А Н И Е  > >  О Г Р А Н И Ч Е Н Н Ы Й  К О Н Т Р О Л Ь  В Р Е М Е Н И"
+msgstr "У В А Г А  > >  К О Н Т Р О Л Ь  О Б М Е Ж Е Н Н Я  Ч А С У"
 
 #: STRINGS.SCREENS.STR_1035762089
 msgctxt "STRINGS.SCREENS.STR_1035762089"
 msgid "PLAY STORY"
-msgstr "НАЧАТЬ СЮЖЕТ"
+msgstr "ГРАТИ СЮЖЕТ"
 
 #: STRINGS.SCREENS.STR_1235828106
 msgctxt "STRINGS.SCREENS.STR_1235828106"
 msgid "PLAY TUTORIAL"
-msgstr "ПРОЙТИ ОБУЧЕНИЕ"
+msgstr "ПРОЙТИ НАВЧАННЯ"
 
 #: STRINGS.SCREENS.STR_2257412423
 msgctxt "STRINGS.SCREENS.STR_2257412423"
 msgid "CONTINUE"
-msgstr "ПРОДОЛЖИТЬ"
+msgstr "ПРОДОВЖИТИ"
 
 #: STRINGS.SCREENS.STR_3473819026
 msgctxt "STRINGS.SCREENS.STR_3473819026"
 msgid "DELETE SAVE"
-msgstr "УДАЛИТЬ СОХРАНЕНИЕ"
+msgstr "ВИДАЛИТИ ЗБЕРЕЖЕННЯ"
 
 #: STRINGS.SCREENS.STR_2127324410
 msgctxt "STRINGS.SCREENS.STR_2127324410"
 msgid "CANCEL"
-msgstr "ОТМЕНА"
+msgstr "ВІДМІНА"
 
 #: STRINGS.SCREENS.STR_3656310952
 msgctxt "STRINGS.SCREENS.STR_3656310952"
 msgid "Please provide a valid email and birthdate"
-msgstr "Пожалуйста, впишите ваш email и укажите дату рождения"
+msgstr "Будь-ласка, вкажіть ваш email і  дату народження"
 
 #: STRINGS.SCREENS.STR_3419756252
 msgctxt "STRINGS.SCREENS.STR_3419756252"
@@ -16245,24 +16249,26 @@ msgstr "Email"
 #: STRINGS.SCREENS.STR_3523195496
 msgctxt "STRINGS.SCREENS.STR_3523195496"
 msgid "Date of Birth"
-msgstr "Дата рождения"
+msgstr "День народження"
 
 #: STRINGS.SCREENS.STR_2992547510
 msgctxt "STRINGS.SCREENS.STR_2992547510"
 msgid "Country"
-msgstr "Страна"
+msgstr "Країна"
 
 #: STRINGS.SCREENS.STR_2624420368
 msgctxt "STRINGS.SCREENS.STR_2624420368"
 msgid "NOTIFY ME ON UPDATES\n"
-msgstr "Подписаться на обновления\n"
+msgstr "Підписка на оновлення\n"
 
 #: STRINGS.SCREENS.STR_3148742419
+#, fuzzy
 msgctxt "STRINGS.SCREENS.STR_3148742419"
 msgid "Would you like to be notified when the next build comes out? Sign up below!"
 msgstr "Хотели бы вы, чтобы вас уведомляли, когда выйдет новая сборка? Подписывайтесь ниже!"
 
 #: STRINGS.SCREENS.STR_3150045031
+#, fuzzy
 msgctxt "STRINGS.SCREENS.STR_3150045031"
 msgid "A guard is about to shoot your agent. Your agent has a chance to escape by quickly hiding behind any cover one square away or by having another agent give support."
 msgstr "Охранник собирается стрелять в агента. Ваш агент может быстро спрятаться за любым укрытием в радиусе одного квадрата. Также вы можете послать другого агента на помощь."
@@ -16270,22 +16276,22 @@ msgstr "Охранник собирается стрелять в агента. 
 #: STRINGS.SCREENS.STR_2405496117
 msgctxt "STRINGS.SCREENS.STR_2405496117"
 msgid "GETTING SPOTTED"
-msgstr "ЕСЛИ ВАС ЗАМЕТИЛИ"
+msgstr "ВАС ПОМІТИЛИ"
 
 #: STRINGS.SCREENS.STR_3539514577
 msgctxt "STRINGS.SCREENS.STR_3539514577"
 msgid "C A U G H T  B Y  A  G U A R D"
-msgstr "П О Й М А Н  О Х Р А Н Н И К О М"
+msgstr "П О П А Л И С Ь  О Х О Р О Н Ц Ю"
 
 #: STRINGS.SCREENS.STR_2819297958
 msgctxt "STRINGS.SCREENS.STR_2819297958"
 msgid " MOVE INTO COVER"
-msgstr "ПРЯЧТЕСЬ ЗА УКРЫТИЕ"
+msgstr "ХОВАЙТЕСЬ ЗА УКРИТТЯ"
 
 #: STRINGS.SCREENS.STR_2074798919
 msgctxt "STRINGS.SCREENS.STR_2074798919"
 msgid "GET HELP FROM ANOTHER AGENT"
-msgstr "ПОМОГАЙТЕ ДРУГИМ АГЕНТОМ"
+msgstr "ДОПОМОГА ІНШОГО АГЕНТА"
 
 #: STRINGS.SCREENS.STR_492921971
 msgctxt "STRINGS.SCREENS.STR_492921971"
@@ -16293,28 +16299,28 @@ msgid ""
 "End Transmission\n"
 "HOTKEY: <c:FF8411>[ Esc ]</c>"
 msgstr ""
-"Конец передачи\n"
-"ГОРЯЧАЯ КЛАВИША: <c:FF8411>[ Esc ]</c>"
+"Кінець передачі\n"
+"ГАРЯЧА КЛАВІША: <c:FF8411>[ Esc ]</c>"
 
 #: STRINGS.SCREENS.STR_423926352
 msgctxt "STRINGS.SCREENS.STR_423926352"
 msgid "Hold [ ALT ] in order to get a better view of the map"
-msgstr "Удерживайте [ ALT ], чтобы лучше видеть карту."
+msgstr "Натисніть і тримайте [ ALT ], щоб покращити вигляд карти."
 
 #: STRINGS.SCREENS.STR_4155824738
 msgctxt "STRINGS.SCREENS.STR_4155824738"
 msgid "TACTICAL VIEW"
-msgstr "ТАКТИЧЕСКИЙ ВИД"
+msgstr "ВИД ДЛЯ ТАКТИКИ"
 
 #: STRINGS.SCREENS.STR_2089085238
 msgctxt "STRINGS.SCREENS.STR_2089085238"
 msgid "E M P L O Y  R E C O N N A I S S A N C E"
-msgstr "М Е Т О Д Ы  Р А З В Е Д К И"
+msgstr "М Е Т О Д И  Р О З В І Д К И"
 
 #: STRINGS.SCREENS.STR_1882083802
 msgctxt "STRINGS.SCREENS.STR_1882083802"
 msgid "The game moves in turns. Once you are finished your moves, end your turn and the enemy makes theirs."
-msgstr "Игра является пошаговой. Когда вы заканчиваете раздавать команды, вы оканчиваете свой ход и наступает черёд противника."
+msgstr "Гра реалізована покроково. Коли ви закінчили свої дії, закінчіть свій хід і противник зробить свої."
 
 #: STRINGS.SCREENS.STR_165152807
 msgctxt "STRINGS.SCREENS.STR_165152807"
@@ -16324,12 +16330,12 @@ msgstr "ГРАТИ ПОКРОКОВО"
 #: STRINGS.SCREENS.STR_2430557021
 msgctxt "STRINGS.SCREENS.STR_2430557021"
 msgid "A C T I O N  P L A N N I N G  A L L O W A N C E"
-msgstr "В О З М О Ж Н О С Т Ь  П Л А Н И Р О В А Т Ь  Д Е Й С Т В И Я"
+msgstr "М О Ж Л И В І С Т Ь  П Л А Н У В А Н Н Я  Д І Й"
 
 #: STRINGS.SCREENS.STR_582781778
 msgctxt "STRINGS.SCREENS.STR_582781778"
 msgid "MISSIONS COMPLETED"
-msgstr "МИССИЯ ЗАВЕРШЕНА"
+msgstr "МІССІЯ ЗАКІНЧЕНА"
 
 #: STRINGS.SCREENS.STR_416224050
 msgctxt "STRINGS.SCREENS.STR_416224050"
@@ -16354,22 +16360,22 @@ msgstr "="
 #: STRINGS.SCREENS.STR_773762347
 msgctxt "STRINGS.SCREENS.STR_773762347"
 msgid "Name"
-msgstr "Имя"
+msgstr "Ім'я"
 
 #: STRINGS.SCREENS.STR_4101678630
 msgctxt "STRINGS.SCREENS.STR_4101678630"
 msgid "ACTIVE"
-msgstr "АКТИВНО"
+msgstr "ДІЮЧИЙ"
 
 #: STRINGS.SCREENS.STR_273365031
 msgctxt "STRINGS.SCREENS.STR_273365031"
 msgid "SPEED"
-msgstr "СКОРОСТЬ"
+msgstr "ШВИДКІСТЬ"
 
 #: STRINGS.SCREENS.STR_1395012065
 msgctxt "STRINGS.SCREENS.STR_1395012065"
 msgid "HACKING"
-msgstr "ВЗЛОМ"
+msgstr "ЗЛОМ"
 
 #: STRINGS.SCREENS.STR_696631457
 msgctxt "STRINGS.SCREENS.STR_696631457"
@@ -16379,12 +16385,12 @@ msgstr "СИЛА"
 #: STRINGS.SCREENS.STR_1394029910
 msgctxt "STRINGS.SCREENS.STR_1394029910"
 msgid "ANARCHY"
-msgstr "АНАРХИЯ"
+msgstr "АНАРХІЯ"
 
 #: STRINGS.SCREENS.STR_3982029207
 msgctxt "STRINGS.SCREENS.STR_3982029207"
 msgid "ITEMS + AUGMENTS"
-msgstr "ПРЕДМЕТЫ + УЛУЧШЕНИЯ"
+msgstr "РЕЧІ + ПОКРАЩАННЯ"
 
 #: STRINGS.SCREENS.STR_1079594648
 msgctxt "STRINGS.SCREENS.STR_1079594648"
@@ -16394,7 +16400,7 @@ msgstr "ШАЛЕМ 11"
 #: STRINGS.SCREENS.STR_4011540490
 msgctxt "STRINGS.SCREENS.STR_4011540490"
 msgid "NEW AGENTS <c:F4FF78F>UNLOCKED</>\n"
-msgstr "<c:F4FF78F>ОТКРЫТЫ</> НОВЫЕ АГЕНТЫ\n"
+msgstr "<c:F4FF78F>ВІДКРИТІ</> НОВІ АГЕНТИ\n"
 
 #: STRINGS.SCREENS.STR_3279998
 msgctxt "STRINGS.SCREENS.STR_3279998"
@@ -16404,9 +16410,10 @@ msgstr "20"
 #: STRINGS.SCREENS.STR_712155883
 msgctxt "STRINGS.SCREENS.STR_712155883"
 msgid "NEW PROGRAMS <c:F4FF78F>UNLOCKED</>\n"
-msgstr "<c:F4FF78F>ДОСТУПНЫ</> НОВЫЕ ПРОГРАММЫ\n"
+msgstr "<c:F4FF78F>ДОСТУПНІ</> НОВІ ПРОГРАМИ\n"
 
 #: STRINGS.SCREENS.STR_2605667627
+#, fuzzy
 msgctxt "STRINGS.SCREENS.STR_2605667627"
 msgid ""
 "Since you last played this mission, Invisible, Inc. has been updated to include some balance changes and hotfixes. We try hard not to do this often, and to maintain compatibility and preserve your campaign, we have rewound the simulation to the beginning of the level with a new generation seed.\n"
@@ -16420,7 +16427,7 @@ msgstr ""
 #: STRINGS.SCREENS.STR_1167746825
 msgctxt "STRINGS.SCREENS.STR_1167746825"
 msgid "NEW UPDATE"
-msgstr "НОВОЕ ОБНОВЛЕНИЕ"
+msgstr "НОВЕ ОНОВЛЕННЯ"
 
 #: STRINGS.SCREENS.STR_1855685879
 msgctxt "STRINGS.SCREENS.STR_1855685879"
@@ -16440,57 +16447,58 @@ msgstr "ВІДЕО"
 #: STRINGS.SCREENS.STR_1890824930
 msgctxt "STRINGS.SCREENS.STR_1890824930"
 msgid "Colour Blind Settings"
-msgstr "Настройки для дальтоников"
+msgstr "Настройки для дальтоніків"
 
 #: STRINGS.SCREENS.STR_3568480514
 msgctxt "STRINGS.SCREENS.STR_3568480514"
 msgid "Display"
-msgstr "Монитор"
+msgstr "Монітор"
 
 #: STRINGS.SCREENS.STR_240466284
+#, fuzzy
 msgctxt "STRINGS.SCREENS.STR_240466284"
 msgid "Resolution"
-msgstr "Разрешение"
+msgstr "Розширення"
 
 #: STRINGS.SCREENS.STR_3987801701
 msgctxt "STRINGS.SCREENS.STR_3987801701"
 msgid "Refresh Rate"
-msgstr "Частота обновления"
+msgstr "Частота оновлення"
 
 #: STRINGS.SCREENS.STR_2981901885
 msgctxt "STRINGS.SCREENS.STR_2981901885"
 msgid "Full Screen"
-msgstr "Полноэкранный режим"
+msgstr "Повно-екранний режим"
 
 #: STRINGS.SCREENS.STR_1904672689
 msgctxt "STRINGS.SCREENS.STR_1904672689"
 msgid "Vsync"
-msgstr "Вертикальная синхронизация"
+msgstr "Вертикальна синхронізація"
 
 #: STRINGS.SCREENS.STR_1328993414
 msgctxt "STRINGS.SCREENS.STR_1328993414"
 msgid "Lighting FX"
-msgstr "Эффекты освещения"
+msgstr "Ефекти освітлення"
 
 #: STRINGS.SCREENS.STR_141375972
 msgctxt "STRINGS.SCREENS.STR_141375972"
 msgid "Background FX"
-msgstr "Фоновые эффекты"
+msgstr "Фонові ефекти"
 
 #: STRINGS.SCREENS.STR_589926612
 msgctxt "STRINGS.SCREENS.STR_589926612"
 msgid "Full Decor"
-msgstr "Полноценное оформление"
+msgstr "Повне оформлення"
 
 #: STRINGS.SCREENS.STR_3631498147
 msgctxt "STRINGS.SCREENS.STR_3631498147"
 msgid "Bloom"
-msgstr "Свечение"
+msgstr "Яскравість свічіння"
 
 #: STRINGS.SCREENS.STR_916358079
 msgctxt "STRINGS.SCREENS.STR_916358079"
 msgid "Shadow Quality"
-msgstr "Качество теней"
+msgstr "Якість тіней"
 
 #: STRINGS.SCREENS.STR_3920519599
 msgctxt "STRINGS.SCREENS.STR_3920519599"
@@ -16500,12 +16508,12 @@ msgstr "ЗВУК"
 #: STRINGS.SCREENS.STR_338520885
 msgctxt "STRINGS.SCREENS.STR_338520885"
 msgid "Music Volume"
-msgstr "Громкость музыки"
+msgstr "Гучність музики"
 
 #: STRINGS.SCREENS.STR_1871560216
 msgctxt "STRINGS.SCREENS.STR_1871560216"
 msgid "Sound Effect Volume"
-msgstr "Громкость звуковых эффектов"
+msgstr "Гучність звукових ефектів"
 
 #: STRINGS.SCREENS.STR_2417278022
 msgctxt "STRINGS.SCREENS.STR_2417278022"
@@ -16515,12 +16523,12 @@ msgstr "ІГРОЛАД"
 #: STRINGS.SCREENS.STR_615592795
 msgctxt "STRINGS.SCREENS.STR_615592795"
 msgid "Edge Pan Distance"
-msgstr "Шаг панорамирования"
+msgstr "Відстань панорамування"
 
 #: STRINGS.SCREENS.STR_4264818721
 msgctxt "STRINGS.SCREENS.STR_4264818721"
 msgid "Edge Pan Speed"
-msgstr "Скорость панорамирования"
+msgstr "Швидкість панорамування"
 
 #: STRINGS.SCREENS.STR_407962545
 msgctxt "STRINGS.SCREENS.STR_407962545"
@@ -16530,62 +16538,62 @@ msgstr "100"
 #: STRINGS.SCREENS.STR_3001980105
 msgctxt "STRINGS.SCREENS.STR_3001980105"
 msgid "Fast mode increases the speed at which agents and guards walk during gameplay."
-msgstr "Быстрый режим увеличивает скорость, с которой ходят агенты и охранники."
+msgstr "Швидкий режим прискорю швидкість руху агентів і охорони під час гри."
 
 #: STRINGS.SCREENS.STR_2874856871
 msgctxt "STRINGS.SCREENS.STR_2874856871"
 msgid "Fast Mode"
-msgstr "Быстрый режим"
+msgstr "Швидкий режим"
 
 #: STRINGS.SCREENS.STR_4112987787
 msgctxt "STRINGS.SCREENS.STR_4112987787"
 msgid "If disabled, metrics regarding gameplay and play time will not be sent. No personal information is ever included whether metrics are enabled or not."
-msgstr "Если отключить, игра не будет отсылать метрические данные о ходе и продолжительности игры. Персональная информация не отсылается даже во включённом состоянии."
+msgstr "Забороніть надсилати метричні дані стосовно вашого стилю гри і потраченого часу. В любому випадку дані залишаються анонімними."
 
 #: STRINGS.SCREENS.STR_822622234
 msgctxt "STRINGS.SCREENS.STR_822622234"
 msgid "Metric Data"
-msgstr "Метрические данные"
+msgstr "Метрики"
 
 #: STRINGS.SCREENS.STR_1817974562
 msgctxt "STRINGS.SCREENS.STR_1817974562"
 msgid "Send Metric Data"
-msgstr "Послать метрические данные"
+msgstr "Надсилати метрики"
 
 #: STRINGS.SCREENS.STR_324160630
 msgctxt "STRINGS.SCREENS.STR_324160630"
 msgid "Determines whether automated camera pans are used during gameplay."
-msgstr "Определяет, используется ли автоматическое или ручное управление камерой."
+msgstr "Визначає, ручне чи автоматичне управління камерою під час гри."
 
 #: STRINGS.SCREENS.STR_245008767
 msgctxt "STRINGS.SCREENS.STR_245008767"
 msgid "Manual Camera"
-msgstr "Ручное управление камерой"
+msgstr "Ручне управління камерою"
 
 #: STRINGS.SCREENS.STR_1085259480
 msgctxt "STRINGS.SCREENS.STR_1085259480"
 msgid "Language"
-msgstr "Язык"
+msgstr "Мова"
 
 #: STRINGS.SCREENS.STR_863471510
 msgctxt "STRINGS.SCREENS.STR_863471510"
 msgid "View the Steam Workshop to find and subscribe to more language packs."
-msgstr "Посетите Steam Workshop, чтобы найти другие языковые пакеты и подписаться на них."
+msgstr "Відвідайте Steam Workshop, щоб знайти і підписатись на більше мовних пакетів."
 
 #: STRINGS.SCREENS.STR_2558803512
 msgctxt "STRINGS.SCREENS.STR_2558803512"
 msgid "Subscribed Language Packs"
-msgstr "Подписанные языковые пакеты"
+msgstr "Підписані мовні пакети"
 
 #: STRINGS.SCREENS.STR_3253417815
 msgctxt "STRINGS.SCREENS.STR_3253417815"
 msgid "Determines whether captions for voice dialogue are shown in game."
-msgstr "Определяет, показываются ли титры к голосовым диалогам в игре"
+msgstr "Визначає, чи показувати титри до голосових діалогів у грі."
 
 #: STRINGS.SCREENS.STR_1446328094
 msgctxt "STRINGS.SCREENS.STR_1446328094"
 msgid "Voice-over Captions"
-msgstr "Титры к диалогам персонажей"
+msgstr "Титри діалогів"
 
 #: STRINGS.SCREENS.STR_4244907661
 msgctxt "STRINGS.SCREENS.STR_4244907661"
@@ -16595,32 +16603,32 @@ msgstr "Заголовки"
 #: STRINGS.SCREENS.STR_3416994251
 msgctxt "STRINGS.SCREENS.STR_3416994251"
 msgid "After subscribing to a Language Pack on Steam Workshop, refresh the list of available languages."
-msgstr "После подписки на языковой пакет в Steam Workshop, обновите список доступных языков в игре."
+msgstr "Після підписки на мовний пакет в Steam Workshop, оновіть список доступних мов у грі."
 
 #: STRINGS.SCREENS.STR_1398683546
 msgctxt "STRINGS.SCREENS.STR_1398683546"
 msgid "Refresh Subscribed Languages"
-msgstr "Обновить подписанные языки"
+msgstr "Оновити підписані мови"
 
 #: STRINGS.SCREENS.STR_1833920854
 msgctxt "STRINGS.SCREENS.STR_1833920854"
 msgid "REFRESH LANGUAGES"
-msgstr "ОБНОВИТЬ ЯЗЫКИ"
+msgstr "ОНОВИТИ МОВИ"
 
 #: STRINGS.SCREENS.STR_1408759822
 msgctxt "STRINGS.SCREENS.STR_1408759822"
 msgid "View the Steam Workshop to find additional Language Packs to subscribe to."
-msgstr "Посетите Steam Workshop, чтобы проверить наличие дополнительных языков, на которые можно было бы подписаться."
+msgstr "Перегляньте Steam Workshop, щоб знайти додаткові мовні пакети, на які можна підписатись."
 
 #: STRINGS.SCREENS.STR_3972743858
 msgctxt "STRINGS.SCREENS.STR_3972743858"
 msgid "View Steam Workshop"
-msgstr "Показать Steam Workshop"
+msgstr "Показати Steam Workshop"
 
 #: STRINGS.SCREENS.STR_4219267394
 msgctxt "STRINGS.SCREENS.STR_4219267394"
 msgid "VIEW WORKSHOP"
-msgstr "ПОКАЗАТЬ WORKSHOP"
+msgstr "ПОКАЗАТИ WORKSHOP"
 
 #: STRINGS.SCREENS.STR_700433750
 msgctxt "STRINGS.SCREENS.STR_700433750"
@@ -16630,7 +16638,7 @@ msgstr "КЕРУВАННЯ"
 #: STRINGS.SCREENS.STR_1788677343
 msgctxt "STRINGS.SCREENS.STR_1788677343"
 msgid "RESET BINDINGS"
-msgstr "СБРОСИТЬ КЛАВИШИ"
+msgstr "СКИНУТИ КЛАВІШІ"
 
 #: STRINGS.SCREENS.STR_3969778286
 msgctxt "STRINGS.SCREENS.STR_3969778286"
@@ -16640,17 +16648,17 @@ msgstr "ПАУЗА"
 #: STRINGS.SCREENS.STR_2014426639
 msgctxt "STRINGS.SCREENS.STR_2014426639"
 msgid "Save the game and exit to the Main Menu"
-msgstr "Сохранить игру и выйти в главное меню"
+msgstr "Зберегти гру і вийти у головне меню"
 
 #: STRINGS.SCREENS.STR_3625772178
 msgctxt "STRINGS.SCREENS.STR_3625772178"
 msgid "SAVE / EXIT"
-msgstr "СОХРАНИТЬСЯ / ВЫЙТИ"
+msgstr "ЗБЕРЕЖЕННЯ / ВИХІД"
 
 #: STRINGS.SCREENS.STR_4111271185
 msgctxt "STRINGS.SCREENS.STR_4111271185"
 msgid "View gameplay and graphics options"
-msgstr "Посмотреть настройки игры и графики"
+msgstr "Переглянути налаштування гри і графіки"
 
 #: STRINGS.SCREENS.STR_2743432382
 msgctxt "STRINGS.SCREENS.STR_2743432382"
@@ -16660,12 +16668,12 @@ msgstr "НАЛАШТУВАННЯ"
 #: STRINGS.SCREENS.STR_413948372
 msgctxt "STRINGS.SCREENS.STR_413948372"
 msgid "Resume the game"
-msgstr "Вернуться в игру"
+msgstr "Повернутись у гру"
 
 #: STRINGS.SCREENS.STR_3432956013
 msgctxt "STRINGS.SCREENS.STR_3432956013"
 msgid "RESUME"
-msgstr "НАЗАД"
+msgstr "ПРОДОВЖИТИ"
 
 #: STRINGS.SCREENS.STR_3741318937
 msgctxt "STRINGS.SCREENS.STR_3741318937"
@@ -16674,74 +16682,74 @@ msgid ""
 "Execute dissolution protocols.\n"
 "The corporations win this time."
 msgstr ""
-"<c:8CFFFF>РАСПУСТИТЬ АГЕНТСТВО</c>\n"
-"Выполнить протокол роспуска агентства.\n"
-"На этот раз корпорации победят."
+"<c:8CFFFF>РОЗПУСТИТИ АГЕНЦІЮ</c>\n"
+"Виконати прототокол розпуску.\n"
+"На цей раз корпорації перемогли."
 
 #: STRINGS.SCREENS.STR_3821623018
 msgctxt "STRINGS.SCREENS.STR_3821623018"
 msgid "RETIRE AGENCY"
-msgstr "РАСПУСТИТЬ АГЕНТСТВО"
+msgstr "РОЗПУСТИТИ АГЕНЦІЮ"
 
 #: STRINGS.SCREENS.STR_3913445500
 msgctxt "STRINGS.SCREENS.STR_3913445500"
 msgid "ABORT MISSION"
-msgstr "ПРЕРВАТЬ МИССИЮ"
+msgstr "ОБІРВАТИ МІСІЮ"
 
 #: STRINGS.SCREENS.STR_2515634607
 msgctxt "STRINGS.SCREENS.STR_2515634607"
 msgid "Review the items learned from the tutorial"
-msgstr "Повторить вещи, изученные в обучающем курсе"
+msgstr "Оглянути речі вивчені у навчальному курсі"
 
 #: STRINGS.SCREENS.STR_279415059
 msgctxt "STRINGS.SCREENS.STR_279415059"
 msgid "HELP BOOKLET"
-msgstr "ВСПОМОГАТЕЛЬНЫЙ ДНЕВНИК"
+msgstr "КНИЖКА ДОПОМОГИ"
 
 #: STRINGS.SCREENS.STR_976612551
 msgctxt "STRINGS.SCREENS.STR_976612551"
 msgid "INVENTORY / SELL ITEMS"
-msgstr "ИНВЕНТАРЬ / ПРОДАТЬ ПРЕДМЕТЫ"
+msgstr "ІНВЕНТАР / ПРОДАТИ РЕЧІ"
 
 #: STRINGS.SCREENS.STR_959678573
 msgctxt "STRINGS.SCREENS.STR_959678573"
 msgid "BUYBACK"
-msgstr "ВЫКУПИТЬ"
+msgstr "ВИКУПИТИ"
 
 #: STRINGS.SCREENS.STR_2618909495
 msgctxt "STRINGS.SCREENS.STR_2618909495"
 msgid "WEAPONS"
-msgstr "ОРУЖИЕ"
+msgstr "ЗБРОЯ"
 
 #: STRINGS.SCREENS.STR_590530336
 msgctxt "STRINGS.SCREENS.STR_590530336"
 msgid "ITEMS"
-msgstr "ПРЕДМЕТЫ"
+msgstr "РЕЧІ"
 
 #: STRINGS.SCREENS.STR_1564925216
 msgctxt "STRINGS.SCREENS.STR_1564925216"
 msgid "CONFIRM"
-msgstr "ПОДТВЕРДИТЬ"
+msgstr "ПІДТВЕРДИТИ"
 
 #: STRINGS.SCREENS.STR_2353183188
 msgctxt "STRINGS.SCREENS.STR_2353183188"
 msgid "Press [ ESC ] to skip"
-msgstr "НАЖМИТЕ [ ESC ], чтобы пропустить"
+msgstr "Натисніть [ ESC ], щоб пропустити"
 
 #: STRINGS.SCREENS.STR_557527194
 msgctxt "STRINGS.SCREENS.STR_557527194"
 msgid "REQUIRES MORE XP TO UNLOCK"
-msgstr "НЕОБХОДИМО БОЛЬШЕ ОПЫТА, ЧТОБЫ РАЗБЛОКИРОВАТЬ"
+msgstr "ПОТРІБНО БІЛЬШЕ ДОСВІДУ ЩОБ РОЗБЛОКУВАТИ"
 
 #: STRINGS.SCREENS.STR_1990665820
 msgctxt "STRINGS.SCREENS.STR_1990665820"
 msgid "ITEMS & AUGMENTS"
-msgstr "ПРЕДМЕТЫ И УЛУЧШЕНИЯ"
+msgstr "РЕЧІ І ПОКРАЩЕННЯ"
 
 #: STRINGS.SCREENS.STR_1098784393
 msgctxt "STRINGS.SCREENS.STR_1098784393"
 msgid "Select your difficulty and other game options."
-msgstr "Выберите сложность и другие игровые настройки."
+msgstr "Виберіть бажану складність та інші опції ігроладу."
 
 #: STRINGS.SCREENS.STR_1704832402
 msgctxt "STRINGS.SCREENS.STR_1704832402"
@@ -16751,47 +16759,47 @@ msgstr "< НАЛАШТУВАННЯ КАМПАНІЇ"
 #: STRINGS.SCREENS.STR_3267747389
 msgctxt "STRINGS.SCREENS.STR_3267747389"
 msgid "Start the campaign"
-msgstr "Начать кампанию"
+msgstr "Почати компанію"
 
 #: STRINGS.SCREENS.STR_851442695
 msgctxt "STRINGS.SCREENS.STR_851442695"
 msgid "> BEGIN"
-msgstr "> НАЧАТЬ"
+msgstr "> ПОЧАТИ"
 
 #: STRINGS.SCREENS.STR_992043014
 msgctxt "STRINGS.SCREENS.STR_992043014"
 msgid "SELECT YOUR TEAM"
-msgstr "ВЫБЕРИТЕ СЕБЕ КОМАНДУ"
+msgstr "ВИБІР СВОЄЇ КОМАНДИ"
 
 #: STRINGS.SCREENS.STR_4016574117
 msgctxt "STRINGS.SCREENS.STR_4016574117"
 msgid "AVAILABLE AGENTS"
-msgstr "ДОСТУПНЫЕ АГЕНТЫ"
+msgstr "ДОСТУПНІ АГЕНТИ"
 
 #: STRINGS.SCREENS.STR_1163561491
 msgctxt "STRINGS.SCREENS.STR_1163561491"
 msgid "Select a random set of starting agents and programs."
-msgstr "Подобрать случайный набор агентов и программ для начала."
+msgstr "Вибрати випадковий набір початкових агентів і програм."
 
 #: STRINGS.SCREENS.STR_4060478193
 msgctxt "STRINGS.SCREENS.STR_4060478193"
 msgid "RANDOMIZE"
-msgstr "СЛУЧАЙНО"
+msgstr "ВИПАДКОВО"
 
 #: STRINGS.SCREENS.STR_2423147759
 msgctxt "STRINGS.SCREENS.STR_2423147759"
 msgid "PROGRAMS"
-msgstr "<font1_24_r>ПРОГРАММЫ</>"
+msgstr "<font1_24_r>ПРОГРАМИ</>"
 
 #: STRINGS.SCREENS.STR_2483091050
 msgctxt "STRINGS.SCREENS.STR_2483091050"
 msgid "This is your currently selected difficulty setting. Choose your difficulty and other gameplay options by going to the Campaign Options."
-msgstr "Это текущие настройки выбранной вами сложности. Сложность и её настройки можно выбрать в опциях кампании."
+msgstr "Актуальні налаштування вибраного рівня складності. Вибрати бажану складність і опції ігроладу можна у налаштуваннях кампанії."
 
 #: STRINGS.SCREENS.STR_3610168718
 msgctxt "STRINGS.SCREENS.STR_3610168718"
 msgid "AMMO"
-msgstr "ЗАРЯДЫ"
+msgstr "АМУНІЦІЯ"
 
 #: STRINGS.SCREENS.STR_3601423954
 msgctxt "STRINGS.SCREENS.STR_3601423954"
@@ -16801,32 +16809,32 @@ msgstr "Кнопка"
 #: STRINGS.SCREENS.STR_4178687125
 msgctxt "STRINGS.SCREENS.STR_4178687125"
 msgid "LEVEL 1"
-msgstr "УРОВЕНЬ 1"
+msgstr "РІВЕНЬ 1"
 
 #: STRINGS.SCREENS.STR_4178687126
 msgctxt "STRINGS.SCREENS.STR_4178687126"
 msgid "LEVEL 2"
-msgstr "УРОВЕНЬ 2"
+msgstr "РІВЕНЬ 2"
 
 #: STRINGS.SCREENS.STR_4178687127
 msgctxt "STRINGS.SCREENS.STR_4178687127"
 msgid "LEVEL 3"
-msgstr "УРОВЕНЬ 3"
+msgstr "РІВЕНЬ 3"
 
 #: STRINGS.SCREENS.STR_4178687128
 msgctxt "STRINGS.SCREENS.STR_4178687128"
 msgid "LEVEL 4"
-msgstr "УРОВЕНЬ 4"
+msgstr "РІВЕНЬ 4"
 
 #: STRINGS.SCREENS.STR_4178687129
 msgctxt "STRINGS.SCREENS.STR_4178687129"
 msgid "LEVEL 5"
-msgstr "УРОВЕНЬ 5"
+msgstr "РІВЕНЬ 5"
 
 #: STRINGS.SCREENS.STR_4140104366
 msgctxt "STRINGS.SCREENS.STR_4140104366"
 msgid "EQUIPMENT"
-msgstr "ОБОРУДОВАНИЕ"
+msgstr "УСТАТКУВАННЯ"
 
 #: STRINGS.SCREENS.STR_6363215
 msgctxt "STRINGS.SCREENS.STR_6363215"
@@ -16841,47 +16849,47 @@ msgstr "МАКС ОД"
 #: STRINGS.SCREENS.STR_2762057858
 msgctxt "STRINGS.SCREENS.STR_2762057858"
 msgid "SKILLS"
-msgstr "НАВЫКИ"
+msgstr "НАВИКИ"
 
 #: STRINGS.SCREENS.STR_2155597623
 msgctxt "STRINGS.SCREENS.STR_2155597623"
 msgid "INTERNATIONALE"
-msgstr "ИНТЕРНАЦИОНАЛ"
+msgstr "ІНТЕРНАЦІОНАЛ"
 
 #: STRINGS.SCREENS.STR_4025920717
 msgctxt "STRINGS.SCREENS.STR_4025920717"
 msgid "EMPTY PROGRAM SLOT"
-msgstr "ПУСТАЯ ЯЧЕЙКА"
+msgstr "ПУСТИЙ ПРОГРАМНИЙ ПАЗ"
 
 #: STRINGS.SCREENS.STR_933094955
 msgctxt "STRINGS.SCREENS.STR_933094955"
 msgid "PWR"
-msgstr "ЭНЕРГИЯ"
+msgstr "СИЛА"
 
 #: STRINGS.SCREENS.STR_1933049801
 msgctxt "STRINGS.SCREENS.STR_1933049801"
 msgid "Acquire and install new programs in the field"
-msgstr "Новые программы устанавливаются в ходе миссий"
+msgstr "Отримуй і встановлюй нові програми на полі"
 
 #: STRINGS.SCREENS.STR_2667755213
 msgctxt "STRINGS.SCREENS.STR_2667755213"
 msgid "ITEMS (CLICK TO STORE)"
-msgstr "ПРЕДМЕТЫ <font1_10_r>(КЛИКНИТЕ, ЧТОБЫ ПОЛОЖИТЬ В СКЛАД)</>"
+msgstr "РЕЧІ <font1_10_r>(КЛІКНІТЬ, ЩОБ ПЕРЕМІСТИТИ В СКЛАД)</>"
 
 #: STRINGS.SCREENS.STR_774424006
 msgctxt "STRINGS.SCREENS.STR_774424006"
 msgid "UPGRADE SKILLS"
-msgstr "УЛУЧШЕНИЕ НАВЫКОВ"
+msgstr "ПОКРАЩЕННЯ НАВИКІВ"
 
 #: STRINGS.SCREENS.STR_346165218
 msgctxt "STRINGS.SCREENS.STR_346165218"
 msgid "AUGMENTS"
-msgstr "УЛУЧШЕНИЯ"
+msgstr "ПОКРАЩАННЯ"
 
 #: STRINGS.SCREENS.STR_4198555971
 msgctxt "STRINGS.SCREENS.STR_4198555971"
 msgid "STORAGE (CLICK TO EQUIP)"
-msgstr "СКЛАД <font1_10_r>(КЛИКНИТЕ, ЧТОБЫ ВЗЯТЬ)</>"
+msgstr "СКЛАД <font1_10_r>(КЛІКНІТЕ ЩОБ ОДІТИ)</>"
 
 #: STRINGS.SCREENS.STR_827969749
 msgctxt "STRINGS.SCREENS.STR_827969749"
@@ -16889,13 +16897,13 @@ msgid ""
 "<c:8CFFFF>MONST3R</>\n"
 "<c:FDFA68>BUY/SELL</>\n"
 msgstr ""
-"<c:8CFFFF>МОН(ТР</>\n"
-"<c:FDFA68>КУПИТЬ/ПРОДАТЬ</>\n"
+"<c:8CFFFF>МОНСТ3Р</>\n"
+"<c:FDFA68>КУПИТИ/ПРОДАТИ</>\n"
 
 #: STRINGS.SCREENS.STR_563106812
 msgctxt "STRINGS.SCREENS.STR_563106812"
 msgid "<c:FDFA68>INCOMING MESSAGE</>\n"
-msgstr "<c:FDFA68>ВХОДЯЩЕЕ СООБЩЕНИЕ</>\n"
+msgstr "<c:FDFA68>ВХІДНЕ ПОВІДОМЛЕННЯ</>\n"
 
 #: STRINGS.SCREENS.STR_2637306110
 msgctxt "STRINGS.SCREENS.STR_2637306110"
@@ -16905,32 +16913,32 @@ msgstr "INCOGNITA"
 #: STRINGS.SCREENS.STR_3748727002
 msgctxt "STRINGS.SCREENS.STR_3748727002"
 msgid "CREDITS"
-msgstr "КРЕДИТОВ"
+msgstr "КРЕДИТИ"
 
 #: STRINGS.SCREENS.STR_476357528
 msgctxt "STRINGS.SCREENS.STR_476357528"
 msgid "CLOSE"
-msgstr "ЗАКРЫТЬ"
+msgstr "ЗАКРИТИ"
 
 #: STRINGS.SCREENS.STR_486040300
 msgctxt "STRINGS.SCREENS.STR_486040300"
 msgid "MONST3R"
-msgstr "МОН(ТР"
+msgstr "МОНСТ3Р"
 
 #: STRINGS.SCREENS.STR_3314108334
 msgctxt "STRINGS.SCREENS.STR_3314108334"
 msgid "STASH / SELL ITEMS"
-msgstr "СКЛАД / ПРОДАТЬ ПРЕДМЕТЫ"
+msgstr "СКЛАД / ПРОДАТИ ПРЕДМЕТИ"
 
 #: STRINGS.SCREENS.STR_1236871902
 msgctxt "STRINGS.SCREENS.STR_1236871902"
 msgid "FOR SALE"
-msgstr "НА ПРОДАЖУ"
+msgstr "НА ПРОДАЖ"
 
 #: STRINGS.CREDIT_ROLL.DEVELOPED_BY
 msgctxt "STRINGS.CREDIT_ROLL.DEVELOPED_BY"
 msgid "Developed by Klei Entertainment"
-msgstr "Разработано Klei Entertainment"
+msgstr "Розроблено у Klei Entertainment"
 
 #: STRINGS.CREDIT_ROLL.NAMES.1
 msgctxt "STRINGS.CREDIT_ROLL.NAMES.1"
