@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 136061\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-05-13 18:55+0100\n"
+"PO-Revision-Date: 2015-05-13 21:37+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UK\n"
@@ -264,8 +264,9 @@ msgid ""
 "\n"
 "He was chief of security for K&O's California branch until an escalating love affair with the bottle chased him out of the Corporate world."
 msgstr ""
-"Деккер прикидывается человеком из прошлого в качестве акта протеста против современных тенденций к компьютеризации. Он быстр и ловок, поговаривают, что он напичкан улучшениями куда больше, чем сам в этом признаётся.\n"
-"Он был главой охраны в калифорнийском отделении K&O, пока всё нарастающий любовный роман с бутылкой не вынудил его распрощаться с корпорацией."
+"Для людей минулого Деккер складає враження виклику проти тенденцій супротиву світу до новітніх технологій. Він швидкий і спритний, складається враження, що в нього напічкано більше покращень, ніж він сам в цьому зізнається.\n"
+"\n"
+"Він був шефом охорони в каліфорнійському відділі K&O, доки всепоглинаюча любовна до пляшки не заставили попрощатись з корпоративним світом."
 
 #: STRINGS.AGENTS.DECKARD.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_1.TOOLTIP"
@@ -284,9 +285,9 @@ msgid ""
 "\n"
 "To believe the rumors, his nostalgia was so strong that he even made some ludicrously expensive modifications to keep some antiques usable in the modern age."
 msgstr ""
-"До низвержения с исполнительных чинов мира корпораций, Деккер тратил свои внушительные доходы на поиски и выкуп антиквариата последних десятилетий.\n"
+"В часи поки високі звання корпоративного світу уникали Деккера, він тратив свій солідний заробіток на пошуки і збирання антиквару останніх десятиліть.\n"
 "\n"
-"Согласно слухам, его ностальгия была так сильна, что он даже заказал себе несколько баснословно дорогих модификаций, чтобы сохранить актуальность некоторых старых вещей."
+"Якщо вірити слухам, його ностальгія була на стільки глибокою, що він замовив неймовірно дорогі модифікації для пристосування їх до сучасності."
 
 #: STRINGS.AGENTS.DECKARD.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.DECKARD.ALT_2.TOOLTIP"
@@ -337,27 +338,27 @@ msgstr "Ми в будинку і скоро справимось."
 #: STRINGS.AGENTS.DECKARD.BANTER.START.7
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.START.7"
 msgid "We wouldn't have got in so easy if I were running this joint."
-msgstr "Мы бы не попали сюда так просто, если бы я управлял этой хибарой."
+msgstr "Нам би сюди не дістатись так просто, якби я був тут шефом."
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.1"
 msgid "I'm tired of this crap, anyway."
-msgstr "Я так устал от всего этого, плевать."
+msgstr "То все вже замахало, коротше."
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.2"
 msgid "Well played. You got me dead to rights."
-msgstr "Хорошо сработано. Вы поймали меня с поличным."
+msgstr "Добре зіграно. Спіймав мене на гарячому."
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.3"
 msgid "Well, damn it."
-msgstr "Да чтоб его!"
+msgstr "Та ну нафіг!"
 
 #: STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.DECKARD.BANTER.FINAL_WORDS.4"
 msgid "Can I have one last swig, first?"
-msgstr "Можно мне глотнуть, всего один глоточек, напоследок?"
+msgstr "А можна ще ковточок спочатку?"
 
 #: STRINGS.AGENTS.SHALEM.NAME
 msgctxt "STRINGS.AGENTS.SHALEM.NAME"
@@ -387,17 +388,17 @@ msgstr "Бейрут"
 #: STRINGS.AGENTS.SHALEM.RESCUED
 msgctxt "STRINGS.AGENTS.SHALEM.RESCUED"
 msgid "Guess that means break time is over."
-msgstr "Полагаю, это значит пора за дело."
+msgstr "Схоже перерва закінчилась."
 
 #: STRINGS.AGENTS.SHALEM.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.SHALEM.BIO_SPOKEN"
 msgid "Shalem is good at covering his tracks. I usually don't employ people I don't understand, but his skillset was too useful to pass up. He's obviously using us as a means to some personal end. We'll see who shows their hand first."
-msgstr "Шалем хорошо заметает за собой следы. Обычно я не нанимаю людей, которых не знаю, но у него такой набор качеств, что просто грех пропустить. Он, конечно, использует нас в своих собственных целях. Посмотрим, кто раскроет карты первым."
+msgstr "Шалем добре замітає свої сліди. Переважно я не наймаю людей, яких не бачу на скрізь, але проти набору його вмінь важко було встояти. Напевно він нас використовує у якихось власних цілях. Буде видно."
 
 #: STRINGS.AGENTS.SHALEM.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_1.FULLNAME"
 msgid "Raymond \"Shalem 11\" Malik"
-msgstr "Реймонд \"Шалем 11\" Малик"
+msgstr "Реймонд \"Шалем 11\" Малік"
 
 #: STRINGS.AGENTS.SHALEM.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_1.BIO"
@@ -406,18 +407,19 @@ msgid ""
 "\n"
 "Enjoying almost celebrity status, he was able to finance a lavish lifestyle from his contracts. Why he turned away from a life of fame and riches to work for Invisible is an open question."
 msgstr ""
-"Шалем был признанным наёмником с идеальным послужным и показательным самомнением. Он специализировался на меткой стрельбе и мог выслеживать цель месяцами, терпеливо выжидая момента.\n"
-"Наслаждаясь своим звёздным статусом, он мог себе позволить вести роскошный образ жизни. Почему он отвернулся от роскоши и богатств в пользу Invisible остаётся открытым вопросом."
+"Шалем був визнаним найманцем з ідеальним послужним списком, трохи зарозумілий. Дуже влучний стрілок, характерний тим, що висліджував свої цілі місяцями, терпеливо вичікуючи моменту для ідеального вистрілу. \n"
+"\n"
+"Насолоджуючись майже зірковим визнанням, міг дозволити собі розкішний спосіб життя з його контрактів. Ніхто не знає, чому від відвернувся від свого розкішного життя на користь Invisible."
 
 #: STRINGS.AGENTS.SHALEM.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_1.TOOLTIP"
 msgid "Licensed Assassin"
-msgstr "Лицензированный наёмник"
+msgstr "Ліцензований найманець."
 
 #: STRINGS.AGENTS.SHALEM.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_2.FULLNAME"
 msgid "ARCHIVED -- COMBAT MEDIC"
-msgstr "ИЗ АРХИВА — БОЕВОЙ МЕДИК"
+msgstr "ЗАНОТОВАНО — БОЙОВИЙ МЕДИК"
 
 #: STRINGS.AGENTS.SHALEM.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_2.BIO"
@@ -426,14 +428,14 @@ msgid ""
 "\n"
 "While his true passion lies in ending life, he still remembers how to preserve it."
 msgstr ""
-"Мать Шалема была мобилизована хирургом в самом начале Войны за ресурсы. Когда она потеряла подвижность правой руки в результате обстрела миномётом, она стала тренировать молодого Шалема орудовать скальпелем за неё.\n"
+"Мати Шалема була мобілізована в якості хірурга на початку Війни за ресурси. А коли в результаті мінометного обстрілу втратила рухомість правої руки, почала вчити молодого Шалема орудовати скальпелем за неї.\n"
 "\n"
-"Может истинное пристрастие Шалема и лежит за гранью жизни, но тем не менее он знает, как её сохранить."
+"Хоча істина пристрасть Шалема і полягає в забиранню життя, та він пам'ятає як його зберегти."
 
 #: STRINGS.AGENTS.SHALEM.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_2.TOOLTIP"
 msgid "Combat Medic"
-msgstr "Боевой медик"
+msgstr "Бойовий медик"
 
 #: STRINGS.AGENTS.SHALEM.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.SHALEM.ALT_2.AGE"
@@ -443,62 +445,62 @@ msgstr "25"
 #: STRINGS.AGENTS.SHALEM.BANTER.START.1
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.1"
 msgid "In position. Now make this quick."
-msgstr "На месте. Сделаем это быстро."
+msgstr "На місці. Давай зробимо це швидко."
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.2
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.2"
 msgid "Let me deal with any opposition."
-msgstr "Встретите сопротивление - зовите меня."
+msgstr "Кличте мене, якщо натикнитесь на спротив."
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.3
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.3"
 msgid "Why must these missions always be indoors?"
-msgstr "Почему все эти миссии всегда в закрытых помещениях?"
+msgstr "Чому завдання завжди в якихось приміщеннях?"
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.4
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.4"
 msgid "Covering the sightlines."
-msgstr "Просматриваемые зоны под контролем."
+msgstr "Зони під контролем."
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.5
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.5"
 msgid "Best not dirty my suit."
-msgstr "Не советую вымазывать мой костюм."
+msgstr "Не раджу кидати тінь на мій костюмчик."
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.6
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.6"
 msgid "Damn - tight corners. I'd prefer a bit more room to maneuver."
-msgstr "Чёрт - узкие углы. Я предпочёл бы побольше места для маневрирования."
+msgstr "Бляха - вузькі кути. Я б хотів більше простору для маневрів."
 
 #: STRINGS.AGENTS.SHALEM.BANTER.START.7
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.START.7"
 msgid "No contacts on the roof. Proceeding to target."
-msgstr "На крыше никого. Двигаюсь к цели."
+msgstr "На даху пусто. Рухаюсь до цілі."
 
 #: STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.1"
 msgid "I should have stayed independent."
-msgstr "Лучше бы я не влезал в это."
+msgstr "Краще б я не вмішувався."
 
 #: STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.2"
 msgid "This is why I prefer to work alone."
-msgstr "Вот, почему я предпочитаю работать один."
+msgstr "І тому я волію працювати наодинці."
 
 #: STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.3"
 msgid "A gun. Is that supposed to be irony? Ha."
-msgstr "Ствол. В этом-то и заключается ирония? Ха."
+msgstr "Пушка. Ви напевно жартуєте? Та."
 
 #: STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.SHALEM.BANTER.FINAL_WORDS.4"
 msgid "Do me a favour aim for the heart. I want to leave a good looking corpse."
-msgstr "Сделай одолжение, целься прямо в сердце. Я хочу, чтобы труп выглядел хорошо."
+msgstr "Зроби послугу, цілься акуратно. Хотілося б залишити по собі гарний труп."
 
 #: STRINGS.AGENTS.XU.NAME
 msgctxt "STRINGS.AGENTS.XU.NAME"
 msgid "Dr. Xu"
-msgstr "Др. Зу"
+msgstr "Др. Ксу"
 
 #: STRINGS.AGENTS.XU.FILE
 msgctxt "STRINGS.AGENTS.XU.FILE"
@@ -523,7 +525,7 @@ msgstr "Гонконг"
 #: STRINGS.AGENTS.XU.RESCUED
 msgctxt "STRINGS.AGENTS.XU.RESCUED"
 msgid "Excellent. Captivity does not agree with me."
-msgstr "Прекрасно. Рабство мне не по нутру."
+msgstr "Шикарно. Рабство - це якось не моє."
 
 #: STRINGS.AGENTS.XU.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.XU.BIO_SPOKEN"
@@ -569,7 +571,7 @@ msgstr ""
 #: STRINGS.AGENTS.XU.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.XU.ALT_2.TOOLTIP"
 msgid "The Professor"
-msgstr "Профессор"
+msgstr "Професор"
 
 #: STRINGS.AGENTS.XU.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.XU.ALT_2.AGE"
@@ -579,62 +581,62 @@ msgstr "23"
 #: STRINGS.AGENTS.XU.BANTER.START.1
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.1"
 msgid "We have infiltrated the target."
-msgstr "Мы проникли на объект."
+msgstr "Ми проникли на об'єкт."
 
 #: STRINGS.AGENTS.XU.BANTER.START.2
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.2"
 msgid "Their network topology is fascinating."
-msgstr "Топология их сети впечатляет."
+msgstr "Топологія їх мережі захоплює."
 
 #: STRINGS.AGENTS.XU.BANTER.START.3
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.3"
 msgid "Keep your eyes peeled for anything useful."
-msgstr "Смотри в оба, не упускай ничего полезного."
+msgstr "Роззуй очі, не пропускай нічого потрібного."
 
 #: STRINGS.AGENTS.XU.BANTER.START.4
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.4"
 msgid "Can you feel that? There's a lot of data flowing through the air."
-msgstr "Ты тоже чувствуешь это? Тут по воздуху проходят немалые объёмы информации."
+msgstr "Ти відчуваєш це теж? Купа інформації просто висить у повітрі."
 
 #: STRINGS.AGENTS.XU.BANTER.START.5
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.5"
 msgid "I hope we find a usable terminal on this floor."
-msgstr "Надеюсь, на этом этаже есть рабочий терминал."
+msgstr "Надіюсь ми знайдем робочий термінал на цьому поверсі."
 
 #: STRINGS.AGENTS.XU.BANTER.START.6
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.6"
 msgid "The best science is done in the Corp labs these days."
-msgstr "Самая лучшая наука творится в стенах корпораций."
+msgstr "Сьогодні сама круті досягнення здійснюються у корпоративних лабораторіях."
 
 #: STRINGS.AGENTS.XU.BANTER.START.7
 msgctxt "STRINGS.AGENTS.XU.BANTER.START.7"
 msgid "The electromagnetic noise is almost overwhelming here."
-msgstr "Электромагнитный шум просто сшибает с ног."
+msgstr "Цей електромагнітний шум пригнічує."
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.1"
 msgid "I don't see a plausible way out of this."
-msgstr "Я не вижу вероятного выхода из сложившегося положения."
+msgstr "Я не бачу нормального виходу з цього положення."
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.2"
 msgid "The probabilities are not in my favour this time."
-msgstr "На этот раз вероятности не на моей стороне."
+msgstr "На цей раз ймовірності склались не на мою користь."
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.3"
 msgid "I should have stayed at the university."
-msgstr "Надо было оставаться в университете."
+msgstr "Треба було залишатись в університеті."
 
 #: STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.XU.BANTER.FINAL_WORDS.4"
 msgid "I'm smarter than this. What the hell."
-msgstr "Я же умнее этого. Какого чёрта?"
+msgstr "Я ж не дурак. То шо за фігня?"
 
 #: STRINGS.AGENTS.INTERNATIONALE.NAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.NAME"
 msgid "Internationale"
-msgstr "Интернационал"
+msgstr "Інтернаціонал"
 
 #: STRINGS.AGENTS.INTERNATIONALE.FILE
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.FILE"
@@ -659,17 +661,17 @@ msgstr "Гавана"
 #: STRINGS.AGENTS.INTERNATIONALE.RESCUED
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.RESCUED"
 msgid "They won't even know until we're gone."
-msgstr "Они ничего не заметят, пока мы не исчезнем."
+msgstr "Вони схопляться аж коли ми зникнем."
 
 #: STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BIO_SPOKEN"
 msgid "Internationionale is one of the best all-round operatives I've ever seen, but she's held back by an unfortunate abundance of social concern. If used correctly, she's the bedrock upon which you can build a winning team. Just don't ask her about the plight of the global proletariat."
-msgstr "Интернационал - одна из лучших универсальных оперативников, что я знаю, но за ней значится избыточная обеспокоенность социальными проблемами. Используй её верно, и она станет основанием команды, которая сможет свернуть горы. Главное, не обсуждать с ней тяжёлое положение мирового пролетариата."
+msgstr "Інтернаціонал - одна з кращих універсальних агенцій, що я коли небуть бачив, правда з певними проблемами соціального плану. В прямих руках вона може бути основою для створення переможної команди. Просто уникай розмов про тяжке становище світового пролетаріату."
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.FULLNAME"
 msgid "Maria \"Internationale\" Valdes"
-msgstr "Мария \"Интернационал\" Вальдес"
+msgstr "Марія \"Интернаціонал\" Вальдес"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.BIO"
@@ -678,22 +680,22 @@ msgid ""
 "\n"
 "Several years of freelance action against Corporate interests led to a considerable bounty on her head, and she joined Invisible for the chance to pay it off. Her tactical prowess is legendary, but her conscience can be a liability on and off the field."
 msgstr ""
-"Бывший воздушный десантник свободной армии Кубы, Вальдес ушла на дно после реаннексии Гаваны. Несколько лет неза-\n"
-"висимой деятельности против корпораций повлекли за собой значительную награду за её голову. Примерно тогда она и присое-\n"
-"динилась к Invisible, ожидая возможности отомстить. Её тактическое мастерство пора-\n"
-"жает, но её нравственные взгляды могут стать проблемой как в бою, так и вне его."
+"Бувший повітряний десантник вільної армії Куби, Вальдес пішла у підпілля після ре-аннексії Гавани.\n"
+"\n"
+"Кілька років такої незалежної діяльності проти корпоративних інтересів привели до значного підняття ціни за її голову і вона приєдналась до Invisible з надією відсидітись. У неї майстерні тактичні якості, але переконання можуть мішати в бою і поза ним."
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_1.TOOLTIP"
 msgid "Freedom Fighter"
-msgstr "Борец за независимость"
+msgstr "Борець за свободу"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.FULLNAME"
 msgid "ARCHIVED -- FREELANCER"
-msgstr "ИЗ АРХИВА — ВОЛЬНЫЙ НАЁМНИК"
+msgstr "ЗАНОТОВАНО — НЕЗАЛЕЖНИЙ НАЙМАНЕЦЬ"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.BIO
+#, fuzzy
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.BIO"
 msgid ""
 "During her work as a freelancer in the years following Havana's re-annexation and the San Francisco Accord, Internationale became a legend in the anti-Corporate underground.\n"
@@ -707,7 +709,7 @@ msgstr ""
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.TOOLTIP"
 msgid "Freelancer"
-msgstr "Фрилансер"
+msgstr "Незалежний найманець"
 
 #: STRINGS.AGENTS.INTERNATIONALE.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.ALT_2.AGE"
@@ -717,62 +719,63 @@ msgstr "27"
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.1
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.1"
 msgid "Take what you can. They won't miss it."
-msgstr "Бери, что сможешь. Они не будут по этому скучать."
+msgstr "Забирай що зможеш. Вони не буть плакати."
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.2
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.2"
 msgid "Each according to their means!"
-msgstr "Каждому по заслугам!"
+msgstr "Як постелиш - так і виспишся!"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.3
+#, fuzzy
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.3"
 msgid "Time to strike one for the good guys!"
-msgstr "Сделаем это во имя хороших парней!"
+msgstr "Час вломити настав!"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.4
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.4"
 msgid "Can we do this without collateral damage, maybe?"
-msgstr "Мы же можем сделать это без сопутствующих потерь?"
+msgstr "Без колатеральних втрат не обійтись?"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.5
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.5"
 msgid "These corporate pigs make me sick."
-msgstr "Эти корпоративные свиньи вызывают отвращение."
+msgstr "Мене вивертає від цих корпоративних свиней."
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.6
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.6"
 msgid "Remember, the guards are just doing their job."
-msgstr "Помни, охранники лишь выполняют свою работу."
+msgstr "Не забувай, охорона просто виконує свої обовязки."
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.START.7
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.START.7"
 msgid "Look around. All of this is built on the backs of average working people."
-msgstr "Оглянись вокруг. Всё это построено на крови и поту простого рабочего класса."
+msgstr "Поглянь довкола. Це все збудовано на кістках простих робочих."
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.1
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.1"
 msgid "Arise, ye wretched of the earth!"
-msgstr "Проснитесь, жалкие творения Земли!"
+msgstr "Піднімайтесь, прокляті цієї землі!"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.2"
 msgid "I have but the feeble strength of one."
-msgstr "Я всего лишь маленькая частичка чего-то большого."
+msgstr "Я лиш маленька частинка чогось великого."
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.3"
 msgid "A new world will be born from the ashes of the old!"
-msgstr "Новый мир поднимется на руинах старого!"
+msgstr "Новий світ повстане на руїнах старого!"
 
 #: STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.INTERNATIONALE.BANTER.FINAL_WORDS.4"
 msgid "Can't you see? The bosses keep us apart!"
-msgstr "Разве ты не видишь? Правящий класс пытается разделить нас!"
+msgstr "Хіба не бачиш? Верхівка старається нас розділити!"
 
 #: STRINGS.AGENTS.BANKS.NAME
 msgctxt "STRINGS.AGENTS.BANKS.NAME"
 msgid "Banks"
-msgstr "Бэнкс"
+msgstr "Бенкс"
 
 #: STRINGS.AGENTS.BANKS.FILE
 msgctxt "STRINGS.AGENTS.BANKS.FILE"
@@ -792,14 +795,15 @@ msgstr "29"
 #: STRINGS.AGENTS.BANKS.HOMETOWN
 msgctxt "STRINGS.AGENTS.BANKS.HOMETOWN"
 msgid "Dublin Nua"
-msgstr "Дублин Нуа"
+msgstr "Даблін Нуа"
 
 #: STRINGS.AGENTS.BANKS.RESCUED
 msgctxt "STRINGS.AGENTS.BANKS.RESCUED"
 msgid "Let's get the hell out of here."
-msgstr "Давай выбираться отсюда."
+msgstr "Давай забиратись звідси."
 
 #: STRINGS.AGENTS.BANKS.BIO_SPOKEN
+#, fuzzy
 msgctxt "STRINGS.AGENTS.BANKS.BIO_SPOKEN"
 msgid "Even with the brain damage, Banks is one of the most effective hackers I've ever encountered. With stims and neuro-conditioning she's able to stay lucid, but I wonder what kind of long term effects that might have on her stability."
 msgstr "Несмотря на повреждение мозга, Бэнкс остаётся одной из самых эффективных хакеров, что я встречала. Она сохраняет здравость благодаря постоянным инъекциям и нейронной стимуляции, но не известно, какие последствия этом может иметь в долгосрочной перспективе."
@@ -807,9 +811,10 @@ msgstr "Несмотря на повреждение мозга, Бэнкс ос
 #: STRINGS.AGENTS.BANKS.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.BANKS.ALT_1.FULLNAME"
 msgid "Banks"
-msgstr "Бэнкс"
+msgstr "Бенкс"
 
 #: STRINGS.AGENTS.BANKS.ALT_1.BIO
+#, fuzzy
 msgctxt "STRINGS.AGENTS.BANKS.ALT_1.BIO"
 msgid ""
 "Banks earned her hacker nickname siphoning funds from heavily guarded financial accounts. She funneled the proceeds into the rebuilding of her hometown, becoming a local folk hero in the process.\n"
@@ -822,27 +827,28 @@ msgstr ""
 #: STRINGS.AGENTS.BANKS.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.BANKS.ALT_1.TOOLTIP"
 msgid "Burnt-out Wire Thief"
-msgstr "Воровка перегоревший провод"
+msgstr "Крадій перегорівших проводів"
 
 #: STRINGS.AGENTS.BANKS.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.FULLNAME"
 msgid "ARCHIVED -- ROBIN HOOD"
-msgstr "ИЗ АРХИВА — РОБИН ГУД"
+msgstr "ЗАНОТОВАНО — РОБІН ГУД"
 
 #: STRINGS.AGENTS.BANKS.ALT_2.BIO
+#, fuzzy
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.BIO"
 msgid ""
 "Banks has always had a way with finances, but she wasn't always so altruistic. In old Dublin she amassed a small fortune from embezzlement and graft, and lived a life of reckless abandon.\n"
 "\n"
 "She found her principles during the Fall Siege, and by the time Dublin Nua was finally liberated she had drained her private accounts several times over."
 msgstr ""
-"Бэнкс всегда умела обращаться с деньгами, но она не всегда была так альтруистична. В старом Дублине она накопила немалые деньги путём хищений и взяток, живя в преступной беспечности.\n"
+"Бенкс всегда умела обращаться с деньгами, но она не всегда была так альтруистична. В старом Дублине она накопила немалые деньги путём хищений и взяток, живя в преступной беспечности.\n"
 "К своим принципам она пришла во время Продолжительной Осады, и к тому времени, когда Дублин Нуа был окончательно освобождён, она успела опустошить личные счета несколько раз."
 
 #: STRINGS.AGENTS.BANKS.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.TOOLTIP"
 msgid "Robin Hood"
-msgstr "Робин Гуд"
+msgstr "Робін Гуд"
 
 #: STRINGS.AGENTS.BANKS.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.BANKS.ALT_2.AGE"
@@ -852,7 +858,7 @@ msgstr "23"
 #: STRINGS.AGENTS.BANKS.BANTER.START.1
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.1"
 msgid "Did you hear that? No? Neither did I, then."
-msgstr "ты это слышал? Нет? Ну, тогда и я не слышала."
+msgstr "Чув це? Ні? Ну, тоді я теж не чув."
 
 #: STRINGS.AGENTS.BANKS.BANTER.START.2
 msgctxt "STRINGS.AGENTS.BANKS.BANTER.START.2"
