@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 136061\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-05-14 21:20+0100\n"
+"PO-Revision-Date: 2015-05-14 23:58+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UK\n"
@@ -913,7 +913,7 @@ msgstr "Прах к праху"
 #: STRINGS.AGENTS.NIKA.NAME
 msgctxt "STRINGS.AGENTS.NIKA.NAME"
 msgid "Nika"
-msgstr "Ника"
+msgstr "Ніка"
 
 #: STRINGS.AGENTS.NIKA.FILE
 msgctxt "STRINGS.AGENTS.NIKA.FILE"
@@ -948,7 +948,7 @@ msgstr "Муратова - смертельное оружие в человеч
 #: STRINGS.AGENTS.NIKA.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.NIKA.ALT_1.FULLNAME"
 msgid "Nika Muratova"
-msgstr "Ника Муратова"
+msgstr "Ніка Муратова"
 
 #: STRINGS.AGENTS.NIKA.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.NIKA.ALT_1.BIO"
@@ -963,12 +963,12 @@ msgstr ""
 #: STRINGS.AGENTS.NIKA.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.NIKA.ALT_1.TOOLTIP"
 msgid "Blunt Instrument"
-msgstr "Грубая сила"
+msgstr "Груба сила"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.FULLNAME
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.FULLNAME"
 msgid "ARCHIVED -- BODY GUARD"
-msgstr "ИЗ АРХИВА — ТЕЛОХРАНИТЕЛЬ"
+msgstr "ЗАНОТОВАНО — ТІЛООХОРОНЕЦЬ"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.BIO"
@@ -984,7 +984,7 @@ msgstr ""
 #: STRINGS.AGENTS.NIKA.ALT_2.TOOLTIP
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.TOOLTIP"
 msgid "Body Guard"
-msgstr "Телохранитель"
+msgstr "Тілоохоронець"
 
 #: STRINGS.AGENTS.NIKA.ALT_2.AGE
 msgctxt "STRINGS.AGENTS.NIKA.ALT_2.AGE"
@@ -994,12 +994,12 @@ msgstr "27"
 #: STRINGS.AGENTS.NIKA.BANTER.START.1
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.START.1"
 msgid "We are here."
-msgstr "Мы на месте."
+msgstr "Ми на місці."
 
 #: STRINGS.AGENTS.NIKA.BANTER.START.2
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.START.2"
 msgid "Ready to do the job."
-msgstr "Я готова."
+msgstr "Готова до діла."
 
 #: STRINGS.AGENTS.NIKA.BANTER.START.3
 msgctxt "STRINGS.AGENTS.NIKA.BANTER.START.3"
@@ -1254,7 +1254,7 @@ msgstr "Я так устала бежать от вас, люди."
 #: STRINGS.AGENTS.CENTRAL.NAME
 msgctxt "STRINGS.AGENTS.CENTRAL.NAME"
 msgid "Central"
-msgstr "Central"
+msgstr "Централя"
 
 #: STRINGS.AGENTS.CENTRAL.FILE
 msgctxt "STRINGS.AGENTS.CENTRAL.FILE"
@@ -1289,7 +1289,7 @@ msgstr "Меня зовут Оливия Глэдстоун. Я начинала
 #: STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.FULLNAME"
 msgid "Olivia Gladstone"
-msgstr "Оливия Глэдстоун"
+msgstr "Олівія Гледстоун"
 
 #: STRINGS.AGENTS.CENTRAL.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.BIO"
@@ -1305,7 +1305,7 @@ msgstr ""
 #: STRINGS.AGENTS.CENTRAL.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.CENTRAL.ALT_1.TOOLTIP"
 msgid "The Leader"
-msgstr "Лидер"
+msgstr "Лідер"
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.START.1
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.START.1"
@@ -1360,7 +1360,7 @@ msgstr "Оператор, не дай Invisible загинути разом зі
 #: STRINGS.AGENTS.MONST3R.NAME
 msgctxt "STRINGS.AGENTS.MONST3R.NAME"
 msgid "Monst3r"
-msgstr "Мон(тр"
+msgstr "Монст3р"
 
 #: STRINGS.AGENTS.MONST3R.FILE
 msgctxt "STRINGS.AGENTS.MONST3R.FILE"
@@ -1401,7 +1401,7 @@ msgstr ""
 #: STRINGS.AGENTS.MONST3R.ALT_1.FULLNAME
 msgctxt "STRINGS.AGENTS.MONST3R.ALT_1.FULLNAME"
 msgid "Derek 'Monst3r' Mossman"
-msgstr "Дерек \"Мон(тр\" Мосман"
+msgstr "Дерек \"Монст3р\" Мосман"
 
 #: STRINGS.AGENTS.MONST3R.ALT_1.BIO
 msgctxt "STRINGS.AGENTS.MONST3R.ALT_1.BIO"
@@ -1419,12 +1419,12 @@ msgstr ""
 #: STRINGS.AGENTS.MONST3R.ALT_1.TOOLTIP
 msgctxt "STRINGS.AGENTS.MONST3R.ALT_1.TOOLTIP"
 msgid "The Information Broker"
-msgstr "Информационный брокер"
+msgstr "Інформаційнний брокер"
 
 #: STRINGS.AGENTS.MONST3R.BANTER.START.1
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.START.1"
 msgid "Information is power."
-msgstr "Информация - это сила."
+msgstr "Інформація керує світом."
 
 #: STRINGS.AGENTS.MONST3R.BANTER.START.2
 msgctxt "STRINGS.AGENTS.MONST3R.BANTER.START.2"
@@ -1469,7 +1469,7 @@ msgstr "Оператор, тебе лучше исправить это."
 #: STRINGS.AGENTS.HOSTAGE.NAME
 msgctxt "STRINGS.AGENTS.HOSTAGE.NAME"
 msgid "The Courier"
-msgstr "Курьер"
+msgstr "Курьєр"
 
 #: STRINGS.AGENTS.HOSTAGE.FILE
 msgctxt "STRINGS.AGENTS.HOSTAGE.FILE"
@@ -1624,7 +1624,7 @@ msgstr "СТАТУС: слабый, но может идти"
 #: STRINGS.MISSIONS.JAILBREAK.MISSION_TITLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.MISSION_TITLE"
 msgid "JAILBREAK"
-msgstr "ПОБЕГ"
+msgstr "ВТЕЧА"
 
 #: STRINGS.MISSIONS.JAILBREAK.MISSION_DESCRIPTION
 msgctxt "STRINGS.MISSIONS.JAILBREAK.MISSION_DESCRIPTION"
@@ -1644,7 +1644,7 @@ msgstr "Агент подвергался обширному нейронном�
 #: STRINGS.MISSIONS.JAILBREAK.MISSION_PERSON_OF_INTEREST
 msgctxt "STRINGS.MISSIONS.JAILBREAK.MISSION_PERSON_OF_INTEREST"
 msgid "DECKER, BRIAN"
-msgstr "ДЕККЕР, БРАЙАН"
+msgstr "ДЕККЕР, БРАЯН"
 
 #: STRINGS.MISSIONS.JAILBREAK.MISSION_POI_TYPE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.MISSION_POI_TYPE"
@@ -1654,22 +1654,22 @@ msgstr "СПЕЦ. АГЕНТ INVISIBLE, INC."
 #: STRINGS.MISSIONS.JAILBREAK.INITIATING
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INITIATING"
 msgid "INITIATING FAIL SAFE PROTOCOL"
-msgstr "ИНИЦИАЛИЗИРУЕМ ЗАПАСНОЙ ПРОТОКОЛ"
+msgstr "ЗАПУСК ПРОТОКОЛУ ЗБОЮ"
 
 #: STRINGS.MISSIONS.JAILBREAK.CONNECTION_ESTABLISHED
 msgctxt "STRINGS.MISSIONS.JAILBREAK.CONNECTION_ESTABLISHED"
 msgid "CONNECTION ESTABLISHED"
-msgstr "СОЕДИНЕНИЕ УСТАНОВЛЕНО"
+msgstr "ЗЄДНАННЯ ВСТАНОВЛЕНО"
 
 #: STRINGS.MISSIONS.JAILBREAK.GUARD
 msgctxt "STRINGS.MISSIONS.JAILBREAK.GUARD"
 msgid "GUARD"
-msgstr "ОХРАННИК"
+msgstr "ОХОРОНА"
 
 #: STRINGS.MISSIONS.JAILBREAK.LOCKPICK_MODAL_TITLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.LOCKPICK_MODAL_TITLE"
 msgid "W E L C O M E  T O  I N C O G N I T A:  Y O U R   P E R S O N A L  A I"
-msgstr "В А С  П Р И В Е Т С Т В У Е Т  И Н К О Г Н И Т А:  В А Ш  Л И Ч Н Ы Й  И И"
+msgstr "I N C O G N I T A  В І Т А Є  В А С:  В А Ш  П Е Р С О Н А Л Ь Н И Й  А І"
 
 #: STRINGS.MISSIONS.JAILBREAK.LOCKPICK_MODAL_DESC
 msgctxt "STRINGS.MISSIONS.JAILBREAK.LOCKPICK_MODAL_DESC"
@@ -1679,12 +1679,12 @@ msgstr "Агенція забезпечила вас програмою <c:faff0
 #: STRINGS.MISSIONS.JAILBREAK.BLINDSPOT_MODAL_TITLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.BLINDSPOT_MODAL_TITLE"
 msgid "M A N I P U L A T E  T H E  E N V I R O N M E N T  F O R  S T E A L T H"
-msgstr "И С П О Л Ь З У Й Т Е  О К Р У Ж Е Н И Е  Д Л Я  П О В Ы Ш Е Н И Я  С К Р Ы Т Н О С Т И"
+msgstr "В И К О Р И С Т О В У Й Т Е  О Т О Ч Е Н Н Я  Д Л Я  С К Р И Т Н О С Т І"
 
 #: STRINGS.MISSIONS.JAILBREAK.BLINDSPOT_MODAL_TITLE2
 msgctxt "STRINGS.MISSIONS.JAILBREAK.BLINDSPOT_MODAL_TITLE2"
 msgid "HIDING IN BLIND SPOTS"
-msgstr "ПРЯЧЕМСЯ В СЛЕПЫХ ЗОНАХ"
+msgstr "ХОВАЙМОСЬ В СЛІПИХ ЗОНАХ"
 
 #: STRINGS.MISSIONS.JAILBREAK.BLINDSPOT_MODAL_DESC
 msgctxt "STRINGS.MISSIONS.JAILBREAK.BLINDSPOT_MODAL_DESC"
@@ -1700,49 +1700,49 @@ msgstr ""
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_SELECT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_SELECT"
 msgid "STATUS: UNCONSCIOUS"
-msgstr "СТАТУС: ПОТЕРЯЛ СОЗНАНИЕ"
+msgstr "СТАН: НЕПРИТОМНИЙ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_SELECT_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_SELECT_SUBTEXT"
 msgid "SELECT: <c:FF8411>[ LEFT CLICK ]</>"
-msgstr "ВЫБРАТЬ: <c:FF8411>[ ЛЕВЫЙ КЛИК ]</>"
+msgstr "ВИБРАТИ: <c:FF8411>[ ЛІВИЙ КЛІК ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_MOVE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_MOVE"
 msgid "MOVE AGENT: <c:FF8411>[ RIGHT CLICK ]</>"
-msgstr "ПЕРЕМЕСТИТЕ АГЕНТА: <c:FF8411>[ ПРАВЫЙ КЛИК ]</>"
+msgstr "РУХ АГЕНТА: <c:FF8411>[ ПРАВИЙ КЛІК ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_END_TURN
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_END_TURN"
 msgid "REFRESH MOVEMENT"
-msgstr "ОБНОВИТЕ ХОД"
+msgstr "ОБНОВІТЬ ХІД"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_END_TURN_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_END_TURN_SUBTEXT"
 msgid "HOTKEY: <c:FF8411>[ ENTER ]</>"
 msgstr ""
-"ГОРЯЧАЯ КЛАВИША:\n"
+"ГАРЯЧА КНОПКА:\n"
 "<c:FF8411>[ ENTER ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_WAITING
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_WAITING"
 msgid "APPROACH DOOR"
-msgstr "ПОДОЙДИТЕ К ДВЕРИ"
+msgstr "НАБЛИЗЬТЕСЬ ДО ДВЕРЕЙ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_GET_TAZER
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_GET_TAZER"
 msgid "DECKER'S STASH"
-msgstr "ТАЙНИК ДЕККЕРА"
+msgstr "СХОВОК ДЕККЕРА"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_GET_TAZER_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_GET_TAZER_SUBTEXT"
 msgid "APPROACH TO OBTAIN"
-msgstr "ПОДОЙДИТЕ, ЧТОБЫ ПОЛУЧИТЬ ДОСТУП"
+msgstr "НАБЛИЗЬТЕСЬ, ЩОБ ОВОЛОДІТИ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_KNOCK_OUT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_KNOCK_OUT"
 msgid "<KNOCK OUT THE GUARD FROM BEHIND>"
-msgstr "<ВЫРУБИТЬ ОХРАННИКА СЗАДИ>"
+msgstr "<ВИРУБАТИ ОХОРОНЦЯ ЗІЗАДУ>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_PINNED
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_PINNED"
@@ -1750,85 +1750,85 @@ msgid ""
 "PINNED GUARDS\n"
 "STAY KNOCKED OUT"
 msgstr ""
-"ОХРАННИКИ, НАД КОТОРЫМИ СТОЯТ\n"
-"НЕ ПРИХОДЯТ В СЕБЯ"
+"ПРИБИТІ ОХОРОНЦІ\n"
+"ЗАЛИШАЮТЬ У ВІДКЛЮЧЦІ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_SHUT_THE_DOOR
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_SHUT_THE_DOOR"
 msgid "CLOSED DOORS BLOCK LINE OF SIGHT"
-msgstr "ЗАКРЫТЫЕ ДВЕРИ БЛОКИРУЮТ ПОЛЕ ЗРЕНИЯ"
+msgstr "ЗАКРИТІ ДВЕРІ НЕ ДАЮТЬ ПРОГЛЯДУВАТИ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CONSOLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CONSOLE"
 msgid "VULNERABILITY DETECTED"
-msgstr "ОБНАРУЖЕНО СЛАБОЕ МЕСТО"
+msgstr "ЗНАЙДЕНО СЛАБКЕ МІСЦЕ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CAMERA
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CAMERA"
 msgid "ACCESS INCOGNITA"
-msgstr "ПОДКЛЮЧИТЕСЬ К INCOGNITA"
+msgstr "ДОСТУП ДО INCOGNITA"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CAMERA_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CAMERA_SUBTEXT"
 msgid "HOTKEY: <c:FF8411>[ SPACE ]</>"
 msgstr ""
-"ГОРЯЧАЯ КЛАВИША:\n"
-"<c:FF8411>[ ПРОБЕЛ ]</>"
+"ГАРЯЧА КНОПКА:\n"
+"<c:FF8411>[ ПРОПУСК ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_HACK_CAMERA
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_HACK_CAMERA"
 msgid "FIREWALL DETECTED"
-msgstr "ОБНАРУЖЕН СЕТЕВОЙ ЭКРАН"
+msgstr "ЗНАЙДЕНО БРАНДМАУЕР"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_HACK_CAMERA_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_HACK_CAMERA_SUBTEXT"
 msgid "HACK: <c:FF8411>[ LEFT CLICK ]</>"
-msgstr "ВЗЛОМАТЬ: <c:FF8411>[ ЛЕВЫЙ КЛИК ]</>"
+msgstr "ЗЛАМАТИ: <c:FF8411>[ ЛІВИЙ КЛІК ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_EXIT_MAINFRAME
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_EXIT_MAINFRAME"
 msgid "EXIT INCOGNITA"
-msgstr "ПЕРЕКЛЮЧИТЕСЬ НАЗАД НА ДЕККЕРА"
+msgstr "ЗАЛИШИТИ INCOGNITA"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_DOOR_CORNER
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_DOOR_CORNER"
 msgid "RECON POINT"
-msgstr "МЕСТО НАБЛЮДЕНИЯ"
+msgstr "МІСЦЕ СЛІЖКИ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_OPEN_DOOR
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_OPEN_DOOR"
 msgid "OPEN DOOR"
-msgstr "ОТКРОЙТЕ ДВЕРЬ"
+msgstr "ВІДКРИТИ ДВЕРІ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_OPEN_DOOR_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_OPEN_DOOR_SUBTEXT"
 msgid "LURE HIM OUT"
-msgstr "ВЫМАНИТЕ ЕГО"
+msgstr "ВИМАНІТЬ ЙОГО"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_MELEE_OVERWATCH
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_MELEE_OVERWATCH"
 msgid "AMBUSH"
-msgstr "ЗАСАДА"
+msgstr "ЗАСІДКА"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_MELEE_OVERWATCH_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_MELEE_OVERWATCH_SUBTEXT"
 msgid "ATTACK DURING ENEMY MOVEMENT"
-msgstr "АТАКУЙТЕ, КОГДА БУДЕТ ХОД ПРОТИВНИКА"
+msgstr "АТАКУЙТЕ, КОЛИ БУДЕ ХІД ПРОТИВНИКА"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_DANGER_ZONE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_DANGER_ZONE"
 msgid "ENERGY SPIKE"
-msgstr "ЭНЕРГИТИЧЕСКОЕ ПОЛЕ"
+msgstr "ЕНЕРГЕТИЧНИЙ ВИКІД"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_DANGER_ZONE_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_DANGER_ZONE_SUBTEXT"
 msgid "RED IS DANGER"
-msgstr "КРАСНЫЙ ЦВЕТ ОЗНАЧАЕТ ОПАСНОСТЬ"
+msgstr "ЧЕРВОНИЙ - КОЛІР НЕБЕЗПЕКИ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER"
 msgid "RECON POINT"
-msgstr "МЕСТО НАБЛЮДЕНИЯ"
+msgstr "МІСЦЕ СЛІЖКИ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER_SUBTEXT"
@@ -1838,22 +1838,22 @@ msgstr ""
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER_PEEK
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER_PEEK"
 msgid "LOOK AROUND CORNERS"
-msgstr "ПОЛЬЗУЙТЕСЬ ВЫГЛЯДЫВАНИЕМ"
+msgstr "ПОГЛЯДУЙТЕ ЗА КУТИ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER_PEEK_SUBTEXT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_CORNER_PEEK_SUBTEXT"
 msgid "HOTKEY: <c:FF8411>[ P ]</>"
-msgstr "ГОРЯЧАЯ КЛАВИША: <c:FF8411>[ P ]</>"
+msgstr "ГАРЯЧА КНОПКА: <c:FF8411>[ P ]</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_ARMORED_GUARD
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_ARMORED_GUARD"
 msgid "ARMORED THREAT"
-msgstr "ПРОТИВНИК НОСИТ БРОНЮ"
+msgstr "ПРОТИВНИК У БРОНІ"
 
 #: STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_USE_COVER
 msgctxt "STRINGS.MISSIONS.JAILBREAK.INSTRUCTIONS_USE_COVER"
 msgid "USE COVER"
-msgstr "ВОСПОЛЬЗУЙТЕСЬ УКРЫТИЕМ"
+msgstr "КОРИСТУЙТЕСЬ СХОВКАМИ"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.1
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.1"
@@ -2449,72 +2449,72 @@ msgstr "Да, хорошо получается. Даже очень хорош�
 #: STRINGS.MISSIONS.ENDING_1.COMMUNICATIONS_NEXUS
 msgctxt "STRINGS.MISSIONS.ENDING_1.COMMUNICATIONS_NEXUS"
 msgid "SECURITY HUB"
-msgstr "УЗЕЛ БЕЗОПАСНОСТИ"
+msgstr "ВУЗОЛ БЕЗПЕКИ"
 
 #: STRINGS.MISSIONS.ENDING_1.HACK_WITH_MONST3R
 msgctxt "STRINGS.MISSIONS.ENDING_1.HACK_WITH_MONST3R"
 msgid "HACK WITH MONST3R"
-msgstr "ВЗЛОМАТЬ С ПОМОЩЬЮ МОН(ТРА"
+msgstr "ЗЛОМ З ДОПОМОГОЮ МОНСТ3РА"
 
 #: STRINGS.MISSIONS.ENDING_1.MAINFRAME_LOCK
 msgctxt "STRINGS.MISSIONS.ENDING_1.MAINFRAME_LOCK"
 msgid "MAINFRAME LOCK"
-msgstr "ЗАМОК ЯДРА"
+msgstr "ЗАМОК МЕЙНФРЕЙМУ"
 
 #: STRINGS.MISSIONS.ENDING_1.REQUIRES_SPECIAL_ACCESS
 msgctxt "STRINGS.MISSIONS.ENDING_1.REQUIRES_SPECIAL_ACCESS"
 msgid "REQUIRES SPECIAL ACCESS"
-msgstr "НЕОБХОДИМ СПЕЦ-ДОПУСК"
+msgstr "ПОТРІБНИЙ СПЕЦ-ДОСТУП"
 
 #: STRINGS.MISSIONS.ENDING_1.UNKNOWN_THREAT
 msgctxt "STRINGS.MISSIONS.ENDING_1.UNKNOWN_THREAT"
 msgid "UNKNOWN THREAT"
-msgstr "НЕИЗВЕСТНЫЙ ИСТОЧНИК ОПАСНОСТИ"
+msgstr "НЕВІДОМИЙ ПРОТИВНИК"
 
 #: STRINGS.MISSIONS.ENDING_1.LEAVE_WITHOUT_CENTRAL
 msgctxt "STRINGS.MISSIONS.ENDING_1.LEAVE_WITHOUT_CENTRAL"
 msgid "You can't leave without Central!"
-msgstr "Вы не можете уйти без Central!"
+msgstr "Ви не можете кинути Централю!"
 
 #: STRINGS.MISSIONS.ENDING_1.FIND_CONSOLE
 msgctxt "STRINGS.MISSIONS.ENDING_1.FIND_CONSOLE"
 msgid "Find the Security Hub"
-msgstr "Найти узел безопасности"
+msgstr "Знайти вузол безпеки"
 
 #: STRINGS.MISSIONS.ENDING_1.ESCAPE_TO_ELEVATOR
 msgctxt "STRINGS.MISSIONS.ENDING_1.ESCAPE_TO_ELEVATOR"
 msgid "Get to the elevator"
-msgstr "Добраться до лифта"
+msgstr "Дістатись ліфту"
 
 #: STRINGS.MISSIONS.ENDING_1.BRING_MONST3R
 msgctxt "STRINGS.MISSIONS.ENDING_1.BRING_MONST3R"
 msgid "Bring Monst3r to the final security console"
-msgstr "Привести Мон(тра к главной консоли безопасности"
+msgstr "Проведіть Монст3ра к головної консолі безпеки"
 
 #: STRINGS.MISSIONS.ENDING_1.BRING_CENTRAL
 msgctxt "STRINGS.MISSIONS.ENDING_1.BRING_CENTRAL"
 msgid "Access the Corporate Mainframe"
-msgstr "Добраться к ядру корпораций"
+msgstr "Дістатись до Мейнфрейму Корпорації"
 
 #: STRINGS.MISSIONS.ENDING_1.UPLOAD_INCOGNITA
 msgctxt "STRINGS.MISSIONS.ENDING_1.UPLOAD_INCOGNITA"
 msgid "Upload Incognita"
-msgstr "Установить Incognita"
+msgstr "Завантажити Incognita"
 
 #: STRINGS.MISSIONS.ENDING_1.OBJ_SECURITY_HUB
 msgctxt "STRINGS.MISSIONS.ENDING_1.OBJ_SECURITY_HUB"
 msgid "Protect Monst3r"
-msgstr "Защитите Мон(тра"
+msgstr "Захищати Монст3ра"
 
 #: STRINGS.MISSIONS.ENDING_1.HACK_CONSOLE
 msgctxt "STRINGS.MISSIONS.ENDING_1.HACK_CONSOLE"
 msgid "Hack the Security Hub"
-msgstr "Взломайте узел безопасности"
+msgstr "Взламати вузол безпеки"
 
 #: STRINGS.MISSIONS.ENDING_1.ALIVE_OPTIONAL
 msgctxt "STRINGS.MISSIONS.ENDING_1.ALIVE_OPTIONAL"
 msgid "<c:777777>> Agent survival optional</>"
-msgstr "<c:777777>> Выживание агентов не требуется</>"
+msgstr "<c:777777>> Виживання агентів необовязкове</>"
 
 #: STRINGS.MISSIONS.ESCAPE.CELLBLOCK_1
 msgctxt "STRINGS.MISSIONS.ESCAPE.CELLBLOCK_1"
@@ -2885,7 +2885,7 @@ msgstr "Курва! За це премії точно не дадуть. Тре�
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS"
 msgid "VITAL STATUS"
-msgstr "ЖИЗНЕННЫЙ СТАТУС"
+msgstr "ЖИТТЄВИЙ СТАН"
 
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT"
@@ -2895,7 +2895,7 @@ msgstr "ЗАЛИШИЛОСЬ %d ХОД(ІВ)"
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT_DEATH
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT_DEATH"
 msgid "EXPIRED"
-msgstr "ВРЕМЯ ВЫШЛО"
+msgstr "ЧАС ВИЙШОВ"
 
 #: STRINGS.MISSIONS.ESCAPE.OPERATOR_ESCAPE_PRISONER
 msgctxt "STRINGS.MISSIONS.ESCAPE.OPERATOR_ESCAPE_PRISONER"
@@ -3161,7 +3161,7 @@ msgstr "Получить зашифрованные данные"
 #: STRINGS.MISSIONS.ESCAPE.INTERROGAGE_TARGET
 msgctxt "STRINGS.MISSIONS.ESCAPE.INTERROGAGE_TARGET"
 msgid "INTERROGATE TARGET"
-msgstr "ДОПРОСИТЬ ЦЕЛЬ"
+msgstr "ДОПИТАТИ ЦІЛЬ"
 
 #: STRINGS.MISSIONS.ESCAPE.PRISONER_NAME
 msgctxt "STRINGS.MISSIONS.ESCAPE.PRISONER_NAME"
@@ -3746,12 +3746,12 @@ msgstr "Обнаружен незаблокированный нанофаб. Э
 #: STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR
 msgctxt "STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR"
 msgid "DETENTION PROCESSOR"
-msgstr "ПРОЦЕССОР ТЮРЬМЫ"
+msgstr "ПРОЦЕССОР ТЮРМИ"
 
 #: STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR_SUB
 msgctxt "STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR_SUB"
 msgid "OPEN CELL DOORS"
-msgstr "ОТКРОЙТЕ ДВЕРИ КАМЕР"
+msgstr "ВІДКРИЙТЕ КАМЕРИ"
 
 #: STRINGS.MISSIONS.UTIL.SERVER_FARM
 msgctxt "STRINGS.MISSIONS.UTIL.SERVER_FARM"
@@ -3761,72 +3761,72 @@ msgstr "СЕРВЕРНА ФЕРМА"
 #: STRINGS.MISSIONS.UTIL.PROGRAM_UPGRADES_AVAILABLE
 msgctxt "STRINGS.MISSIONS.UTIL.PROGRAM_UPGRADES_AVAILABLE"
 msgid "INCOGNITA UPGRADES AVAILABLE"
-msgstr "ДОСТУПНЫ УЛУЧШЕНИЯ ДЛЯ INCOGNITA"
+msgstr "ДОСТУПНІ ПОКРАЩЕННЯ INCOGNITA"
 
 #: STRINGS.MISSIONS.UTIL.ENCRYPTED_DATA
 msgctxt "STRINGS.MISSIONS.UTIL.ENCRYPTED_DATA"
 msgid "ENCRYPTED DATA DETECTED"
-msgstr "ОБНАРУЖЕНЫ ЗАШИФРОВАННЫЕ ДАННЫЕ"
+msgstr "ПОМІЧЕНІ ЗАШИФРОВАНІ ДАНІ"
 
 #: STRINGS.MISSIONS.UTIL.ADVANCED_TECHNOLOGY
 msgctxt "STRINGS.MISSIONS.UTIL.ADVANCED_TECHNOLOGY"
 msgid "ADVANCED TECHNOLOGY DETECTED"
-msgstr "ОБНАРУЖЕНЫ ПЕРЕДОВЫЕ ТЕХНОЛОГИИ"
+msgstr "ПОМІЧЕНІ НОВІТНІ ТЕХНОЛОГІЇ"
 
 #: STRINGS.MISSIONS.UTIL.HEAT_SIGNATURE_DETECTED
 msgctxt "STRINGS.MISSIONS.UTIL.HEAT_SIGNATURE_DETECTED"
 msgid "HEAT SIGNATURE DETECTED"
-msgstr "ОБНАРУЖЕН ТЕПЛОВОЙ СЛЕД"
+msgstr "ПОМІЧЕНИЙ ТЕПЛОВИЙ СЛІД"
 
 #: STRINGS.MISSIONS.UTIL.ACCESS_CARD_DETECTED
 msgctxt "STRINGS.MISSIONS.UTIL.ACCESS_CARD_DETECTED"
 msgid "ACCESS CODE CHIP"
-msgstr "ЗАВЛАДЕЙТЕ ЧИПОМ"
+msgstr "ЗАБЕРІТЬ ЧІП З КОДАМИ"
 
 #: STRINGS.MISSIONS.UTIL.RESCUE_PRISONER
 msgctxt "STRINGS.MISSIONS.UTIL.RESCUE_PRISONER"
 msgid "RESCUE PRISONER"
-msgstr "СПАСИТЕ ЗАКЛЮЧЁННОГО"
+msgstr "ВРЯТУЙТЕ В'ЯЗНЯ"
 
 #: STRINGS.MISSIONS.UTIL.RESCUE_HOSTAGE
 msgctxt "STRINGS.MISSIONS.UTIL.RESCUE_HOSTAGE"
 msgid "RESCUE HOSTAGE"
-msgstr "СПАСИТЕ ЗАЛОЖНИКА"
+msgstr "ВРЯТУЙТЕ ПОЛОНЕНОГО"
 
 #: STRINGS.MISSIONS.UTIL.SCANNER_LOCATED
 msgctxt "STRINGS.MISSIONS.UTIL.SCANNER_LOCATED"
 msgid "ECCM SIGNAL DETECTED"
-msgstr "ОБНАРУЖЕН СИГНАЛ ECCM"
+msgstr "ПОМІЧЕНО СИГНАЛ ECCM"
 
 #: STRINGS.MISSIONS.UTIL.LOCATING_AGENTS
 msgctxt "STRINGS.MISSIONS.UTIL.LOCATING_AGENTS"
 msgid "LOCATING AGENTS"
-msgstr "ПОИСК АГЕНТОВ"
+msgstr "ПОШУК АГЕНТОВ"
 
 #: STRINGS.MISSIONS.UTIL.CONNECT
 msgctxt "STRINGS.MISSIONS.UTIL.CONNECT"
 msgid "CONNECTION ESTABLISHED"
-msgstr "СОЕДИНЕНИЕ УСТАНОВЛЕНО"
+msgstr "ЗВЯЗОК ВСТАНОВЛЕНО"
 
 #: STRINGS.MISSIONS.UTIL.SYNC
 msgctxt "STRINGS.MISSIONS.UTIL.SYNC"
 msgid "SYNCHRONIZING"
-msgstr "СИНХРОНИЗАЦИЯ"
+msgstr "СИНХРОНІЗАЦІЯ"
 
 #: STRINGS.MISSIONS.UTIL.RAPID_PULSE_READING
 msgctxt "STRINGS.MISSIONS.UTIL.RAPID_PULSE_READING"
 msgid "RAPID PULSE READING"
-msgstr "СЧИТЫВАНИЕ ПУЛЬСА"
+msgstr "ШВИДКІСНЕ СЧИТУВАННЯ ПУЛЬСУ"
 
 #: STRINGS.MISSIONS.LOCATIONS.TUTORIAL.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TUTORIAL.NAME"
 msgid "Interrogation Room"
-msgstr "Комната для допросов"
+msgstr "Кімната для допитів"
 
 #: STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.NAME"
 msgid "Detention Center"
-msgstr "Место заключения"
+msgstr "Місце затриманих"
 
 #: STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.MORE_INFO"
@@ -3842,7 +3842,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.INSET_TITLE"
 msgid "CORPORATE PRISONERS"
-msgstr "ЗАКЛЮЧЁННЫЕ КОРПОРАЦИЙ"
+msgstr "В'ЯЗНІ КОРПОРАЦІЙ"
 
 #: STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.DETENTION_CENTER.INSET_TXT"
@@ -3884,7 +3884,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.INSET_TITLE"
 msgid "MAINFRAME SOFTWARE"
-msgstr "ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ"
+msgstr "ПЗ МЕЙНФРЕЙМІВ"
 
 #: STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.INSET_TXT"
@@ -3923,7 +3923,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.SECURITY.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SECURITY.INSET_TITLE"
 msgid "CORPORATE ESPIONAGE"
-msgstr "КОРПОРАТИВНЫЙ ШПИОНАЖ"
+msgstr "КОРПОРАТИВНИЙ ШПІОНАЖ"
 
 #: STRINGS.MISSIONS.LOCATIONS.SECURITY.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SECURITY.INSET_TXT"
@@ -3954,7 +3954,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.INSET_TITLE"
 msgid "ADVANCED GEAR"
-msgstr "УЛУЧШЕННОЕ ОБОРУДОВАНИЕ"
+msgstr "ПОКРАЩЕНЕ УСТАТКУВАННЯ"
 
 #: STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.GUARD_OFFICE.INSET_TXT"
@@ -3996,7 +3996,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.INSET_TITLE"
 msgid "CURRENT SITE LISTS"
-msgstr "СПИСКИ ТЕКУЩИХ МЕСТ"
+msgstr "СПИСКИ АКТУАЛЬНИХ МІСЦЬ"
 
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.INSET_TXT"
@@ -4037,7 +4037,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.NANO_FAB.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.NANO_FAB.INSET_TITLE"
 msgid "CONTRABAND TEMPLATES"
-msgstr "КОНТРАБАНДНЫЕ ОБРАЗЦЫ"
+msgstr "КОНТРАБАНДНІ ШАБЛОНИ"
 
 #: STRINGS.MISSIONS.LOCATIONS.NANO_FAB.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.NANO_FAB.INSET_TXT"
@@ -4079,7 +4079,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.VAULT.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.VAULT.INSET_TITLE"
 msgid "CREDIT RESERVES"
-msgstr "РЕЗЕРВНЫЕ СРЕДСТВА"
+msgstr "РЕЗЕРВИ КРЕДИТІВ"
 
 #: STRINGS.MISSIONS.LOCATIONS.VAULT.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.VAULT.INSET_TXT"
@@ -4117,7 +4117,7 @@ msgstr "Директор по финансам в этом месте храни
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TITLE"
 msgid "FINANCIAL PASS CODE"
-msgstr "ФИНАНСОВЫЙ КОД ДОСТУПА"
+msgstr "ФІНАНСОВИЙ КОД ДОСТУПУ"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TXT"
@@ -4156,7 +4156,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.CYBERLAB.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CYBERLAB.INSET_TITLE"
 msgid "AUGMENTS"
-msgstr "УЛУЧШЕНИЯ"
+msgstr "ПОКРАЩЕННЯ"
 
 #: STRINGS.MISSIONS.LOCATIONS.CYBERLAB.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CYBERLAB.INSET_TXT"
@@ -4179,7 +4179,7 @@ msgstr "Единоразовая возможность либо установ�
 #: STRINGS.MISSIONS.LOCATIONS.FINALMISSION.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.FINALMISSION.NAME"
 msgid "Mainframe"
-msgstr "Мэйнфрейм"
+msgstr "Мейнфрейм"
 
 #: STRINGS.MISSIONS.LOCATIONS.FINALMISSION.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.FINALMISSION.MORE_INFO"
@@ -4194,7 +4194,7 @@ msgstr ""
 #: STRINGS.MISSIONS.LOCATIONS.FINALMISSION.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.FINALMISSION.INSET_TITLE"
 msgid "SECNET ROOT ACCESS"
-msgstr "КОРНЕВОЙ ДОСТУП К SECNET"
+msgstr "ГЛОБАЛЬНИЙ ДОСТУП SECNET"
 
 #: STRINGS.MISSIONS.LOCATIONS.FINALMISSION.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.FINALMISSION.INSET_TXT"
@@ -4485,52 +4485,52 @@ msgstr "Агент нейтрализован. Это выйдет нам бок
 #: STRINGS.CENTRAL_BARKS.TEAM_DOWN
 msgctxt "STRINGS.CENTRAL_BARKS.TEAM_DOWN"
 msgid "Damn it, Operator!"
-msgstr "Чёрт побери, оператор!"
+msgstr "Блін, Оператор!"
 
 #: STRINGS.GUARD_STATUS.STATUS
 msgctxt "STRINGS.GUARD_STATUS.STATUS"
 msgid "STATUS:"
-msgstr "СТАТУС:"
+msgstr "СТАН:"
 
 #: STRINGS.GUARD_STATUS.PATROLLING
 msgctxt "STRINGS.GUARD_STATUS.PATROLLING"
 msgid "PATROLLING"
-msgstr "ПАТРУЛИРУЕТ"
+msgstr "ПАТРУЛЬ"
 
 #: STRINGS.GUARD_STATUS.IDLE
 msgctxt "STRINGS.GUARD_STATUS.IDLE"
 msgid "STATIONARY"
-msgstr "СТОИТ НА МЕСТЕ"
+msgstr "СТОЇТЬ НА МІСЦІ"
 
 #: STRINGS.GUARD_STATUS.INVESTIGATING
 msgctxt "STRINGS.GUARD_STATUS.INVESTIGATING"
 msgid "INVESTIGATING"
-msgstr "ИЗУЧАЕТ"
+msgstr "ВИВЧАЄ"
 
 #: STRINGS.GUARD_STATUS.START_INVESTIGATING
 msgctxt "STRINGS.GUARD_STATUS.START_INVESTIGATING"
 msgid "LOOKING AROUND"
-msgstr "СМОТРИТ ПО СТОРОНАМ"
+msgstr "ДИВИТЬСЯ ПО СТОРОНАХ"
 
 #: STRINGS.GUARD_STATUS.START_HUNTING
 msgctxt "STRINGS.GUARD_STATUS.START_HUNTING"
 msgid "PREPARING TO HUNT"
-msgstr "СОБИРАЕТСЯ ПРЕСЛЕДОВАТЬ"
+msgstr "ЗБИРАЄТЬСЯ ПЕРЕСЛІДУВАТИ"
 
 #: STRINGS.GUARD_STATUS.HUNTING
 msgctxt "STRINGS.GUARD_STATUS.HUNTING"
 msgid "HUNTING"
-msgstr "ПРЕСЛЕДУЕТ"
+msgstr "ПЕРЕСЛІДУЄ"
 
 #: STRINGS.GUARD_STATUS.COMBAT
 msgctxt "STRINGS.GUARD_STATUS.COMBAT"
 msgid "ALERT"
-msgstr "ОБЕСПОКОЕН"
+msgstr "ЗАНЕПОКОЇВСЯ"
 
 #: STRINGS.GUARD_STATUS.FLEEING
 msgctxt "STRINGS.GUARD_STATUS.FLEEING"
 msgid "FLEEING"
-msgstr "УБЕГАЕТ"
+msgstr "ВТІКАЄ"
 
 #: STRINGS.PROGRAMS.POWER_PER_TURN
 msgctxt "STRINGS.PROGRAMS.POWER_PER_TURN"
@@ -4540,42 +4540,42 @@ msgstr "%d ЕНЕРГІЇ / ХІД"
 #: STRINGS.PROGRAMS.POWER
 msgctxt "STRINGS.PROGRAMS.POWER"
 msgid "%d PWR"
-msgstr "%d ЭНЕРГИИ"
+msgstr "%d ЕНЕРГІЇ"
 
 #: STRINGS.PROGRAMS.COST
 msgctxt "STRINGS.PROGRAMS.COST"
 msgid "COST: %d PWR"
-msgstr "СТОИМОСТЬ: %d ЭНЕРГИИ"
+msgstr "ВАРТІСТЬ: %d ЕНЕРГІЇ"
 
 #: STRINGS.PROGRAMS.COST_PER_TURN
 msgctxt "STRINGS.PROGRAMS.COST_PER_TURN"
 msgid "COST: %d PWR PER TURN"
-msgstr "СТОИМОСТЬ: %d ЭНЕРГИИ ЗА ХОД"
+msgstr "ВАРТІСТЬ: %d ЕНЕРГІЇ ЗА ХІД"
 
 #: STRINGS.PROGRAMS.COOLDOWN
 msgctxt "STRINGS.PROGRAMS.COOLDOWN"
 msgid "COOLDOWN: %d TURNS"
-msgstr "ПЕРЕЗАРЯДКА: %d ХОДОВ"
+msgstr "ПЕРЕЗАРЯДКА: %d ХОДІВ"
 
 #: STRINGS.PROGRAMS.PWR
 msgctxt "STRINGS.PROGRAMS.PWR"
 msgid "PWR"
-msgstr "ЭНЕРГИЯ"
+msgstr "ЕНЕРГІЯ"
 
 #: STRINGS.PROGRAMS.TURNS
 msgctxt "STRINGS.PROGRAMS.TURNS"
 msgid "TURNS"
-msgstr "ХОД"
+msgstr "ХІД"
 
 #: STRINGS.PROGRAMS.EQUIPPED
 msgctxt "STRINGS.PROGRAMS.EQUIPPED"
 msgid "EQUIPPED"
-msgstr "АКТИВНО"
+msgstr "ВДІТЕ"
 
 #: STRINGS.PROGRAMS.PURCHASED
 msgctxt "STRINGS.PROGRAMS.PURCHASED"
 msgid "P R O G R A M  P U R C H A S E D"
-msgstr "П Р О Г Р А М М А  П Р И О Б Р Е Т Е Н А"
+msgstr "П Р О Г Р А М А  П Р И Д Б А Н А"
 
 #: STRINGS.PROGRAMS.PURCHASED_DESC
 msgctxt "STRINGS.PROGRAMS.PURCHASED_DESC"
@@ -4589,7 +4589,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.POWER_DRIP.NAME
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.NAME"
 msgid "POWER DRIP"
-msgstr "ГЕНЕРАТОР ЭНЕРГИИ"
+msgstr "ГЕНЕРАТОР ЕНЕРГІЇ"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.DESC
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.DESC"
@@ -4603,12 +4603,12 @@ msgstr ""
 #: STRINGS.PROGRAMS.POWER_DRIP.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.SHORT_DESC"
 msgid "AUTO GENERATE PWR"
-msgstr "АВТО-ГЕНЕРИРОВАНИЕ ЭНЕРГИИ"
+msgstr "АВТОГЕНЕРАТОР ЕНЕРГІЇ"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.HUD_DESC"
 msgid "+1 PWR PER TURN"
-msgstr "+1 ЭНЕРГИЯ ЗА ХОД"
+msgstr "+1 ЕНЕРГІЇ ЗА ХІД"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.WARNING
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.WARNING"
@@ -4616,18 +4616,18 @@ msgid ""
 "POWER DRIP\n"
 "+ 1 PWR"
 msgstr ""
-"ГЕНЕРАТОР ЭНЕРГИИ\n"
-"+1 ЭНЕРГИИ"
+"ГЕНЕРАТОР ЕНЕРГІЇ\n"
+"+1 ЕНЕРГІЇ"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.MODAL_1
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.MODAL_1"
 msgid "I N C O G N I T A  I S  R U N N I N G  A  P R O G R A M"
-msgstr "И Н К О Г Н И Т А  В Ы П О Л Н Я Е Т  П Р О Г Р А М М У"
+msgstr "I N C O G N I T A  В И К О Н У Є  П Р О Г Р А М У"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.MODAL_2
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.MODAL_2"
 msgid "POWER DRIP"
-msgstr "ГЕНЕРАТОР ЭНЕРГИИ"
+msgstr "ГЕНЕРАТОР ЕНЕРГІЇ"
 
 #: STRINGS.PROGRAMS.POWER_DRIP.MODAL_3
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.MODAL_3"
@@ -4637,7 +4637,7 @@ msgstr "Агенція забезпечила вас програмою Вкра
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.NAME
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.NAME"
 msgid "EMERGENCY RESERVE"
-msgstr "АВАРИЙНЫЙ РЕЗЕРВ"
+msgstr "АВАРІЙНИЙ РЕЗЕРВ"
 
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.DESC
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.DESC"
@@ -4651,12 +4651,12 @@ msgstr ""
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.SHORT_DESC"
 msgid "GAIN PWR WHEN LOW"
-msgstr "ДАЁТ ЭНЕРГИЮ КОГДА МАЛО"
+msgstr "ПІДЖИВЛЯЄ ЕНЕРГІЄЮ КОЛИ МАЛО"
 
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.HUD_DESC"
 msgid "+ 5 PWR WHEN 3 OR BELOW"
-msgstr "+5 ЭНЕРГИИ КОГДА МЕНЬШЕ 4"
+msgstr "+5 ЕНЕРГІЇ КОЛИ МЕНЬШЕ 4"
 
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.WARNING
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.WARNING"
@@ -4664,13 +4664,13 @@ msgid ""
 "EMERGENCY RESERVE\n"
 "+ %d PWR"
 msgstr ""
-"АВАРИЙНЫЙ РЕЗЕРВ\n"
-"+%d ЭНЕРГИИ"
+"АВАРІЙНИЙ РЕЗЕРВ\n"
+"+%d ЕНЕРГІЇ"
 
 #: STRINGS.PROGRAMS.LOCKPICK.NAME
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.NAME"
 msgid "LOCKPICK 1.0"
-msgstr "ОТМЫЧКА 1.0"
+msgstr "ВІДКРИВАШКА 1.0"
 
 #: STRINGS.PROGRAMS.LOCKPICK.DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.DESC"
@@ -4695,7 +4695,7 @@ msgstr "ПРОНИКАЕТ ЧЕРЕЗ <c:FF8411>1 СЕТЕВОЙ ЭКРАН</c>.
 #: STRINGS.PROGRAMS.RAPIER.NAME
 msgctxt "STRINGS.PROGRAMS.RAPIER.NAME"
 msgid "RAPIER"
-msgstr "РАПИРА"
+msgstr "РАПІРА"
 
 #: STRINGS.PROGRAMS.RAPIER.DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.DESC"
