@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 136061\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-05-14 13:57+0100\n"
+"PO-Revision-Date: 2015-05-14 21:20+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UK\n"
@@ -3756,7 +3756,7 @@ msgstr "ОТКРОЙТЕ ДВЕРИ КАМЕР"
 #: STRINGS.MISSIONS.UTIL.SERVER_FARM
 msgctxt "STRINGS.MISSIONS.UTIL.SERVER_FARM"
 msgid "SERVER FARM"
-msgstr "СЕРВЕРНАЯ ФЕРМА"
+msgstr "СЕРВЕРНА ФЕРМА"
 
 #: STRINGS.MISSIONS.UTIL.PROGRAM_UPGRADES_AVAILABLE
 msgctxt "STRINGS.MISSIONS.UTIL.PROGRAM_UPGRADES_AVAILABLE"
@@ -3868,7 +3868,7 @@ msgstr "Дополнительный агент или награда за ос�
 #: STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.NAME"
 msgid "Server Farm"
-msgstr "Серверная ферма"
+msgstr "Серверна ферма"
 
 #: STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.SERVER_FARM.MORE_INFO"
@@ -6488,17 +6488,17 @@ msgstr "30 секунд"
 #: STRINGS.UI.GENOPTIONS.TIMEATTACK.3
 msgctxt "STRINGS.UI.GENOPTIONS.TIMEATTACK.3"
 msgid "1 Minute"
-msgstr "1 минута"
+msgstr "1 хвилина"
 
 #: STRINGS.UI.GENOPTIONS.TIMEATTACK.4
 msgctxt "STRINGS.UI.GENOPTIONS.TIMEATTACK.4"
 msgid "2 Minutes"
-msgstr "2 минуты"
+msgstr "2 хвилини"
 
 #: STRINGS.UI.GENOPTIONS.TIMEATTACK.5
 msgctxt "STRINGS.UI.GENOPTIONS.TIMEATTACK.5"
 msgid "5 Minutes"
-msgstr "5 минут"
+msgstr "5 хвилин"
 
 #: STRINGS.UI.ENEMY_ACTIVITY
 msgctxt "STRINGS.UI.ENEMY_ACTIVITY"
@@ -6513,7 +6513,7 @@ msgstr "ДІЇ АГЕНТА"
 #: STRINGS.UI.TURN
 msgctxt "STRINGS.UI.TURN"
 msgid "TURN %d"
-msgstr "ХІД %d"
+msgstr "ХIД %d"
 
 #: STRINGS.UI.PREV
 msgctxt "STRINGS.UI.PREV"
@@ -6533,42 +6533,42 @@ msgstr "> OK"
 #: STRINGS.UI.GUARD_KILLED
 msgctxt "STRINGS.UI.GUARD_KILLED"
 msgid "Killed"
-msgstr "Был убит"
+msgstr "Вбитий"
 
 #: STRINGS.UI.GUARD_ALERTED
 msgctxt "STRINGS.UI.GUARD_ALERTED"
 msgid "Alerted"
-msgstr "Был побеспокоен"
+msgstr "Занепокоєний"
 
 #: STRINGS.UI.GUARD_DISTRACTED
 msgctxt "STRINGS.UI.GUARD_DISTRACTED"
 msgid "Distracted"
-msgstr "Был отвлечён"
+msgstr "Відволікся"
 
 #: STRINGS.UI.GUARD_GHOSTED
 msgctxt "STRINGS.UI.GUARD_GHOSTED"
 msgid "Undisturbed"
-msgstr "Не был побеспокоен"
+msgstr "Безтурботний"
 
 #: STRINGS.UI.CORPSE_OF
 msgctxt "STRINGS.UI.CORPSE_OF"
 msgid "CORPSE OF %s"
-msgstr "ТЕЛО %s"
+msgstr "ТІЛО %s"
 
 #: STRINGS.UI.MISSION_SUCCESS
 msgctxt "STRINGS.UI.MISSION_SUCCESS"
 msgid "MISSION REPORT"
-msgstr "РЕЗУЛЬТАТЫ ЗАДАНИЯ"
+msgstr "РЕЗУЛЬТАТИ ЗАВДАННЯ"
 
 #: STRINGS.UI.MISSION_FAILURE
 msgctxt "STRINGS.UI.MISSION_FAILURE"
 msgid "AGENCY ELIMINATED"
-msgstr "АГЕНТСТВО УНИЧТОЖЕНО"
+msgstr "АГЕНЦІЯ ЗНИЩЕНА"
 
 #: STRINGS.UI.MISSION_LOCATION
 msgctxt "STRINGS.UI.MISSION_LOCATION"
 msgid "LOCATION: %s"
-msgstr "МЕСТОПОЛОЖЕНИЕ: %s"
+msgstr "МІСЦЕ: %s"
 
 #: STRINGS.UI.CENTRAL_TITLE
 msgctxt "STRINGS.UI.CENTRAL_TITLE"
@@ -6578,7 +6578,7 @@ msgstr "ЦЕНТРАЛЯ"
 #: STRINGS.UI.MONST3R_TITLE
 msgctxt "STRINGS.UI.MONST3R_TITLE"
 msgid "MONST3R"
-msgstr "МОН(ТР"
+msgstr "МОНСТ3Р"
 
 #: STRINGS.UI.INCOGNITA_TITLE
 msgctxt "STRINGS.UI.INCOGNITA_TITLE"
@@ -6593,7 +6593,7 @@ msgstr "ТАСВЕЛЛ"
 #: STRINGS.UI.TASWELL_INFO_BTN
 msgctxt "STRINGS.UI.TASWELL_INFO_BTN"
 msgid "MORE INFO"
-msgstr "ПОДРОБНЕЕ"
+msgstr "ДОКЛАДНІШЕ"
 
 #: STRINGS.UI.TASWELL_QUOTE
 msgctxt "STRINGS.UI.TASWELL_QUOTE"
@@ -7584,57 +7584,57 @@ msgstr "Ожидайте летальное сопротивление с пер
 #: STRINGS.UI.DIFFICULTY.1
 msgctxt "STRINGS.UI.DIFFICULTY.1"
 msgid "GUARDED"
-msgstr "ОХРАНЯЕТСЯ"
+msgstr "ОХОРОНА"
 
 #: STRINGS.UI.DIFFICULTY.2
 msgctxt "STRINGS.UI.DIFFICULTY.2"
 msgid "VERY GUARDED"
-msgstr "ХОРОШО ОХРАНЯЕТСЯ"
+msgstr "ДОБРА ОХОРОНА"
 
 #: STRINGS.UI.DIFFICULTY.3
 msgctxt "STRINGS.UI.DIFFICULTY.3"
 msgid "HEAVILY GUARDED"
-msgstr "ОЧЕНЬ ХОРОШО ОХРАНЯЕТСЯ"
+msgstr "ТЯЖКА ОХОРОНА"
 
 #: STRINGS.UI.DIFFICULTY.4
 msgctxt "STRINGS.UI.DIFFICULTY.4"
 msgid "EXTREMELY GUARDED"
-msgstr "ОХРАНЯЕТСЯ ПЕРВОКЛАСНО"
+msgstr "ПЕРШОКЛАСНА ОХОРОНА"
 
 #: STRINGS.UI.DIFFICULTY.5
 msgctxt "STRINGS.UI.DIFFICULTY.5"
 msgid "COMPLETELY GUARDED"
-msgstr "ОХРАНЯЕТСЯ МАКСИМАЛЬНО"
+msgstr "МАКСИМАЛЬНА ОХОРОНА"
 
 #: STRINGS.UI.DIFFICULTY.6
 msgctxt "STRINGS.UI.DIFFICULTY.6"
 msgid "OMNI ALLY"
-msgstr "СТОРОННИКИ OMNI"
+msgstr "ПРИБІЧНИКИ OMNI"
 
 #: STRINGS.UI.DIFFICULTY.7
 msgctxt "STRINGS.UI.DIFFICULTY.7"
 msgid "OMNI GUARDED"
-msgstr "ОХРАНЯЕТСЯ OMNI"
+msgstr "НАГЛЯДАЄТЬСЯ OMNI"
 
 #: STRINGS.UI.DIFFICULTY.8
 msgctxt "STRINGS.UI.DIFFICULTY.8"
 msgid "OMNI PROTECTED"
-msgstr "ЗАЩИЩЕНО OMNI"
+msgstr "ЗАХИЩЕНО OMNI"
 
 #: STRINGS.UI.DIFFICULTY.9
 msgctxt "STRINGS.UI.DIFFICULTY.9"
 msgid "OMNI CONTROLLED"
-msgstr "КОНТРОЛИРУЕТСЯ OMNI"
+msgstr "КОНТРОЛЮЄТЬСЯ OMNI"
 
 #: STRINGS.UI.DIFFICULTY.10
 msgctxt "STRINGS.UI.DIFFICULTY.10"
 msgid "OMNI SHIELDED"
-msgstr "СИЛЬНО ЗАЩИЩЕНО OMNI"
+msgstr "ПІД ЗАХИСТОМ OMNI"
 
 #: STRINGS.UI.DIFFICULTY.11
 msgctxt "STRINGS.UI.DIFFICULTY.11"
 msgid "OMNI OVERWHELMED"
-msgstr "КРЕПОСТЬ OMNI"
+msgstr "ФОРТЕЦЯ OMNI"
 
 #: STRINGS.UI.CAMERA_DRONE_DISPATCHED
 msgctxt "STRINGS.UI.CAMERA_DRONE_DISPATCHED"
@@ -8621,7 +8621,7 @@ msgstr "Х РАЗЛОГИНИТЬСЯ"
 #: STRINGS.UI.CONTINUE
 msgctxt "STRINGS.UI.CONTINUE"
 msgid "> CONTINUE"
-msgstr "> ПРОДОЛЖИТЬ"
+msgstr "> ПРОДОВЖИТИ"
 
 #: STRINGS.UI.FORUMS
 msgctxt "STRINGS.UI.FORUMS"
@@ -8651,7 +8651,7 @@ msgstr "ОСВОБОЖДЁН"
 #: STRINGS.UI.ACTIVE
 msgctxt "STRINGS.UI.ACTIVE"
 msgid "ACTIVE"
-msgstr "В СТРОЮ"
+msgstr "ДІЄВИЙ"
 
 #: STRINGS.UI.REEQUIPPED
 msgctxt "STRINGS.UI.REEQUIPPED"
@@ -8889,12 +8889,12 @@ msgstr "%d КР"
 #: STRINGS.UI.UPGRADE_SCREEN_SELECT_UPGRADE
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_SELECT_UPGRADE"
 msgid "SELECT A SKILL TO UPGRADE"
-msgstr "ВЫБЕРИТЕ НАВЫК, КОТОРЫЙ НУЖНО УЛУЧШИТЬ"
+msgstr "ВИБЕРІТЬ ВМІННЯ ДЛЯ ПОКРАЩЕННЯ"
 
 #: STRINGS.UI.UPGRADE_SCREEN_UPGRADE_TITLE
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_UPGRADE_TITLE"
 msgid "UPGRADE {1}"
-msgstr "УЛУЧШИТЬ {1}"
+msgstr "ПОКРАЩЕННЯ {1}"
 
 #: STRINGS.UI.UPGRADE_SCREEN_CONFIRM
 msgctxt "STRINGS.UI.UPGRADE_SCREEN_CONFIRM"
@@ -11597,7 +11597,7 @@ msgstr "??"
 #: STRINGS.CORP.KO.NAME
 msgctxt "STRINGS.CORP.KO.NAME"
 msgid "Kelfried & Odin Weapons Foundry"
-msgstr "Завод оружия Келфрид & Один"
+msgstr "Фабрика зброї Келфрід & Одін"
 
 #: STRINGS.CORP.KO.SHORTNAME
 msgctxt "STRINGS.CORP.KO.SHORTNAME"
