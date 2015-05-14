@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 136061\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-05-13 23:16+0100\n"
+"PO-Revision-Date: 2015-05-14 13:57+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UK\n"
@@ -1345,7 +1345,7 @@ msgstr "Просто сделай это. Я не боюсь смерти."
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.2"
 msgid "Are you watching this, Operator? This is on you."
-msgstr "Ты это видишь, оператор? Всё в твоих руках."
+msgstr "Оператор, ти це відслідковуєш? Все в твоїх руках."
 
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.3"
@@ -1355,7 +1355,7 @@ msgstr "Живьём они меня не возьмут."
 #: STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4
 msgctxt "STRINGS.AGENTS.CENTRAL.BANTER.FINAL_WORDS.4"
 msgid "Operator, don't let Invisible die with me."
-msgstr "Оператор, не дай Invisible умереть вместе со мной."
+msgstr "Оператор, не дай Invisible загинути разом зі мною."
 
 #: STRINGS.AGENTS.MONST3R.NAME
 msgctxt "STRINGS.AGENTS.MONST3R.NAME"
@@ -1674,7 +1674,7 @@ msgstr "В А С  П Р И В Е Т С Т В У Е Т  И Н К О Г Н И Т �
 #: STRINGS.MISSIONS.JAILBREAK.LOCKPICK_MODAL_DESC
 msgctxt "STRINGS.MISSIONS.JAILBREAK.LOCKPICK_MODAL_DESC"
 msgid "The agency has provided you with <c:faff0a>LOCKPICK 1.0</>, a program that enables you to <c:faff0a>hack 1 Firewall for 2 Power (PWR)</>."
-msgstr "Агентство обеспечило вас программой <c:faff0a>ОТМЫЧКА 1.0</>, позволяющей <c:faff0a>взломать 1 сетевой экран за 2 энергии</>."
+msgstr "Агенція забезпечила вас програмою <c:faff0a>ВІДКРИВАЧКА 1.0</>, яка дозволяє <c:faff0a>зламати 1 брандмауер за 2 енергії</>."
 
 #: STRINGS.MISSIONS.JAILBREAK.BLINDSPOT_MODAL_TITLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.BLINDSPOT_MODAL_TITLE"
@@ -1968,7 +1968,7 @@ msgstr "<c:faff0a>Закрой дверь</>, чтобы скрыть следы
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_CONSOLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_CONSOLE"
 msgid "We're going to need <c:faff0a>POWER (PWR)</> in order to hack their system. Jack that console for a quick boost."
-msgstr "Нам понадобится <c:faff0a>ЭНЕРГИЯ (PWR)</>, чтобы взломать их систему. Подключись к этой консоли для быстрой подпитки."
+msgstr "Нам знадобиться <c:faff0a>ЕНЕРГІЯ</>, щоб зламати їх захист. Під'єднатись до консолі для швидкої спроби."
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_GOT_CONSOLE
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_GOT_CONSOLE"
@@ -2067,7 +2067,7 @@ msgstr "На этом всё. Встреться с Интернационал, 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_CAUGHT
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_CAUGHT"
 msgid "Damn it, Operator!"
-msgstr "Чёрт побери, оператор!"
+msgstr "Грець тебе заберай, Оператор!"
 
 #: STRINGS.MISSIONS.FINALMISSION.INTRO_CONVO.1
 msgctxt "STRINGS.MISSIONS.FINALMISSION.INTRO_CONVO.1"
@@ -2082,7 +2082,7 @@ msgstr "Один. Ноль. Один. Один. Отключаю."
 #: STRINGS.MISSIONS.FINALMISSION.INTRO_CONVO.3
 msgctxt "STRINGS.MISSIONS.FINALMISSION.INTRO_CONVO.3"
 msgid "Damn it! I'll try to do a manual restart but it's going to hurt."
-msgstr "Чёрт! Я попытаюсь перезапустить вручную, но будет немного больно."
+msgstr "Йосип старенький! Я спробую перезапустити в ручну, буде боляче."
 
 #: STRINGS.MISSIONS.FINALMISSION.INTRO_CONVO.4
 msgctxt "STRINGS.MISSIONS.FINALMISSION.INTRO_CONVO.4"
@@ -2203,7 +2203,7 @@ msgstr "Всё чисто."
 #: STRINGS.MISSIONS.FINALMISSION.SUPERCHARGE_CONVO.3
 msgctxt "STRINGS.MISSIONS.FINALMISSION.SUPERCHARGE_CONVO.3"
 msgid "What the hell was that?"
-msgstr "Что, чёрт возьми, это было?"
+msgstr "А що то було?"
 
 #: STRINGS.MISSIONS.FINALMISSION.SUPERCHARGE_CONVO.4
 msgctxt "STRINGS.MISSIONS.FINALMISSION.SUPERCHARGE_CONVO.4"
@@ -2880,7 +2880,7 @@ msgstr "Отлично, команда. Нам следует стабилизи
 #: STRINGS.MISSIONS.ESCAPE.CENTRAL_HOSTAGE_DEATH
 msgctxt "STRINGS.MISSIONS.ESCAPE.CENTRAL_HOSTAGE_DEATH"
 msgid "Damn it! There goes any bonus. We will discuss this further in debriefing."
-msgstr "Какого чёрта?! За такое бонусов не выплачивают. Мы обсудим это после миссии."
+msgstr "Курва! За це премії точно не дадуть. Треба буде оговорити цей пункт в майбутньому."
 
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS"
@@ -2890,7 +2890,7 @@ msgstr "ЖИЗНЕННЫЙ СТАТУС"
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT"
 msgid "%d TURN(S) REMAINING"
-msgstr "%d ХОД(ОВ) ОСТАЛОСЬ"
+msgstr "ЗАЛИШИЛОСЬ %d ХОД(ІВ)"
 
 #: STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT_DEATH
 msgctxt "STRINGS.MISSIONS.ESCAPE.HOSTAGE_VITALS_SUBTEXT_DEATH"
@@ -2950,7 +2950,7 @@ msgstr "Занятно, он обладает навыками ментальн�
 #: STRINGS.MISSIONS.ESCAPE.SCAN_3
 msgctxt "STRINGS.MISSIONS.ESCAPE.SCAN_3"
 msgid "Dammit! He got a signal out. Expect more company soon."
-msgstr "Чёрт! Он перехватил сигнал. Ожидай очередную порцию \"друзей\"."
+msgstr "Чорт! Він перехопив сигнал. Зустрічай нових \"друзів\" найближчим часом."
 
 #: STRINGS.MISSIONS.ESCAPE.SCAN_4
 msgctxt "STRINGS.MISSIONS.ESCAPE.SCAN_4"
@@ -4535,7 +4535,7 @@ msgstr "УБЕГАЕТ"
 #: STRINGS.PROGRAMS.POWER_PER_TURN
 msgctxt "STRINGS.PROGRAMS.POWER_PER_TURN"
 msgid "%d PWR / TURN"
-msgstr "%d ЭНЕРГИИ / ХОД"
+msgstr "%d ЕНЕРГІЇ / ХІД"
 
 #: STRINGS.PROGRAMS.POWER
 msgctxt "STRINGS.PROGRAMS.POWER"
@@ -4632,7 +4632,7 @@ msgstr "ГЕНЕРАТОР ЭНЕРГИИ"
 #: STRINGS.PROGRAMS.POWER_DRIP.MODAL_3
 msgctxt "STRINGS.PROGRAMS.POWER_DRIP.MODAL_3"
 msgid "Your agency has provided the Power Drip program for you. This program automatically generates 1 PWR at the start of each turn."
-msgstr "Агентство предоставило вам программу Генератор энергии. Эта программа автоматические генерирует 1 ЭНЕРГИЮ к началу каждого хода."
+msgstr "Агенція забезпечила вас програмою Вкраплення Енергії. Програма генерує 1 ЕНЕРГІЮ на початку кожного ходу."
 
 #: STRINGS.PROGRAMS.EMERGENCY_DRIP.NAME
 msgctxt "STRINGS.PROGRAMS.EMERGENCY_DRIP.NAME"
@@ -6573,7 +6573,7 @@ msgstr "МЕСТОПОЛОЖЕНИЕ: %s"
 #: STRINGS.UI.CENTRAL_TITLE
 msgctxt "STRINGS.UI.CENTRAL_TITLE"
 msgid "CENTRAL"
-msgstr "ЦЕНТРОВАЯ"
+msgstr "ЦЕНТРАЛЯ"
 
 #: STRINGS.UI.MONST3R_TITLE
 msgctxt "STRINGS.UI.MONST3R_TITLE"
@@ -6978,12 +6978,12 @@ msgstr ""
 #: STRINGS.UI.MAP_DAY_1_MISSION_3.3
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_3.3"
 msgid "Power reserves critical. Entering standby mode."
-msgstr "Энергетические резервы подходят к концу. Перехожу в режим ожидания."
+msgstr "Рівень енергії на критичному рівні. Переходжу в режим очікування."
 
 #: STRINGS.UI.MAP_DAY_1_MISSION_3.4
 msgctxt "STRINGS.UI.MAP_DAY_1_MISSION_3.4"
 msgid "Carry on, Operator. We'll figure something out."
-msgstr "Продолжай, оператор. Мы что нибудь придумаем."
+msgstr "Оператор, продовжуй. Ми щось придумаємо."
 
 #: STRINGS.UI.MAP_DAY_2_MISSION_1.1
 msgctxt "STRINGS.UI.MAP_DAY_2_MISSION_1.1"
@@ -7495,7 +7495,7 @@ msgstr "<c:8cffff>АКТУАЛЬНАЯ СБОРКА!</>"
 #: STRINGS.UI.EARLY_ACCESS_DAYS
 msgctxt "STRINGS.UI.EARLY_ACCESS_DAYS"
 msgid "<c:8cffff>NEXT BUILD IN %d DAYS</>"
-msgstr "<c:8cffff>СЛЕДУЮЩАЯ СБОРКА ЧЕРЕЗ %d ДНЕЙ</>"
+msgstr "<c:8cffff>НАСТУПНА ВЕРСІЯ ЧЕРЕЗ %d ДНІВ</>"
 
 #: STRINGS.UI.EARLY_ACCESS_IMMINENT
 msgctxt "STRINGS.UI.EARLY_ACCESS_IMMINENT"
@@ -7515,12 +7515,12 @@ msgstr "Больше можно найти в Workshop..."
 #: STRINGS.UI.MODS_UPDATE
 msgctxt "STRINGS.UI.MODS_UPDATE"
 msgid "REFRESH LANGUAGES"
-msgstr "ПРОВЕРИТЬ ПЕРЕВОДЫ"
+msgstr "ОНОВИТИ ПЕРЕКЛАДИ"
 
 #: STRINGS.UI.MODS_UPDATING
 msgctxt "STRINGS.UI.MODS_UPDATING"
 msgid "UPDATING: %{1}"
-msgstr "ОБНОВЛЕНИЕ: {1}"
+msgstr "ОНОВЛЕННЯ: {1}"
 
 #: STRINGS.UI.MODS_OFFLINE
 msgctxt "STRINGS.UI.MODS_OFFLINE"
@@ -7970,52 +7970,52 @@ msgstr ""
 #: STRINGS.UI.NORMAL_DIFFICULTY
 msgctxt "STRINGS.UI.NORMAL_DIFFICULTY"
 msgid "Beginner"
-msgstr "Новичок"
+msgstr "Початківець"
 
 #: STRINGS.UI.EXPERIENCED_DIFFICULTY
 msgctxt "STRINGS.UI.EXPERIENCED_DIFFICULTY"
 msgid "Experienced"
-msgstr "Опытный"
+msgstr "Досвідчений"
 
 #: STRINGS.UI.HARD_DIFFICULTY
 msgctxt "STRINGS.UI.HARD_DIFFICULTY"
 msgid "Expert"
-msgstr "Эксперт"
+msgstr "Експерт"
 
 #: STRINGS.UI.VERY_HARD_DIFFICULTY
 msgctxt "STRINGS.UI.VERY_HARD_DIFFICULTY"
 msgid "Expert Plus"
-msgstr "Эксперт плюс"
+msgstr "Експерт плюс"
 
 #: STRINGS.UI.ENDLESS_DIFFICULTY
 msgctxt "STRINGS.UI.ENDLESS_DIFFICULTY"
 msgid "Endless"
-msgstr "Бесконечная"
+msgstr "Захмарна"
 
 #: STRINGS.UI.ENDLESS_PLUS_DIFFICULTY
 msgctxt "STRINGS.UI.ENDLESS_PLUS_DIFFICULTY"
 msgid "Endless Plus"
-msgstr "Бесконечная плюс"
+msgstr "Захмарна плюс"
 
 #: STRINGS.UI.TIME_ATTACK_DIFFICULTY
 msgctxt "STRINGS.UI.TIME_ATTACK_DIFFICULTY"
 msgid "Time Attack"
-msgstr "Атака по времени"
+msgstr "Атака з часом"
 
 #: STRINGS.UI.CUSTOM_DIFFICULTY
 msgctxt "STRINGS.UI.CUSTOM_DIFFICULTY"
 msgid "Custom"
-msgstr "Пользовательская"
+msgstr "Користувацька"
 
 #: STRINGS.UI.TUTORIAL_DIFFICULTY
 msgctxt "STRINGS.UI.TUTORIAL_DIFFICULTY"
 msgid "Tutorial"
-msgstr "Обучение"
+msgstr "Навчання"
 
 #: STRINGS.UI.DIFFICULTY_STR
 msgctxt "STRINGS.UI.DIFFICULTY_STR"
 msgid "Difficulty"
-msgstr ""
+msgstr "Складність"
 
 #: STRINGS.UI.NORMAL_SHORT_DESC
 msgctxt "STRINGS.UI.NORMAL_SHORT_DESC"
@@ -8109,12 +8109,12 @@ msgstr ""
 #: STRINGS.UI.REWIND
 msgctxt "STRINGS.UI.REWIND"
 msgid "REWIND"
-msgstr "ОТМОТАТЬ"
+msgstr "ВІДМОТАТИ"
 
 #: STRINGS.UI.REWIND_CONFIRM
 msgctxt "STRINGS.UI.REWIND_CONFIRM"
 msgid "REWIND"
-msgstr "ОТМОТАТЬ"
+msgstr "ВІДМОТАТИ"
 
 #: STRINGS.UI.REWIND_TIP
 msgctxt "STRINGS.UI.REWIND_TIP"
@@ -8123,14 +8123,14 @@ msgid ""
 "\n"
 "REWINDS REMAINING: "
 msgstr ""
-"Перемотать игру к началу предыдущего хода.\n"
+"Перемотати гру на початок попереднього ходу.\n"
 "\n"
-"ПЕРЕМОТОК ОСТАЛОСЬ: "
+"ЗАЛИШИЛОСЬ ПЕРЕМОТОК: "
 
 #: STRINGS.UI.REWINDS_REMAINING
 msgctxt "STRINGS.UI.REWINDS_REMAINING"
 msgid "REWINDS REMAINING: {1}"
-msgstr "ПЕРЕМОТОК ОСТАЛОСЬ: {1}"
+msgstr "ЗАЛИШИЛОСЬ ПЕРЕМОТОК: {1}"
 
 #: STRINGS.UI.REWIND_SUGGEST
 msgctxt "STRINGS.UI.REWIND_SUGGEST"
@@ -8181,12 +8181,12 @@ msgstr "НАДВИГАЕТСЯ ОПАСНОСТЬ"
 #: STRINGS.UI.QUIT_CONFIRM
 msgctxt "STRINGS.UI.QUIT_CONFIRM"
 msgid "Are you sure you want to exit the game?"
-msgstr "Вы уверены, что хотите выйти?"
+msgstr "Впевнені, що хочете покинути гру?"
 
 #: STRINGS.UI.QUIT
 msgctxt "STRINGS.UI.QUIT"
 msgid "Exit Game"
-msgstr "Выйти из игры"
+msgstr "Вийти з  гри"
 
 #: STRINGS.UI.NEW_GAME
 msgctxt "STRINGS.UI.NEW_GAME"
@@ -8929,62 +8929,62 @@ msgstr "> Я ГОТОВ"
 #: STRINGS.UI.HOTKEYS.GAMEPLAY
 msgctxt "STRINGS.UI.HOTKEYS.GAMEPLAY"
 msgid "GAMEPLAY"
-msgstr "ИГРОВОЙ ПРОЦЕСС"
+msgstr "ІГРОЛАД"
 
 #: STRINGS.UI.HOTKEYS.NEXT_TURN
 msgctxt "STRINGS.UI.HOTKEYS.NEXT_TURN"
 msgid "NEXT TURN"
-msgstr "СЛЕДУЮЩИЙ ШАГ"
+msgstr "НАСТУПНИЙ КРОК"
 
 #: STRINGS.UI.HOTKEYS.MAINFRAME
 msgctxt "STRINGS.UI.HOTKEYS.MAINFRAME"
 msgid "TOGGLE MAINFRAME"
-msgstr "ВКЛЮЧИТЬ ЯДРО INCOGNITA"
+msgstr "ПЕРЕМИКНУТИ МЕЙНФРЕЙМ"
 
 #: STRINGS.UI.HOTKEYS.CYCLE_SELECT
 msgctxt "STRINGS.UI.HOTKEYS.CYCLE_SELECT"
 msgid "CYCLE SELECTION"
-msgstr "ПЕРЕКЛЮЧИТЬ АГЕНТА"
+msgstr "ЗМІНИТИ ВИБІР"
 
 #: STRINGS.UI.HOTKEYS.CHAR_SHEET
 msgctxt "STRINGS.UI.HOTKEYS.CHAR_SHEET"
 msgid "CHARACTER SHEET"
-msgstr "ИНФОРМАЦИЯ ОБ АГЕНТЕ"
+msgstr "ХАРАКТЕРИСТИКИ ПЕРСОНАЖУ"
 
 #: STRINGS.UI.HOTKEYS.USE_OVERWATCH
 msgctxt "STRINGS.UI.HOTKEYS.USE_OVERWATCH"
 msgid "TOGGLE OVERWATCH"
-msgstr "ПЕРЕКЛЮЧИТЬ ДОЗОР"
+msgstr "ПЕРЕМИКНУТИ ПАТРУЛЮВАННЯ"
 
 #: STRINGS.UI.HOTKEYS.USE_MELEE
 msgctxt "STRINGS.UI.HOTKEYS.USE_MELEE"
 msgid "TOGGLE AMBUSH"
-msgstr "ПЕРЕКЛЮЧИТЬ ЗАСАДУ"
+msgstr "ПЕРЕМИКНУТИ ЗАСІДКУ"
 
 #: STRINGS.UI.HOTKEYS.USE_PEEK
 msgctxt "STRINGS.UI.HOTKEYS.USE_PEEK"
 msgid "PEEK"
-msgstr "ВЫГЛЯДЫВАТЬ"
+msgstr "ВИГЛЯНУТИ"
 
 #: STRINGS.UI.HOTKEYS.USE_SPRINT
 msgctxt "STRINGS.UI.HOTKEYS.USE_SPRINT"
 msgid "TOGGLE SPRINT"
-msgstr "ПЕРЕКЛЮЧИТЬ БЕГ"
+msgstr "ЗМІНИТИ НА БІГ"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_CONTROLS
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_CONTROLS"
 msgid "CAMERA CONTROLS"
-msgstr "КЛАВИШИ УПРАВЛЕНИЯ КАМЕРОЙ"
+msgstr "УПРАВЛІННЯ КАМЕРОЮ"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_ROTATE_LEFT
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_ROTATE_LEFT"
 msgid "ROTATE LEFT"
-msgstr "ВРАЩАТЬ НАЛЕВО"
+msgstr "ПОВЕРНУТИ НА ЛІВО"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_ROTATE_RIGHT
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_ROTATE_RIGHT"
 msgid "ROTATE RIGHT"
-msgstr "ВРАЩАТЬ НАПРАВО"
+msgstr "ПОВЕРНУТИ НА ПРАВО"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_UP
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_UP"
@@ -8999,7 +8999,7 @@ msgstr "КАМЕРА ВНИЗ"
 #: STRINGS.UI.HOTKEYS.CAMERA_LEFT
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_LEFT"
 msgid "PAN LEFT"
-msgstr "КАМЕРА ВЛЕВО"
+msgstr "КАМЕРА ВЛІВО"
 
 #: STRINGS.UI.HOTKEYS.CAMERA_RIGHT
 msgctxt "STRINGS.UI.HOTKEYS.CAMERA_RIGHT"
@@ -9009,37 +9009,37 @@ msgstr "КАМЕРА ВПРАВО"
 #: STRINGS.UI.HOTKEYS.PAUSE
 msgctxt "STRINGS.UI.HOTKEYS.PAUSE"
 msgid "CANCEL and OPTIONS"
-msgstr "ВІДМІНА і НАЛАШТУВАННЯ"
+msgstr "ВІДМІНА І НАЛАШТУВАННЯ"
 
 #: STRINGS.UI.HOTKEYS.TOGGLE_WALLS
 msgctxt "STRINGS.UI.HOTKEYS.TOGGLE_WALLS"
 msgid "TOGGLE WALLS UP/DOWN"
-msgstr "РЕЖИМ СТЕН ВЫШЕ/НИЖЕ"
+msgstr "ЗМІНИТИ ВИСОТУ СТІН"
 
 #: STRINGS.UI.HOTKEYS.TOGGLE_VIEW
 msgctxt "STRINGS.UI.HOTKEYS.TOGGLE_VIEW"
 msgid "TOGGLE VIEW"
-msgstr "ПЕРЕКЛЮЧИТЬ ВИД"
+msgstr "ЗМІНИТИ ВИД"
 
 #: STRINGS.UI.GENERATING_WORLD.1
 msgctxt "STRINGS.UI.GENERATING_WORLD.1"
 msgid "Procedural generation algorithm initialized."
-msgstr "Процедурный алгоритм генерирования инициализирован."
+msgstr "Запуск алгоритму процедурної генерації."
 
 #: STRINGS.UI.GENERATING_WORLD.2
 msgctxt "STRINGS.UI.GENERATING_WORLD.2"
 msgid "Computing facility layout and room connectivity..."
-msgstr "Рассчитываем устройство здания и соединение комнат..."
+msgstr "Розрахунок плану будівель і тунелів кімнат..."
 
 #: STRINGS.UI.GENERATING_WORLD.3
 msgctxt "STRINGS.UI.GENERATING_WORLD.3"
 msgid "Facility complete. Generation successful."
-msgstr "Здание построено. Генерирование завершено."
+msgstr "Розроблено план будівлі. Генерування закінчено успішно."
 
 #: STRINGS.UI.TOOLTIPS.CONTROLLABLE
 msgctxt "STRINGS.UI.TOOLTIPS.CONTROLLABLE"
 msgid "CONTROLLABLE"
-msgstr "МОЖНО УПРАВЛЯТЬ"
+msgstr "КЕРОВАНИЙ"
 
 #: STRINGS.UI.TOOLTIPS.CONTROLLABLE_DESC
 msgctxt "STRINGS.UI.TOOLTIPS.CONTROLLABLE_DESC"
@@ -9863,7 +9863,7 @@ msgid ""
 "TIME LEFT\n"
 "%02d:%02d"
 msgstr ""
-"ВРЕМЕНИ ОСТАЛОСЬ\n"
+"ЗАЛИШИЛОСЬ ЧАСУ\n"
 "%02d:%02d"
 
 #: STRINGS.UI.HUD_TOTAL_TIME
@@ -10191,7 +10191,7 @@ msgstr "Этот персонаж не может прийти туда."
 #: STRINGS.UI.WARNING_NO_CENTRAL_2
 msgctxt "STRINGS.UI.WARNING_NO_CENTRAL_2"
 msgid "Only CENTRAL can complete this final task."
-msgstr "Последнее задание может выполнить только ЦЕНТРОВАЯ."
+msgstr "Останнє завдання може виконати тільки ЦЕНТРАЛЯ."
 
 #: STRINGS.UI.WARNING_MOVE_INTO_SIGHT
 msgctxt "STRINGS.UI.WARNING_MOVE_INTO_SIGHT"
@@ -10261,7 +10261,7 @@ msgstr "Охрана сосредоточена на этом участке."
 #: STRINGS.UI.COMBAT_PANEL_TAG
 msgctxt "STRINGS.UI.COMBAT_PANEL_TAG"
 msgid "TAG"
-msgstr "МЕТКА"
+msgstr "МІТКА"
 
 #: STRINGS.UI.COMBAT_PANEL_FAIL_KO
 msgctxt "STRINGS.UI.COMBAT_PANEL_FAIL_KO"
@@ -10271,7 +10271,7 @@ msgstr "0 KO"
 #: STRINGS.UI.COMBAT_PANEL_NO_LOS
 msgctxt "STRINGS.UI.COMBAT_PANEL_NO_LOS"
 msgid "BLOCKED"
-msgstr "НЕ ВИДЕН"
+msgstr "БЛОКОВАНИЙ"
 
 #: STRINGS.UI.COMBAT_PANEL_ARMORED
 msgctxt "STRINGS.UI.COMBAT_PANEL_ARMORED"
@@ -10281,27 +10281,27 @@ msgstr "БРОНЯ"
 #: STRINGS.UI.COMBAT_PANEL_KILL
 msgctxt "STRINGS.UI.COMBAT_PANEL_KILL"
 msgid "KILL"
-msgstr "УБИТЬ"
+msgstr "ВБИТИ"
 
 #: STRINGS.UI.COMBAT_PANEL_IMMUNE
 msgctxt "STRINGS.UI.COMBAT_PANEL_IMMUNE"
 msgid "IMMUNE"
-msgstr "ИММУНИТЕТ"
+msgstr "ІММУНІТЕТ"
 
 #: STRINGS.UI.COMBAT_PANEL_NO_GEAR
 msgctxt "STRINGS.UI.COMBAT_PANEL_NO_GEAR"
 msgid "NO WEAPON"
-msgstr "БЕЗ ОРУЖИЯ"
+msgstr "БЕЗ ЗБРОЇ"
 
 #: STRINGS.UI.COMBAT_PANEL_SEEN
 msgctxt "STRINGS.UI.COMBAT_PANEL_SEEN"
 msgid "SPOTTED BY TARGET"
-msgstr "ОБНАРУЖЕН ЦЕЛЬЮ"
+msgstr "ЦІЛЬ ВАС ПОМІТИЛА"
 
 #: STRINGS.UI.COMBAT_PANEL_COOLDOWN
 msgctxt "STRINGS.UI.COMBAT_PANEL_COOLDOWN"
 msgid "{1} TURNS"
-msgstr "{1} ХОД"
+msgstr "{1} ХІД"
 
 #: STRINGS.UI.COMBAT_PANEL_COOLDOWN_2
 msgctxt "STRINGS.UI.COMBAT_PANEL_COOLDOWN_2"
@@ -10311,27 +10311,27 @@ msgstr "ПЕРЕЗАРЯДКА"
 #: STRINGS.UI.COMBAT_PANEL_NO_ATTACK
 msgctxt "STRINGS.UI.COMBAT_PANEL_NO_ATTACK"
 msgid "ATTACK USED"
-msgstr "ПРИМЕНЕНА АТАКА"
+msgstr "АТАКОВАНО"
 
 #: STRINGS.UI.COMBAT_PANEL_PINNING
 msgctxt "STRINGS.UI.COMBAT_PANEL_PINNING"
 msgid "PINNING UNIT"
-msgstr "ПРИЖАТ К ЗЕМЛЕ"
+msgstr "ПРИБИТИЙ"
 
 #: STRINGS.UI.COMBAT_PANEL_NO_RANGE
 msgctxt "STRINGS.UI.COMBAT_PANEL_NO_RANGE"
 msgid "NOT IN RANGE"
-msgstr "ВНЕ ЗОНЫ ДОСТУПА"
+msgstr "ПОЗА ДОСЯЖНІСТЮ"
 
 #: STRINGS.UI.COMBAT_PANEL_NO_PWR
 msgctxt "STRINGS.UI.COMBAT_PANEL_NO_PWR"
 msgid "NOT ENOUGH PWR"
-msgstr "НЕДОСТАТОЧНО ЭНЕРГИИ"
+msgstr "ЗАМАЛО СИЛИ"
 
 #: STRINGS.UI.MAP_SCREEN_TOTAL_PLAY_TIME
 msgctxt "STRINGS.UI.MAP_SCREEN_TOTAL_PLAY_TIME"
 msgid "TIME ATTACK: <c:F4FF78>%02d:%02d:%02d</>"
-msgstr "АТАКА ПО ВРЕМЕНИ: <c:F4FF78>%02d:%02d:%02d</>"
+msgstr "ЧАС НАПАДУ: <c:F4FF78>%02d:%02d:%02d</>"
 
 #: STRINGS.UI.MAP_SCREEN_DAYS_SPENT
 msgctxt "STRINGS.UI.MAP_SCREEN_DAYS_SPENT"
@@ -10346,12 +10346,12 @@ msgstr "ДЕНЬ %02d /"
 #: STRINGS.UI.MAP_SCREEN_REMAINING
 msgctxt "STRINGS.UI.MAP_SCREEN_REMAINING"
 msgid "HOURS REMAINING <c:F4FF78>%s</>"
-msgstr "ОСТАЛОСЬ <c:F4FF78>%s</> ЧАСОВ"
+msgstr "ЗАЛИШИЛОСЬ <c:F4FF78>%s</> ГОДИН"
 
 #: STRINGS.UI.MAP_SCREEN_EXPIRES
 msgctxt "STRINGS.UI.MAP_SCREEN_EXPIRES"
 msgid "EXPIRES:  <c:F4FF78>%s HOURS</>"
-msgstr "ОСТАЛОСЬ:  <c:F4FF78>%s ЧАСОВ</>"
+msgstr "ЗАЛИШИЛОСЬ:  <c:F4FF78>%s ГОДИН</>"
 
 #: STRINGS.UI.MAP_SCREEN_DISTRESS
 msgctxt "STRINGS.UI.MAP_SCREEN_DISTRESS"
@@ -10366,7 +10366,7 @@ msgstr "МЕСТОПОЛОЖЕНИЕ"
 #: STRINGS.UI.MAP_SCREEN_TRAVEL_TIME
 msgctxt "STRINGS.UI.MAP_SCREEN_TRAVEL_TIME"
 msgid "%s: %d HOURS"
-msgstr "%s: %d ЧАСОВ"
+msgstr "%s: %d ГОДИН"
 
 #: STRINGS.UI.MAP_SCREEN_REMAINING_TOOLTIP
 msgctxt "STRINGS.UI.MAP_SCREEN_REMAINING_TOOLTIP"
@@ -10386,22 +10386,22 @@ msgstr "Суммарная стоимость всех улучшений аге
 #: STRINGS.UI.MAP_CODE_NAME
 msgctxt "STRINGS.UI.MAP_CODE_NAME"
 msgid "CODE NAME: {1}"
-msgstr "КОДОВОЕ ИМЯ: {1}"
+msgstr "КОДОВЕ ІМЯ: {1}"
 
 #: STRINGS.UI.MAP_SECURITY
 msgctxt "STRINGS.UI.MAP_SECURITY"
 msgid "Security: {1}"
-msgstr "Безопасность: {1}"
+msgstr "Безпека: {1}"
 
 #: STRINGS.UI.MAP_SCREEN_EXPIRED
 msgctxt "STRINGS.UI.MAP_SCREEN_EXPIRED"
 msgid "CONTRACT EXPIRED"
-msgstr "КОНТРАКТ ИСТЁК"
+msgstr "КОНТРАКТ НЕДІЙСНИЙ"
 
 #: STRINGS.UI.MAP_SCREEN_DAYS
 msgctxt "STRINGS.UI.MAP_SCREEN_DAYS"
 msgid "DAYS"
-msgstr "ДНЕЙ"
+msgstr "ДНІВ"
 
 #: STRINGS.UI.MAP_SCREEN_DAY_COUNT
 msgctxt "STRINGS.UI.MAP_SCREEN_DAY_COUNT"
@@ -10411,12 +10411,12 @@ msgstr "ДЕНЬ %d"
 #: STRINGS.UI.MAP_INFILTRATE
 msgctxt "STRINGS.UI.MAP_INFILTRATE"
 msgid "> INFILTRATE"
-msgstr "> ПРОНИКНУТЬ"
+msgstr "> ПРОНИКНУТИ"
 
 #: STRINGS.UI.MAP_DONOTINFILTRATE
 msgctxt "STRINGS.UI.MAP_DONOTINFILTRATE"
 msgid "< CANCEL"
-msgstr "< ОТМЕНА"
+msgstr "< ВІДМІНИТИ"
 
 #: STRINGS.UI.MAP_MOREINFO
 msgctxt "STRINGS.UI.MAP_MOREINFO"
@@ -10486,7 +10486,7 @@ msgstr "Вы выбрали ЗАСЕКРЕЧЕННЫЕ компоненты в �
 #: STRINGS.UI.TEAM_SELECT.LOCKED_ALT
 msgctxt "STRINGS.UI.TEAM_SELECT.LOCKED_ALT"
 msgid "CLASSIFIED"
-msgstr "ЗАСЕКРЕЧЕНО"
+msgstr "ГРИФ СЕКРЕТНОСТІ"
 
 #: STRINGS.UI.SAVESLOTS.DELETE_AREYOUSURE
 msgctxt "STRINGS.UI.SAVESLOTS.DELETE_AREYOUSURE"
@@ -10532,12 +10532,12 @@ msgstr "Обучение"
 #: STRINGS.UI.SAVESLOTS.DAYS_SPENT
 msgctxt "STRINGS.UI.SAVESLOTS.DAYS_SPENT"
 msgid "%02d DAYS / %02d HOURS"
-msgstr "%02d ДНЕЙ / %02d ЧАСОВ"
+msgstr "%02d ДНІВ / %02d ГОДИН"
 
 #: STRINGS.UI.SAVESLOTS.EMPTY_SLOT
 msgctxt "STRINGS.UI.SAVESLOTS.EMPTY_SLOT"
 msgid "> START NEW GAME"
-msgstr "> НАЧАТЬ НОВУЮ ИГРУ"
+msgstr "> ПОЧАТИ НОВУ ГРУ"
 
 #: STRINGS.UI.SAVESLOTS.PLAYED_TUTORIAL
 msgctxt "STRINGS.UI.SAVESLOTS.PLAYED_TUTORIAL"
@@ -10553,12 +10553,12 @@ msgstr ""
 #: STRINGS.UI.SAVESLOTS.PLAY_TUTORIAL
 msgctxt "STRINGS.UI.SAVESLOTS.PLAY_TUTORIAL"
 msgid "PLAY TUTORIAL"
-msgstr "НАЧАТЬ ОБУЧЕНИЕ"
+msgstr "ПОЧАТИ НАВЧАННЯ"
 
 #: STRINGS.UI.SAVESLOTS.PLAY_STORY
 msgctxt "STRINGS.UI.SAVESLOTS.PLAY_STORY"
 msgid "SKIP TUTORIAL"
-msgstr "ПРОПУСТИТЬ ОБУЧЕНИЕ"
+msgstr "ПРОПУСТИТИ НАВЧАННЯ"
 
 #: STRINGS.UI.ACTIONS.UNLOCK_DOOR
 msgctxt "STRINGS.UI.ACTIONS.UNLOCK_DOOR"
@@ -10566,8 +10566,8 @@ msgid ""
 "Unlock Door\n"
 "ACTION"
 msgstr ""
-"Разблокировать дверь\n"
-"ДЕЙСТВИЕ"
+"Розблокувати двері\n"
+"ДІЯ"
 
 #: STRINGS.UI.ACTIONS.CLOSE_DOOR
 msgctxt "STRINGS.UI.ACTIONS.CLOSE_DOOR"
@@ -10575,8 +10575,8 @@ msgid ""
 "Close Door\n"
 "ACTION"
 msgstr ""
-"Закрыть дверь\n"
-"ДЕЙСТВИЕ"
+"Закрити двері\n"
+"ДІЯ"
 
 #: STRINGS.UI.ACTIONS.OPEN_DOOR
 msgctxt "STRINGS.UI.ACTIONS.OPEN_DOOR"
@@ -10584,108 +10584,108 @@ msgid ""
 "Open Door\n"
 "ACTION"
 msgstr ""
-"Открыть дверь\n"
-"ДЕЙСТВИЕ"
+"Відкрити двері\n"
+"ДІЯ"
 
 #: STRINGS.UI.ACTIONS.NO_ENTRY
 msgctxt "STRINGS.UI.ACTIONS.NO_ENTRY"
 msgid "No Entry"
-msgstr "Вход воспрещён"
+msgstr "Заборонено"
 
 #: STRINGS.UI.ACTIONS.PICKUP.NAME
 msgctxt "STRINGS.UI.ACTIONS.PICKUP.NAME"
 msgid "PICKUP"
-msgstr "ПОДОБРАТЬ"
+msgstr "ПІДНЯТИ"
 
 #: STRINGS.UI.ACTIONS.PICKUP.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.PICKUP.TOOLTIP"
 msgid "Pickup items"
-msgstr "Подобрать предметы"
+msgstr "Підняти речі"
 
 #: STRINGS.UI.ACTIONS.GIVE.NAME
 msgctxt "STRINGS.UI.ACTIONS.GIVE.NAME"
 msgid "TRANSFER"
-msgstr "ПЕРЕДАТЬ"
+msgstr "ПЕРЕДАТИ"
 
 #: STRINGS.UI.ACTIONS.GIVE.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.GIVE.TOOLTIP"
 msgid "Transfer items"
-msgstr "Передать предметы"
+msgstr "Передати речі"
 
 #: STRINGS.UI.ACTIONS.LOOT_BODY.NAME
 msgctxt "STRINGS.UI.ACTIONS.LOOT_BODY.NAME"
 msgid "STEAL"
-msgstr "ОБВОРОВАТЬ"
+msgstr "ОБІКРАСТИ"
 
 #: STRINGS.UI.ACTIONS.LOOT_BODY.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.LOOT_BODY.TOOLTIP"
 msgid "Steal valuables"
-msgstr "Украсть ценности"
+msgstr "Вкрасти речі"
 
 #: STRINGS.UI.ACTIONS.LOOT_CORPSE.NAME
 msgctxt "STRINGS.UI.ACTIONS.LOOT_CORPSE.NAME"
 msgid "LOOT CORPSE"
-msgstr "ОБЫСКАТЬ ТЕЛО"
+msgstr "ОБШУКАТИ ТІЛО"
 
 #: STRINGS.UI.ACTIONS.LOOT_CORPSE.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.LOOT_CORPSE.TOOLTIP"
 msgid "Approach body to loot this corpse"
-msgstr "Подойдите к телу, чтобы обыскать его"
+msgstr "Наблизтесь до тіла, щоб обшукати його"
 
 #: STRINGS.UI.ACTIONS.SEARCH_SAFE.NAME
 msgctxt "STRINGS.UI.ACTIONS.SEARCH_SAFE.NAME"
 msgid "LOOT CONTENTS"
-msgstr "ЗАБРАТЬ СОДЕРЖИМОЕ"
+msgstr "ЗАБРАТИ ЗНАЙДЕНЕ"
 
 #: STRINGS.UI.ACTIONS.SEARCH_SAFE.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.SEARCH_SAFE.TOOLTIP"
 msgid "Capture the device to unlock its contents"
-msgstr "Возьмите устройство под контроль, чтобы разблокировать содержимое"
+msgstr "Захопіть контроль над пристроєм, щоб розблокувати"
 
 #: STRINGS.UI.ACTIONS.SEARCH_SAFE.TOOLTIP_NOFIREWALLS
 msgctxt "STRINGS.UI.ACTIONS.SEARCH_SAFE.TOOLTIP_NOFIREWALLS"
 msgid "Move next to device to loot its contents"
-msgstr "Подойдите вплотную, чтобы иметь возможность забрать содержимое"
+msgstr "Наблизтесь до пристрою, щоб забрати вмістиме"
 
 #: STRINGS.UI.ACTIONS.OPERATE_DEVICE.NAME
 msgctxt "STRINGS.UI.ACTIONS.OPERATE_DEVICE.NAME"
 msgid "OPERATE DEVICE"
-msgstr "УПРАВЛЯТЬ УСТРОЙСТВОМ"
+msgstr "КЕРУВАТИ ПРИСТРОЄМ"
 
 #: STRINGS.UI.ACTIONS.OPERATE_DEVICE.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.OPERATE_DEVICE.TOOLTIP"
 msgid "Capture the device to unlock it"
-msgstr "Возьмите устройство под контроль, чтобы управлять им"
+msgstr "Захопіть контроль над пристроєм, що б розблокувати"
 
 #: STRINGS.UI.ACTIONS.OPERATE_DEVICE.TOOLTIP_NOFIREWALLS
 msgctxt "STRINGS.UI.ACTIONS.OPERATE_DEVICE.TOOLTIP_NOFIREWALLS"
 msgid "Move next to device to operate it"
-msgstr "Подойдите к устройству, чтобы управлять им"
+msgstr "Наблизтесь до пристрою, щоб керувати ним"
 
 #: STRINGS.UI.ACTIONS.INSTALL_AUGMENT.NAME
 msgctxt "STRINGS.UI.ACTIONS.INSTALL_AUGMENT.NAME"
 msgid "Install Augment"
-msgstr "Установить улучшение"
+msgstr "Встановіть покращення"
 
 #: STRINGS.UI.ACTIONS.INSTALL_AUGMENT.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.INSTALL_AUGMENT.TOOLTIP"
 msgid "Activate the augment installation hardware"
-msgstr "Активировать оборудование, устанавливающее улучшения"
+msgstr "Активувати пристрій встановлення покращень"
 
 #: STRINGS.UI.ACTIONS.CHARGE_INHIBITOR.NAME
 msgctxt "STRINGS.UI.ACTIONS.CHARGE_INHIBITOR.NAME"
 msgid "Charge Inhibitor"
-msgstr "Зарядить Ингибитор"
+msgstr "Зарядка Інгібітора"
 
 #: STRINGS.UI.ACTIONS.CHARGE_INHIBITOR.TOOLTIP
 msgctxt "STRINGS.UI.ACTIONS.CHARGE_INHIBITOR.TOOLTIP"
 msgid "Charge the Archdaemon Inhibitor"
-msgstr "Зарядить ингибитор полирезидентов"
+msgstr "Зарядіть інгібітор Архірезидентів"
 
 #: STRINGS.UI.REASON.NOT_ENOUGH_PWR
 msgctxt "STRINGS.UI.REASON.NOT_ENOUGH_PWR"
 msgid "Not enough PWR"
-msgstr "Не достаточно энергии"
+msgstr "Недостатньо енергії"
 
 #: STRINGS.UI.REASON.NOT_ENOUGH_CREDITS
 msgctxt "STRINGS.UI.REASON.NOT_ENOUGH_CREDITS"
@@ -16262,10 +16262,9 @@ msgid "NOTIFY ME ON UPDATES\n"
 msgstr "Підписка на оновлення\n"
 
 #: STRINGS.SCREENS.STR_3148742419
-#, fuzzy
 msgctxt "STRINGS.SCREENS.STR_3148742419"
 msgid "Would you like to be notified when the next build comes out? Sign up below!"
-msgstr "Хотели бы вы, чтобы вас уведомляли, когда выйдет новая сборка? Подписывайтесь ниже!"
+msgstr "Хочете отримувати повідомлення про вихід нових версій? Підпишіться нижче!"
 
 #: STRINGS.SCREENS.STR_3150045031
 #, fuzzy
@@ -16447,7 +16446,7 @@ msgstr "ВІДЕО"
 #: STRINGS.SCREENS.STR_1890824930
 msgctxt "STRINGS.SCREENS.STR_1890824930"
 msgid "Colour Blind Settings"
-msgstr "Настройки для дальтоніків"
+msgstr "Налаштування для дальтоніків"
 
 #: STRINGS.SCREENS.STR_3568480514
 msgctxt "STRINGS.SCREENS.STR_3568480514"
@@ -16455,10 +16454,9 @@ msgid "Display"
 msgstr "Монітор"
 
 #: STRINGS.SCREENS.STR_240466284
-#, fuzzy
 msgctxt "STRINGS.SCREENS.STR_240466284"
 msgid "Resolution"
-msgstr "Розширення"
+msgstr "Роздільність"
 
 #: STRINGS.SCREENS.STR_3987801701
 msgctxt "STRINGS.SCREENS.STR_3987801701"
@@ -16493,7 +16491,7 @@ msgstr "Повне оформлення"
 #: STRINGS.SCREENS.STR_3631498147
 msgctxt "STRINGS.SCREENS.STR_3631498147"
 msgid "Bloom"
-msgstr "Яскравість свічіння"
+msgstr "Ефект bloom"
 
 #: STRINGS.SCREENS.STR_916358079
 msgctxt "STRINGS.SCREENS.STR_916358079"
@@ -16884,7 +16882,7 @@ msgstr "ПОКРАЩЕННЯ НАВИКІВ"
 #: STRINGS.SCREENS.STR_346165218
 msgctxt "STRINGS.SCREENS.STR_346165218"
 msgid "AUGMENTS"
-msgstr "ПОКРАЩАННЯ"
+msgstr "ПОКРАЩEННЯ"
 
 #: STRINGS.SCREENS.STR_4198555971
 msgctxt "STRINGS.SCREENS.STR_4198555971"
