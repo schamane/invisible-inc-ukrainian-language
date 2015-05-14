@@ -1,7 +1,7 @@
 info face="PF Tempesta Seven" size=-32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
 common lineHeight=52 base=44 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
 page id=0 file="font4_32_r_0.png"
-chars count=254
+chars count=256
 char id=32   x=23    y=41    width=3     height=1     xoffset=-1    yoffset=51    xadvance=16    page=0  chnl=15
 char id=33   x=483   y=198   width=6     height=28    xoffset=-1    yoffset=16    xadvance=8     page=0  chnl=15
 char id=34   x=255   y=297   width=14    height=8     xoffset=-1    yoffset=16    xadvance=16    page=0  chnl=15
@@ -174,6 +174,7 @@ char id=253  x=422   y=0     width=22    height=40    xoffset=-1    yoffset=12  
 char id=254  x=115   y=169   width=22    height=28    xoffset=-1    yoffset=20    xadvance=24    page=0  chnl=15
 char id=255  x=220   y=41    width=22    height=36    xoffset=-1    yoffset=16    xadvance=24    page=0  chnl=15
 char id=1025 x=243   y=41    width=22    height=36    xoffset=-1    yoffset=8     xadvance=24    page=0  chnl=15
+char id=1030 x=465   y=198   width=10    height=28    xoffset=-1    yoffset=16    xadvance=12    page=0  chnl=15
 char id=1040 x=138   y=169   width=22    height=28    xoffset=-1    yoffset=16    xadvance=24    page=0  chnl=15
 char id=1041 x=161   y=169   width=22    height=28    xoffset=-1    yoffset=16    xadvance=24    page=0  chnl=15
 char id=1042 x=184   y=169   width=22    height=28    xoffset=-1    yoffset=16    xadvance=24    page=0  chnl=15
@@ -239,6 +240,7 @@ char id=1101 x=253   y=276   width=22    height=20    xoffset=-1    yoffset=24  
 char id=1102 x=31    y=259   width=28    height=20    xoffset=-1    yoffset=24    xadvance=30    page=0  chnl=15
 char id=1103 x=299   y=275   width=22    height=20    xoffset=-1    yoffset=24    xadvance=24    page=0  chnl=15
 char id=1105 x=276   y=198   width=22    height=28    xoffset=-1    yoffset=16    xadvance=24    page=0  chnl=15
+char id=1110 x=162   y=140   width=22    height=28    xoffset=-1    yoffset=16    xadvance=24    page=0  chnl=15
 char id=8211 x=344   y=294   width=22    height=4     xoffset=-1    yoffset=28    xadvance=24    page=0  chnl=15
 char id=8212 x=313   y=296   width=30    height=4     xoffset=-1    yoffset=28    xadvance=32    page=0  chnl=15
 char id=8216 x=500   y=269   width=9     height=8     xoffset=-1    yoffset=16    xadvance=12    page=0  chnl=15
