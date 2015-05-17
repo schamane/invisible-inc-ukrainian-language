@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 136061\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-05-14 23:58+0100\n"
+"PO-Revision-Date: 2015-05-17 18:03+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Loco-Source-Locale: uk_UA\n"
-"X-Generator: Poedit 1.8beta2\n"
+"X-Generator: Poedit 1.8beta3\n"
 "X-Loco-Parser: loco_parse_po\n"
 "X-Loco-Target-Locale: uk_UA\n"
 
@@ -3746,7 +3746,7 @@ msgstr "Обнаружен незаблокированный нанофаб. Э
 #: STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR
 msgctxt "STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR"
 msgid "DETENTION PROCESSOR"
-msgstr "ПРОЦЕССОР ТЮРМИ"
+msgstr "ПРОЦЕСОР ТЮРМИ"
 
 #: STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR_SUB
 msgctxt "STRINGS.MISSIONS.UTIL.DETENION_PROCESSOR_SUB"
@@ -4680,17 +4680,17 @@ msgstr "Проникает через 1 сетевой экран за 2 ЭНЕ�
 #: STRINGS.PROGRAMS.LOCKPICK.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.SHORT_DESC"
 msgid "USE LOCKPICK"
-msgstr "ПРИМЕНИТЬ ОТМЫЧКУ"
+msgstr "ЗАСТОСУВАТИ ВІДКРИВАШКУ"
 
 #: STRINGS.PROGRAMS.LOCKPICK.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.HUD_DESC"
 msgid "BREAKS 1 FIREWALL"
-msgstr "РАЗРУШИТЬ 1 СЕТЕВОЙ ЭКРАН"
+msgstr "ЗНЯТИ 1 РІВЕНЬ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.LOCKPICK.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.TIP_DESC"
 msgid "BREAKS <c:FF8411>1 FIREWALL</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ <c:FF8411>1 СЕТЕВОЙ ЭКРАН</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ПРОНИКАЄ КРІЗЬ <c:FF8411>1 РІВЕНЬ ЗАХИСТУ</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.RAPIER.NAME
 msgctxt "STRINGS.PROGRAMS.RAPIER.NAME"
@@ -4709,87 +4709,87 @@ msgstr ""
 #: STRINGS.PROGRAMS.RAPIER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.SHORT_DESC"
 msgid "USE RAPIER"
-msgstr "ПРИМЕНИТЬ РАПИРУ"
+msgstr "ЗАСТОСУВАТИ РАПІРУ"
 
 #: STRINGS.PROGRAMS.RAPIER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.HUD_DESC"
 msgid "BREAKS 1 FIREWALL"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ 1 ФАЙРВОЛ"
+msgstr "ПРОНИКАЄ КРІЗЬ 1 РІВЕНЬ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.RAPIER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.RAPIER.TIP_DESC"
 msgid "BREAKS <c:FF8411>1 FIREWALL</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ <c:FF8411>1 ФАЙРВОЛ</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ПРОНИКАЄ КРІЗЬ <c:FF8411>1 РІВЕНЬ ЗАХИСТУ</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.NAME
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.NAME"
 msgid "LOCKPICK v2.0"
-msgstr "ОТМЫЧКА v2.0"
+msgstr "ВІДКРИВАШКА v2.0"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.DESC"
 msgid "Breaks 2 firewalls for 3 PWR."
-msgstr "Проникает через 2 сетевых крана за 3 ЭНЕРГИИ."
+msgstr "Проникает крізь 2 сетевых крана за 3 ЭНЕРГИИ."
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.SHORT_DESC"
 msgid "USE LOCKPICK v2"
-msgstr "ПРИМЕНИТЬ ОТМЫЧКУ v2"
+msgstr "ЗАСТОСУВАТИ ВІДКРИВАШКУ v2"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.HUD_DESC"
 msgid "BREAKS 2 FIREWALLS"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ 2 ФАЙРВОЛА"
+msgstr "ПРОНИКАЄ КРІЗЬ 2 РІВНІ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.LOCKPICK_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK_2.TIP_DESC"
 msgid "BREAKS <c:FF8411>2 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ <c:FF8411>2 ФАЙРВОЛА</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ПРОНИКАЄ КРІЗЬ <c:FF8411>2 РІВНІ ЗАХИСТУ</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.WRENCH_2.NAME
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.NAME"
 msgid "WRENCH 2"
-msgstr "ОТВЁРТКА 2"
+msgstr "ВИКРУТКА 2"
 
 #: STRINGS.PROGRAMS.WRENCH_2.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.DESC"
 msgid "Only breaks firewalls exactly equal to 2 strength"
-msgstr "Проникает строго через 2 сетевых экрана"
+msgstr "Проникає крізь рівно 2 рівні захисту"
 
 #: STRINGS.PROGRAMS.WRENCH_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.SHORT_DESC"
 msgid "USE WRENCH"
-msgstr "ПРИМЕНИТЬ ОТВЁРТКУ"
+msgstr "ЗАСТОСУВАТИ ВИКРУТКУ"
 
 #: STRINGS.PROGRAMS.WRENCH_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.HUD_DESC"
 msgid "BREAKS EXACTLY 2 FIREWALLS"
-msgstr "ПРОНИКАЕТ СТРОГО ЧЕРЕЗ 2 ФАЙРВОЛА"
+msgstr "ПРОНИКАЄ КРІЗЬ РІВНО 2 РІВНІ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.WRENCH_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_2.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>2 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ПРОНИКАЕТ СТРОГО ЧЕРЕЗ <c:FF8411>2 ФАЙРВОЛА</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ПРОНИКАЄ КРІЗЬ РІВНО <c:FF8411>2 РІВНІ ЗАХИСТУ</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.WRENCH_3.NAME
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.NAME"
 msgid "WRENCH 3"
-msgstr "ОТВЁРТКА 3"
+msgstr "ВИКРУТКА 3"
 
 #: STRINGS.PROGRAMS.WRENCH_3.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.DESC"
 msgid "Only breaks firewalls exactly equal to 3 strength"
-msgstr "Проникает строго через 3 сетевых экрана"
+msgstr "Проникає через рівно 3 рівні захисту"
 
 #: STRINGS.PROGRAMS.WRENCH_3.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.SHORT_DESC"
 msgid "USE WRENCH"
-msgstr "ПРИМЕНИТЬ ОТВЁРТКУ"
+msgstr "ЗАСТОСУВАТИ ВИКРУТКУ"
 
 #: STRINGS.PROGRAMS.WRENCH_3.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.HUD_DESC"
 msgid "BREAKS EXACTLY 3 FIREWALLS"
-msgstr "ПРОНИКАЕТ СТРОГО ЧЕРЕЗ 3 ФАЙРВОЛА"
+msgstr "ПРОНИКАЄ КРІЗЬ РІВНО 3 РІВНІ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.WRENCH_3.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_3.TIP_DESC"
@@ -4799,52 +4799,52 @@ msgstr "ПРОНИКАЕТ СТРОГО ЧЕРЕЗ <c:FF8411>3 ФАЙРВОЛА<
 #: STRINGS.PROGRAMS.WRENCH_4.NAME
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.NAME"
 msgid "WRENCH 4"
-msgstr "ОТВЁРТКА 4"
+msgstr "ВИКРУТКА 4"
 
 #: STRINGS.PROGRAMS.WRENCH_4.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.DESC"
 msgid "Only breaks firewalls exactly equal to 4 strength"
-msgstr "Проникает строго через 4 сетевых экрана"
+msgstr "Проникає крізь рівно 4 рівні захисту"
 
 #: STRINGS.PROGRAMS.WRENCH_4.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.SHORT_DESC"
 msgid "USE WRENCH"
-msgstr "ПРИМЕНИТЬ ОТВЁРТКУ"
+msgstr "ЗАСТОСУВАТИ ВИКРУТКУ"
 
 #: STRINGS.PROGRAMS.WRENCH_4.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.HUD_DESC"
 msgid "BREAKS EXACTLY 4 FIREWALLS"
-msgstr "ПРОНИКАЕТ СТРОГО ЧЕРЕЗ 4 ФАЙРВОЛА"
+msgstr "ПРОНИКАЄ КРІЗЬ РІВНО 4 РІВНІ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.WRENCH_4.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_4.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>4 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ПРОНИКАЕТ СТРОГО ЧЕРЕЗ <c:FF8411>4 ФАЙРВОЛА</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ПРОНИКАЄ КРІЗЬ РІВНО <c:FF8411>4 РІВНІ ЗАХИСТУ</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.WRENCH_5.NAME
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.NAME"
 msgid "WRENCH 5"
-msgstr "ОТВЁРТКА 5"
+msgstr "ВИКРУТКА 5"
 
 #: STRINGS.PROGRAMS.WRENCH_5.DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.DESC"
 msgid "Only breaks firewalls exactly equal to 5 strength"
-msgstr "Проникает строго через 5 сетевых экранов"
+msgstr "Проникає крізь рівно 5 рівнів захисту"
 
 #: STRINGS.PROGRAMS.WRENCH_5.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.SHORT_DESC"
 msgid "USE WRENCH"
-msgstr "ПРИМЕНИТЬ ОТВЁРТКУ"
+msgstr "ЗАСТОСУВАТИ ВИКРУТКУ"
 
 #: STRINGS.PROGRAMS.WRENCH_5.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.HUD_DESC"
 msgid "BREAKS EXACTLY 5 FIREWALLS"
-msgstr "ПРОНИКАЕТ СТРОГО ЧЕРЕЗ 5 ФАЙРВОЛА"
+msgstr "ПРОНИКАЄ КРІЗЬ РІВНО 5 РІВНІВ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.WRENCH_5.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.WRENCH_5.TIP_DESC"
 msgid "BREAKS EXACTLY <c:FF8411>5 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ПРОНИКАЕТ СТРОГО ЧЕРЕЗ <c:FF8411>5 ФАЙРВОЛОВ</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ПРОНИКАЄ КРІЗЬ РІВНО <c:FF8411>5 РІВНІВ ЗАХИСТУ</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.HAMMER.NAME
 msgctxt "STRINGS.PROGRAMS.HAMMER.NAME"
@@ -4857,23 +4857,23 @@ msgid ""
 "Breaks 5 firewalls for 5 PWR.\n"
 "3 turn cooldown."
 msgstr ""
-"Проникает через 5 сетевых экранов за 5 ЭНЕРГИИ.\n"
-"Перезарядка — 3 хода."
+"Знімеє 5 рівнів захисту за 5 Енергій.\n"
+"Перезарядка — 3 ходи."
 
 #: STRINGS.PROGRAMS.HAMMER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.HAMMER.SHORT_DESC"
 msgid "USE HAMMER"
-msgstr "ПРИМЕНИТЬ МОЛОТ"
+msgstr "ЗАСТОСУВАТИ МОЛОТ"
 
 #: STRINGS.PROGRAMS.HAMMER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.HAMMER.HUD_DESC"
 msgid "BREAKS 5 FIREWALLS"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ 5 ФАЙРВОЛОВ"
+msgstr "ЗНІМАЄ КРІЗЬ 5 РІВНІВ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.HAMMER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.HAMMER.TIP_DESC"
 msgid "BREAKS <c:FF8411>5 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ <c:FF8411>5 ФАЙРВОЛОВ</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ЗНІМАЄ <c:FF8411>5 РІВНІВ ЗАХИСТУ</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.DAGGER.NAME
 msgctxt "STRINGS.PROGRAMS.DAGGER.NAME"
