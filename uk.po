@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: 136061\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-05-17 18:03+0100\n"
+"PO-Revision-Date: 2015-05-19 22:38+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: uk_UA\n"
@@ -4878,7 +4878,7 @@ msgstr "ЗНІМАЄ <c:FF8411>5 РІВНІВ ЗАХИСТУ</c>. ВАРТІСТ
 #: STRINGS.PROGRAMS.DAGGER.NAME
 msgctxt "STRINGS.PROGRAMS.DAGGER.NAME"
 msgid "DAGGER"
-msgstr "КИНЖАЛ"
+msgstr "КИНДЖАЛ"
 
 #: STRINGS.PROGRAMS.DAGGER.DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.DESC"
@@ -4886,28 +4886,28 @@ msgid ""
 "Breaks 3 firewalls for 1 PWR.\n"
 "5 turn cooldown."
 msgstr ""
-"Проникает через 3 сетевых экрана за 1 ЭНЕРГИЮ.\n"
-"Перезарядка — 5 ходов."
+"Проника крізь 3 рівні захисту за 1 ЕНЕРГІЮ.\n"
+"Перезарядка — 5 ходів."
 
 #: STRINGS.PROGRAMS.DAGGER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.SHORT_DESC"
 msgid "USE DAGGER"
-msgstr "ПРИМЕНИТЬ КИНЖАЛ"
+msgstr "ЗАСТОСУВАТИ КИНДЖАЛ"
 
 #: STRINGS.PROGRAMS.DAGGER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.HUD_DESC"
 msgid "BREAKS 3 FIREWALLS"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ 3 ФАЙРВОЛА"
+msgstr "ПРОНИКАЄ КРІЗЬ 3 РІВНІ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.DAGGER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER.TIP_DESC"
 msgid "BREAKS <c:FF8411>3 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ <c:FF8411>3 ФАЙРВОЛА</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ПРОНИКАЄ КРІЗЬ <c:FF8411>3 РІВНІ ЗАХИСТУ</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.DAGGER_2.NAME
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.NAME"
 msgid "DAGGER v2.0"
-msgstr "КИНЖАЛ v2.0"
+msgstr "КИНДЖАЛ v2.0"
 
 #: STRINGS.PROGRAMS.DAGGER_2.DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.DESC"
@@ -4915,23 +4915,23 @@ msgid ""
 "Breaks 5 firewalls for 3 PWR.\n"
 "4 turn cooldown."
 msgstr ""
-"Проникает через 5 сетевых экранов за 3 ЭНЕРГИИ.\n"
-"Перезарядка — 4 хода."
+"Проникає крізь 5 рівнів захисту за 3 ЕНЕРГІЇ.\n"
+"Перезарядка — 4 ходи."
 
 #: STRINGS.PROGRAMS.DAGGER_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.SHORT_DESC"
 msgid "USE DAGGER"
-msgstr "ПРИМЕНИТЬ КИНЖАЛ"
+msgstr "ЗАСТОСУВАТИ КИНДЖАЛ"
 
 #: STRINGS.PROGRAMS.DAGGER_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.HUD_DESC"
 msgid "BREAKS 5 FIREWALLS"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ 5 ФАЙРВОЛОВ"
+msgstr "ПРОНИКАЄ КРІЗЬ 5 РІВНІВ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.DAGGER_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.DAGGER_2.TIP_DESC"
 msgid "BREAKS <c:FF8411>5 FIREWALLS</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ <c:FF8411>5 ФАЙРВОЛОВ</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ПРОНИКАЄ КРІЗЬ <c:FF8411>5 РІВНІВ ЗАХИСТУ</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.PARASITE.NAME
 msgctxt "STRINGS.PROGRAMS.PARASITE.NAME"
@@ -4944,28 +4944,28 @@ msgid ""
 "Infect target to break 1 firewall at the start of each turn.\n"
 "+1 PWR cost per hosted parasite."
 msgstr ""
-"Инфицирует цель, чтобы проникать через 1 сетевой экран в начале каждого хода.\n"
-"+1 ЭНЕРГИИ на каждого паразита."
+"Заражає ціль, щоб знімати 1 рівень захисту на початку кожного ходу.\n"
+"+1 ЕНЕРГІЇ на кожного встановленого паразита."
 
 #: STRINGS.PROGRAMS.PARASITE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.SHORT_DESC"
 msgid "HOST PARASITE"
-msgstr "ВНЕДРИТЬ ПАРАЗИТА"
+msgstr "ЗАРАЗИТИ ПАРАЗИТОМ"
 
 #: STRINGS.PROGRAMS.PARASITE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.HUD_DESC"
 msgid "BREAKS 1 FIREWALL PER TURN"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ 1 ФАЙРВОЛ ЗА ХОД"
+msgstr "ЗНІМАЄ 1 РІВНЬ ЗАХИСТУ ЗА ХІД"
 
 #: STRINGS.PROGRAMS.PARASITE.ALREADY_HOSTED
 msgctxt "STRINGS.PROGRAMS.PARASITE.ALREADY_HOSTED"
 msgid "ALREADY HAS PARASITE"
-msgstr "ПАРАЗИТ УЖЕ ВНЕДРЁН"
+msgstr "ПАРАЗИТОМ УЖЕ ЗАРАЖЕНО"
 
 #: STRINGS.PROGRAMS.PARASITE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE.TIP_DESC"
 msgid "HOST <c:FF8411>PARASITE</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ВНЕДРИТЬ <c:FF8411>ПАРАЗИТА</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ЗАРАЗИТИ <c:FF8411>ПАРАЗИТОМ</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.PARASITE_2.NAME
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.NAME"
@@ -4978,58 +4978,58 @@ msgid ""
 "Infect target to break 2 firewalls at the start of each turn.\n"
 "+1 PWR cost per hosted parasite."
 msgstr ""
-"Инфицирует цель, чтобы проникать через 2 сетевых экрана в начале каждого хода.\n"
-"Каждый паразит требует +1 ЭНЕРГИИ."
+"Заражає ціль, щоб знімати 2 рівні захисту на початку кожного ходу.\n"
+"+1 ЕНЕРГІЇ на кожного встановленого паразита."
 
 #: STRINGS.PROGRAMS.PARASITE_2.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.SHORT_DESC"
 msgid "HOST PARASITE v2"
-msgstr "ВНЕДРИТЬ ПАРАЗИТА v2"
+msgstr "ЗАРАЗИТИ ПАРАЗИТОМ v2"
 
 #: STRINGS.PROGRAMS.PARASITE_2.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.HUD_DESC"
 msgid "BREAKS 2 FIREWALL PER TURN"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ 2 ФАЙРВОЛА ЗА ХОД"
+msgstr "ЗНІМАЄ 2 РІВНІ ЗАХИСТУ ЗА ХОД"
 
 #: STRINGS.PROGRAMS.PARASITE_2.ALREADY_HOSTED
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.ALREADY_HOSTED"
 msgid "ALREADY HAS PARASITE"
-msgstr "ПАРАЗИТ УЖЕ ВНЕДРЁН"
+msgstr "ПАРАЗИТОМ УЖЕ ЗАРАЖЕНО"
 
 #: STRINGS.PROGRAMS.PARASITE_2.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.PARASITE_2.TIP_DESC"
 msgid "HOST <c:FF8411>PARASITE 2.0</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ВНЕДРИТЬ <c:FF8411>ПАРАЗИТА 2.0</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ЗАРАЗИТИ <c:FF8411>ПАРАЗИТОМ 2.0</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.SNIFFER.NAME
 msgctxt "STRINGS.PROGRAMS.SNIFFER.NAME"
 msgid "DAEMON SNIFFER"
-msgstr "СНИФФЕР РЕЗИДЕНТОВ"
+msgstr "СНІФФЕР РЕЗИДЕНТІВ"
 
 #: STRINGS.PROGRAMS.SNIFFER.DESC
 msgctxt "STRINGS.PROGRAMS.SNIFFER.DESC"
 msgid "Reveals hidden Daemons and identifies Daemon types."
-msgstr "Выявляет скрытые резиденты и идентифицирует их тип."
+msgstr "Виявляє приховані резиденти і ідентифікує їх тип."
 
 #: STRINGS.PROGRAMS.SNIFFER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.SNIFFER.SHORT_DESC"
 msgid "REVEAL DAEMON"
-msgstr "ВЫЯВЛЯЕТ НАЛИЧИЕ РЕЗИДЕНТА"
+msgstr "ВИЯВЛЯЄ РЕЗИДЕНТА"
 
 #: STRINGS.PROGRAMS.SNIFFER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.SNIFFER.HUD_DESC"
 msgid "REVEALS DAEMON"
-msgstr "ВЫЯВЛЯЕТ НАЛИЧИЕ РЕЗИДЕНТА"
+msgstr "ВИЯВЛЯЄ РЕЗИДЕНТА"
 
 #: STRINGS.PROGRAMS.SNIFFER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.SNIFFER.TIP_DESC"
 msgid "REVEALS <c:FF8411>DAEMON</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ВЫЯВЛЯЕТ НАЛИЧИЕ <c:FF8411>РЕЗИДЕНТА</c>. ЦЕНА: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ВИЯВЛЯЄ <c:FF8411>РЕЗИДЕНТА</c>. ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.HUNTER.NAME
 msgctxt "STRINGS.PROGRAMS.HUNTER.NAME"
 msgid "HUNTER"
-msgstr "ОХОТНИК"
+msgstr "МИСЛИВЕЦЬ"
 
 #: STRINGS.PROGRAMS.HUNTER.DESC
 msgctxt "STRINGS.PROGRAMS.HUNTER.DESC"
@@ -5037,43 +5037,43 @@ msgid ""
 "Kills Daemons for 5 PWR.\n"
 "3 turn cooldown"
 msgstr ""
-"Уничтожает резидент за 5 ЭНЕРГИИ.\n"
-"Перезарядка - 3 хода."
+"Знищує резидента за 5 ЕНЕРГІЇ.\n"
+"Перезарядка - 3 ходи."
 
 #: STRINGS.PROGRAMS.HUNTER.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.HUNTER.SHORT_DESC"
 msgid "USE HUNTER"
-msgstr "ИСПОЛЬЗОВАТЬ \"ОХОТНИК\""
+msgstr "ЗАСТОСУВАТИ МИСЛИВЦЯ"
 
 #: STRINGS.PROGRAMS.HUNTER.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.HUNTER.HUD_DESC"
 msgid "KILL DAEMON"
-msgstr "УНИЧТОЖИТЬ РЕЗИДЕНТ"
+msgstr "ЗНИЩИТИ РЕЗИДЕНТА"
 
 #: STRINGS.PROGRAMS.HUNTER.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.HUNTER.TIP_DESC"
 msgid "KILLS <c:FF8411>DAEMON</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "УНИЧТОЖАЕТ <c:FF8411>РЕЗИДЕНТ</c> ЦЕНА: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgstr "ЗНИЩУЄ <c:FF8411>РЕЗИДЕНТА</c> ВАРТІСТЬ: <c:77FF77>%d ЕНЕРГІЇ</c>"
 
 #: STRINGS.PROGRAMS.PING.NAME
 msgctxt "STRINGS.PROGRAMS.PING.NAME"
 msgid "PING"
-msgstr "ПИСК"
+msgstr "СТУКІТ"
 
 #: STRINGS.PROGRAMS.PING.DESC
 msgctxt "STRINGS.PROGRAMS.PING.DESC"
 msgid "Create a distraction noise"
-msgstr "Генерирует привлекающий шум"
+msgstr "Відволікти шумом"
 
 #: STRINGS.PROGRAMS.PING.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.PING.SHORT_DESC"
 msgid "MAKE NOISE"
-msgstr "ИЗДАЁТ ШУМ"
+msgstr "ПОШУМІТИ"
 
 #: STRINGS.PROGRAMS.PING.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.PING.HUD_DESC"
 msgid "CREATES NOISE DISTRACTION"
-msgstr "СОЗДАЁТ ШУМОВУЮ ПРИМАНКУ"
+msgstr "ВІДВОЛІКТИ ШУМОМ"
 
 #: STRINGS.PROGRAMS.PING.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.PING.TIP_DESC"
@@ -5083,22 +5083,22 @@ msgstr ""
 #: STRINGS.PROGRAMS.SEED.NAME
 msgctxt "STRINGS.PROGRAMS.SEED.NAME"
 msgid "SEED"
-msgstr "СЕМЯ"
+msgstr "ЗЕРНО"
 
 #: STRINGS.PROGRAMS.SEED.DESC
 msgctxt "STRINGS.PROGRAMS.SEED.DESC"
 msgid "Your first program each turn costs 4 PWR less to run."
-msgstr "Первая использованная программа стоит на 4 ЭНЕРГИИ меньше."
+msgstr "Перша програма коштуватиме  4 ЕНЕРГІЇ меньше за кожен хід."
 
 #: STRINGS.PROGRAMS.SEED.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.SEED.SHORT_DESC"
 msgid "FIRST PROGRAM EACH TURN COSTS 4 PWR LESS"
-msgstr "ПЕРВАЯ ПРОГРАММА СТОИТ НА 4 ЭНЕРГИИ МЕНЬШЕ"
+msgstr "ПЕРША ПРОГРАМА КОШТУЄ НА 4 ЕНЕРГІЇ МЕНЬШЕ ЗА ХІД"
 
 #: STRINGS.PROGRAMS.SEED.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.SEED.HUD_DESC"
 msgid "FIRST PROGRAM EACH TURN COSTS 4 PWR LESS"
-msgstr "ПЕРВАЯ ПРОГРАММА СТОИТ НА 4 ЭНЕРГИИ МЕНЬШЕ"
+msgstr "ПЕРША ПРОГРАМА КОШТУЄ НА 4 ЕНЕРГІЇ МЕНЬШЕ ЗА ХІД"
 
 #: STRINGS.PROGRAMS.SEED.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.SEED.TIP_DESC"
@@ -5111,28 +5111,28 @@ msgid ""
 "SEED\n"
 "-4 PWR COST"
 msgstr ""
-"СЕМЯ\n"
-"-4 ОТ ЭН. ЦЕНЫ"
+"ЗЕРНО\n"
+"-4 ЕНЕРГІЇ МЕНЬШЕ"
 
 #: STRINGS.PROGRAMS.ORACLE.NAME
 msgctxt "STRINGS.PROGRAMS.ORACLE.NAME"
 msgid "ORACLE"
-msgstr "ОРАКЛ"
+msgstr "ОРАКУЛ"
 
 #: STRINGS.PROGRAMS.ORACLE.DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.DESC"
 msgid "Take over a random camera on the level"
-msgstr "Получить управление над случайной камерой уровня"
+msgstr "Захопити одну з камер на рівні"
 
 #: STRINGS.PROGRAMS.ORACLE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.SHORT_DESC"
 msgid "TAKE RANDOM CAMERA"
-msgstr "УПРАВЛЯТЬ СЛУЧАЙНОЙ КАМЕРОЙ"
+msgstr "ЗАХОПИТИ ВИПАДКОВУ КАМЕРУ"
 
 #: STRINGS.PROGRAMS.ORACLE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.HUD_DESC"
 msgid "CONTROL A RANDOM CAMERA"
-msgstr "УПРАВЛЕНИЕ СЛУЧАЙНОЙ КАМЕРОЙ"
+msgstr "КЕРУВАТИ ВИПАДКОВОЮ КАМЕРОЮ"
 
 #: STRINGS.PROGRAMS.ORACLE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.ORACLE.TIP_DESC"
@@ -5142,7 +5142,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.FUSION.NAME
 msgctxt "STRINGS.PROGRAMS.FUSION.NAME"
 msgid "FUSION"
-msgstr "ЗАЖИГАНИЕ"
+msgstr "ПЛАВКА"
 
 #: STRINGS.PROGRAMS.FUSION.DESC
 msgctxt "STRINGS.PROGRAMS.FUSION.DESC"
@@ -5150,18 +5150,18 @@ msgid ""
 "Gain 3 PWR per turn for 4 turns.\n"
 "4 turn cooldown."
 msgstr ""
-"Даёт 3 ЭНЕРГИИ/ход в течении 4 ходов.\n"
-"Перезарядка — 4 хода."
+"Дає 3 ЕНЕРГІЇ/хід протягом 4 ходів.\n"
+"Перезарядка — 4 ходи."
 
 #: STRINGS.PROGRAMS.FUSION.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.FUSION.SHORT_DESC"
 msgid "GAIN PWR ON COOLDOWN"
-msgstr "ДАЁТ ЭНЕРГИЮ КАЖДЫЙ ХОД"
+msgstr "ДАЄ ЕНЕРГІЮ НА ПЕРЕЗАРЯДЦІ"
 
 #: STRINGS.PROGRAMS.FUSION.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.FUSION.HUD_DESC"
 msgid "GAIN 3 PWR EACH TURN FOR 4 TURNS"
-msgstr "ДАЁТ 3 ЭНЕРГИИ/ХОД ТЕЧЕНИИ 4 ХОДОВ"
+msgstr "ДАЄ 3 ЕНЕРГІЇ/ХІД ПРОТЯГОМ 4 ХОДІВ"
 
 #: STRINGS.PROGRAMS.FUSION.WARNING
 msgctxt "STRINGS.PROGRAMS.FUSION.WARNING"
@@ -5169,8 +5169,8 @@ msgid ""
 "FUSION\n"
 "+ 3 PWR"
 msgstr ""
-"ЗАЖИГАНИЕ\n"
-"+3 ЭНЕРГИИ"
+"ПЛАВКА\n"
+"+3 ЕНЕРГІЇ"
 
 #: STRINGS.PROGRAMS.FUSION.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.FUSION.TIP_DESC"
@@ -5185,17 +5185,17 @@ msgstr "ФАУСТ"
 #: STRINGS.PROGRAMS.FAUST.DESC
 msgctxt "STRINGS.PROGRAMS.FAUST.DESC"
 msgid "Gain 2 PWR per turn. 20% chance of a Daemon installing."
-msgstr "Даёт 2 ЭНЕРГИИ за ход. 20% шанс того, что будет установлен резидент."
+msgstr "Дає 2 ЕНЕРГІЇ за хід. 20% шанс на встановлення резидента."
 
 #: STRINGS.PROGRAMS.FAUST.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.FAUST.SHORT_DESC"
 msgid "AUTO GENERATE PWR, CHANCE OF DAEMON"
-msgstr "ПОДКАЧКА ЭНЕРГИИ, ВЕРОЯТНОСТЬ РЕЗИДЕНТА"
+msgstr "ВІДНОВЛЕННЯ ЕНЕРГІЇ, ЙМОВІРНІСТЬ ДЛЯ РЕЗИДЕНТА"
 
 #: STRINGS.PROGRAMS.FAUST.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.FAUST.HUD_DESC"
 msgid "GAIN 2 PWR PER TURN, 20% CHANCE OF DAEMON"
-msgstr "ДАЁТ 2 ЭНЕРГИИ НА ХОД, 20% ВЕРОЯТНОСТЬ РЕЗИДЕНТА"
+msgstr "ДАЄ 2 ЕНЕРГІЇ ЗА ХІД, 20% ЙМОВІРНІСТЬ ДЛЯ РЕЗИДЕНТА"
 
 #: STRINGS.PROGRAMS.FAUST.WARNING
 msgctxt "STRINGS.PROGRAMS.FAUST.WARNING"
@@ -5204,7 +5204,7 @@ msgid ""
 "+ 2 PWR"
 msgstr ""
 "ФАУСТ\n"
-"+2 ЭНЕРГИИ"
+"+2 ЕНЕРГІЇ"
 
 #: STRINGS.PROGRAMS.FAUST.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.FAUST.TIP_DESC"
@@ -5214,7 +5214,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.BRIMSTONE.NAME
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.NAME"
 msgid "BRIMSTONE"
-msgstr "БРИМСТОН"
+msgstr "СІРКА"
 
 #: STRINGS.PROGRAMS.BRIMSTONE.DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.DESC"
@@ -5222,18 +5222,18 @@ msgid ""
 "Breaks 1 firewall for 3 PWR.\n"
 "PASSIVE: +10% chance of DAEMON REVERSAL."
 msgstr ""
-"Проникает через 1 сетевой экран за 3 ЭНЕРГИИ.\n"
-"ПАССИВНО: +10% шанс инвертировать резидент."
+"Проникає крізь 1 рівень захисту за 3 ЕНЕРГІЇ.\n"
+"ПАСИВНЕ: +10% шанс зняття резидента."
 
 #: STRINGS.PROGRAMS.BRIMSTONE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.SHORT_DESC"
 msgid "BREAKS 1 FIREWALL"
-msgstr "ПРОНИКАЕТ СКВОЗЬ 1 СЕТЕВОЙ ЭКРАН"
+msgstr "ПРОНИКАЄ КРІЗЬ 1 РІВЕНЬ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.BRIMSTONE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.HUD_DESC"
 msgid "BREAKS 1 FIREWALL"
-msgstr "ПРОНИКАЕТ СКВОЗЬ 1 СЕТЕВОЙ ЭКРАН"
+msgstr "ПРОНИКАЄ КРІЗЬ 1 РІВЕНЬ ЗАХИСТУ"
 
 #: STRINGS.PROGRAMS.BRIMSTONE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.BRIMSTONE.TIP_DESC"
@@ -5243,7 +5243,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.LOVE.NAME
 msgctxt "STRINGS.PROGRAMS.LOVE.NAME"
 msgid "TURING"
-msgstr "ТЬЮРИНГ"
+msgstr "ТЬЮРІНГ"
 
 #: STRINGS.PROGRAMS.LOVE.DESC
 msgctxt "STRINGS.PROGRAMS.LOVE.DESC"
@@ -5251,18 +5251,18 @@ msgid ""
 "Reduces all firewalls by 2 for 5 PWR.\n"
 "3 turn cooldown."
 msgstr ""
-"Уменьшает все сетевые экраны на 2 за 5 ЭНЕРГИИ.\n"
-"Перезарядка — 3 хода."
+"Зменьшує на 2 рівні захисти за 5 ЕНЕРГІЇ.\n"
+"Перезарядка — 3 ходи."
 
 #: STRINGS.PROGRAMS.LOVE.SHORT_DESC
 msgctxt "STRINGS.PROGRAMS.LOVE.SHORT_DESC"
 msgid "REDUCES ALL FIREWALLS BY 2"
-msgstr "УМЕНЬШАЕТ ВСЕ СЕТЕВЫЕ ЭКРАНЫ НА 2"
+msgstr "ЗМЕНЬШУЄ НА 2 РІВНІ ВСІ ЗАХИСТИ"
 
 #: STRINGS.PROGRAMS.LOVE.HUD_DESC
 msgctxt "STRINGS.PROGRAMS.LOVE.HUD_DESC"
 msgid "REDUCES ALL FIREWALLS BY 2"
-msgstr "УМЕНЬШАЕТ ВСЕ СЕТЕВЫЕ ЭКРАНЫ НА 2"
+msgstr "ЗМЕНЬШУЄ НА 2 РІВНІ ВСІ ЗАХИСТИ"
 
 #: STRINGS.PROGRAMS.LOVE.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LOVE.TIP_DESC"
@@ -5272,7 +5272,7 @@ msgstr ""
 #: STRINGS.PROGRAMS.WILDFIRE.NAME
 msgctxt "STRINGS.PROGRAMS.WILDFIRE.NAME"
 msgid "WILDFIRE"
-msgstr "ПОЖАР"
+msgstr "ПОЖЕЖА"
 
 #: STRINGS.PROGRAMS.WILDFIRE.DESC
 msgctxt "STRINGS.PROGRAMS.WILDFIRE.DESC"
